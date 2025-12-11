@@ -34,3 +34,6 @@ build/
 
 # Generated frog images
 phro
+downloaded.json
+extractIds.js
+

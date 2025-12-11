@@ -6,6 +6,38 @@ import axios from "axios";
 
 dotenv.config();
 
+// --------------------------------------
+// NO-REPEAT HELPER
+// --------------------------------------
+function chooseNonRepeatingRandom(list, history, historyLimit = 10) {
+  if (list.length === 0) return null;
+
+  let choice;
+
+  // Try multiple times to avoid repeats
+  for (let i = 0; i < 20; i++) {
+    choice = list[Math.floor(Math.random() * list.length)];
+    if (!history.includes(choice)) break;
+  }
+
+  history.push(choice);
+
+  if (history.length > historyLimit) {
+    history.shift(); // remove oldest
+  }
+
+  return choice;
+}
+
+// --------------------------------------
+// HISTORY BUFFERS FOR NON-REPEAT LOGIC
+// --------------------------------------
+const phrogHistory = [];     // last 10 phrog images
+const frogFactHistory = [];  // last 10 frog facts
+
+// --------------------------------------
+// DISCORD CLIENT
+// --------------------------------------
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
@@ -14,16 +46,20 @@ const client = new Client({
   ]
 });
 
+// --------------------------------------
+// MESSAGE HANDLER
+// --------------------------------------
 client.on("messageCreate", async (message) => {
   if (message.author.bot) return;
 
   const msg = message.content.toLowerCase();
 
-  // -----------------------------
-  // !phrog → Random frog image
-  // -----------------------------
+  // ==============================
+  // !phrog → random frog image
+  // ==============================
   if (msg === "!phrog") {
     const folder = "./phrogs";
+
     const files = fs.readdirSync(folder).filter(file =>
       file.endsWith(".png") ||
       file.endsWith(".jpg") ||
@@ -31,43 +67,57 @@ client.on("messageCreate", async (message) => {
       file.endsWith(".gif")
     );
 
-    if (files.length === 0) return message.reply("No phrogs found 😭");
+    if (files.length === 0) {
+      return message.reply("No phrogs found 😭");
+    }
 
-    const randomFile = files[Math.floor(Math.random() * files.length)];
+    // No-repeat protection
+    const randomFile = chooseNonRepeatingRandom(files, phrogHistory, 10);
     const filePath = path.join(folder, randomFile);
 
     const embed = new EmbedBuilder()
       .setTitle("🐸 Random Phrog")
       .setColor("#4CAF50")
-      .setDescription("Your daily dose of phrog energy 💚")
+      .setDescription("Here's a fresh phrog for you 💚")
       .setImage("attachment://" + randomFile);
 
-    await message.channel.send({
+    return message.channel.send({
       embeds: [embed],
       files: [{ attachment: filePath, name: randomFile }]
     });
   }
 
-  // -----------------------------
-  // !frog → Random frog fact (API)
-  // -----------------------------
+  // ==============================
+  // !frog → random frog fact (API)
+  // ==============================
   if (msg === "!frog") {
     try {
-      const res = await axios.get("https://frogfact.codeoce.com/random");
-      const fact = res.data;
+      // Try up to 5 times to avoid duplicates
+      let fact = "";
+      for (let i = 0; i < 5; i++) {
+        const res = await axios.get("https://frogfact.codeoce.com/random");
+        fact = res.data;
+        if (!frogFactHistory.includes(fact)) break;
+      }
+
+      frogFactHistory.push(fact);
+      if (frogFactHistory.length > 10) frogFactHistory.shift();
 
       const embed = new EmbedBuilder()
         .setTitle("🐸 Frog Fact")
         .setColor("#43B581")
         .setDescription(fact);
 
-      await message.channel.send({ embeds: [embed] });
+      return message.channel.send({ embeds: [embed] });
 
-    } catch (err) {
-      console.error(err);
-      message.channel.send("Couldn't fetch a frog fact 😭");
+    } catch (error) {
+      console.error(error);
+      return message.channel.send("Couldn't fetch a frog fact right now 😭");
     }
   }
 });
 
+// --------------------------------------
+// LOGIN
+// --------------------------------------
 client.login(process.env.BOT_TOKEN);
