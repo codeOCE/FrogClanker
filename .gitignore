@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/*
+debug.log
+error.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Cache
+.cache/
+.tmp/
+.temp/
+
+# VSCode
+.vscode/
+
+# Generated frog images
+phro

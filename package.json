@@ -1,0 +1,16 @@
+{
+  "name": "phrog-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that sends random frog images.",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1",
+    "fs-extra": "^11.3.2"
+  }
+}
