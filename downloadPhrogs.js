@@ -12,7 +12,7 @@ if (!PEXELS_API_KEY) {
   process.exit(1);
 }
 
-const DOWNLOAD_COUNT = 50;        // How many new frogs to download
+const DOWNLOAD_COUNT = 150;        // How many new frogs to download
 const SAVE_FOLDER = "./phrogs";   // Save location
 const TRACKER_FILE = "./downloaded.json";
 
