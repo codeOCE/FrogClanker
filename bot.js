@@ -91,35 +91,36 @@ client.on("messageCreate", async (message) => {
   // !frog → random frog fact (API)
   // ==============================
   if (msg === "!frog") {
-  try {
-    // Try up to 5 times to avoid duplicates
-    let fact = "";
-    for (let i = 0; i < 5; i++) {
-      const res = await axios.get("https://frogfact.codeoce.com/random");
-      fact = res.data;
-      if (!frogFactHistory.includes(fact)) break;
+    try {
+      // Try up to 5 times to avoid duplicates
+      let fact = "";
+      for (let i = 0; i < 5; i++) {
+        const res = await axios.get("https://frogfact.codeoce.com/random");
+        fact = res.data;
+        if (!frogFactHistory.includes(fact)) break;
+      }
+
+      frogFactHistory.push(fact);
+      if (frogFactHistory.length > 10) frogFactHistory.shift();
+
+      const embed = new EmbedBuilder()
+        .setTitle("🐸 Frog Fact")
+        .setColor("#43B581")
+        .setDescription(fact)
+        .setThumbnail("attachment://frogfact.png"); // your image
+
+      return message.channel.send({
+        embeds: [embed],
+        files: [{ attachment: "./assets/frogfact.png", name: "frogfact.png" }]
+      });
+
+    } catch (error) {
+      console.error(error);
+      return message.channel.send("Couldn't fetch a frog fact right now 😭");
     }
+  } 
 
-    frogFactHistory.push(fact);
-    if (frogFactHistory.length > 10) frogFactHistory.shift();
-
-    const embed = new EmbedBuilder()
-      .setTitle("🐸 Frog Fact")
-      .setColor("#43B581")
-      .setDescription(fact)
-      .setThumbnail("attachment://frogfact.png"); // your image
-
-    return message.channel.send({
-      embeds: [embed],
-      files: [{ attachment: "./assets/frogfact.png", name: "frogfact.png" }]
-    });
-
-  } catch (error) {
-    console.error(error);
-    return message.channel.send("Couldn't fetch a frog fact right now 😭");
-  }
-}
-
+}); 
 
 // --------------------------------------
 // LOGIN
