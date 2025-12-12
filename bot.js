@@ -13,13 +13,35 @@ import axios from "axios";
 
 dotenv.config();
 
-/* ---------------- Helpers ---------------- */
+/* ==================================================
+   HELPERS
+================================================== */
 
 function shuffle(arr) {
   return [...arr].sort(() => Math.random() - 0.5);
 }
 
-/* ---------------- Frog Quiz Loader ---------------- */
+function chooseNonRepeatingRandom(list, history, limit = 10) {
+  let choice;
+  for (let i = 0; i < 20; i++) {
+    choice = list[Math.floor(Math.random() * list.length)];
+    if (!history.includes(choice)) break;
+  }
+  history.push(choice);
+  if (history.length > limit) history.shift();
+  return choice;
+}
+
+/* ==================================================
+   HISTORIES
+================================================== */
+
+const phrogHistory = [];
+const frogFactHistory = [];
+
+/* ==================================================
+   FROG QUIZ DATA LOADER
+================================================== */
 
 const QUIZ_DIR = "./frogquiz";
 
@@ -29,19 +51,21 @@ function loadFrogSpecies() {
   return fs.readdirSync(QUIZ_DIR, { withFileTypes: true })
     .filter(d => d.isDirectory())
     .map(dir => {
-      const speciesDir = path.join(QUIZ_DIR, dir.name);
-      const images = fs.readdirSync(speciesDir)
+      const dirPath = path.join(QUIZ_DIR, dir.name);
+      const images = fs.readdirSync(dirPath)
         .filter(f => /^img\d+\.jpg$/i.test(f))
         .map(f => ({
           name: f,
-          path: path.join(speciesDir, f)
+          path: path.join(dirPath, f)
         }));
 
       if (!images.length) return null;
 
       return {
         key: dir.name,
-        display: dir.name.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase()),
+        display: dir.name
+          .replace(/_/g, " ")
+          .replace(/\b\w/g, c => c.toUpperCase()),
         images
       };
     })
@@ -50,12 +74,16 @@ function loadFrogSpecies() {
 
 const frogSpecies = loadFrogSpecies();
 
-/* ---------------- Active Quiz Runs ---------------- */
+/* ==================================================
+   ACTIVE QUIZ RUNS
+================================================== */
 
 // key = channelId:userId
 const activeQuizRuns = new Map();
 
-/* ---------------- Discord Client ---------------- */
+/* ==================================================
+   DISCORD CLIENT
+================================================== */
 
 const client = new Client({
   intents: [
@@ -65,7 +93,17 @@ const client = new Client({
   ]
 });
 
-/* ---------------- Quiz Logic ---------------- */
+/* ==================================================
+   QUIZ FUNCTIONS
+================================================== */
+
+function disableRow(row) {
+  return [
+    new ActionRowBuilder().addComponents(
+      row.components.map(b => ButtonBuilder.from(b).setDisabled(true))
+    )
+  ];
+}
 
 async function sendQuizQuestion(channel, userId, run) {
   const correct = frogSpecies[Math.floor(Math.random() * frogSpecies.length)];
@@ -101,8 +139,9 @@ async function sendQuizQuestion(channel, userId, run) {
     if (!activeQuizRuns.has(run.key)) return;
 
     run.current++;
+
     await msg.edit({
-      content: `⏰ Time’s up! It was **${correct.display}**.`,
+      content: `⏰ **Time’s up!** It was **${correct.display}**.`,
       components: disableRow(row)
     });
 
@@ -117,14 +156,6 @@ async function sendQuizQuestion(channel, userId, run) {
   };
 }
 
-function disableRow(row) {
-  return [
-    new ActionRowBuilder().addComponents(
-      row.components.map(b => ButtonBuilder.from(b).setDisabled(true))
-    )
-  ];
-}
-
 async function nextQuestion(channel, userId) {
   const key = `${channel.id}:${userId}`;
   const run = activeQuizRuns.get(key);
@@ -133,46 +164,103 @@ async function nextQuestion(channel, userId) {
   if (run.current >= 3) {
     activeQuizRuns.delete(key);
     return channel.send(
-      `🏁 **Quiz complete!**\n\n**Score:** ${run.score} / 3 🐸`
+      `🏁 **Quiz complete!**\n\n🐸 **Score:** ${run.score} / 3`
     );
   }
 
   await sendQuizQuestion(channel, userId, run);
 }
 
-/* ---------------- Message Handler ---------------- */
+/* ==================================================
+   MESSAGE HANDLER
+================================================== */
 
 client.on("messageCreate", async (message) => {
   if (message.author.bot) return;
-  if (message.content.toLowerCase() !== "!frogquiz") return;
+  const msg = message.content.toLowerCase();
 
-  if (frogSpecies.length < 4) {
-    return message.reply("Not enough frog species for the quiz.");
+  /* ---------- !phrog ---------- */
+  if (msg === "!phrog") {
+    const files = fs.readdirSync("./phrogs")
+      .filter(f => /\.(png|jpe?g|gif)$/i.test(f));
+
+    if (!files.length) return message.reply("No phrogs found 😭");
+
+    const file = chooseNonRepeatingRandom(files, phrogHistory);
+    const embed = new EmbedBuilder()
+      .setTitle("🐸 Random Phrog")
+      .setColor("#4CAF50")
+      .setImage("attachment://" + file);
+
+    return message.channel.send({
+      embeds: [embed],
+      files: [{ attachment: `./phrogs/${file}`, name: file }]
+    });
   }
 
-  const key = `${message.channel.id}:${message.author.id}`;
-  if (activeQuizRuns.has(key)) {
-    return message.reply("You already have a quiz running here 🐸");
+  /* ---------- !frog ---------- */
+  if (msg === "!frog") {
+    try {
+      let fact;
+      for (let i = 0; i < 5; i++) {
+        const res = await axios.get("https://frogfact.codeoce.com/random");
+        if (!frogFactHistory.includes(res.data)) {
+          fact = res.data;
+          break;
+        }
+      }
+
+      frogFactHistory.push(fact);
+      if (frogFactHistory.length > 10) frogFactHistory.shift();
+
+      const embed = new EmbedBuilder()
+        .setTitle("🐸 Frog Fact")
+        .setColor("#43B581")
+        .setDescription(fact)
+        .setThumbnail("attachment://frogfact.png");
+
+      return message.channel.send({
+        embeds: [embed],
+        files: [{ attachment: "./assets/frogfact.png", name: "frogfact.png" }]
+      });
+    } catch {
+      return message.reply("Couldn't fetch a frog fact 😭");
+    }
   }
 
-  const run = {
-    key,
-    score: 0,
-    current: 0,
-    active: null
-  };
+  /* ---------- !frogquiz ---------- */
+  if (msg === "!frogquiz") {
+    if (frogSpecies.length < 4) {
+      return message.reply("Not enough frog species for the quiz.");
+    }
 
-  activeQuizRuns.set(key, run);
-  await sendQuizQuestion(message.channel, message.author.id, run);
+    const key = `${message.channel.id}:${message.author.id}`;
+    if (activeQuizRuns.has(key)) {
+      return message.reply("You already have a quiz running 🐸");
+    }
+
+    const run = {
+      key,
+      score: 0,
+      current: 0,
+      active: null
+    };
+
+    activeQuizRuns.set(key, run);
+    await sendQuizQuestion(message.channel, message.author.id, run);
+  }
 });
 
-/* ---------------- Button Handler ---------------- */
+/* ==================================================
+   BUTTON HANDLER
+================================================== */
 
 client.on("interactionCreate", async (interaction) => {
   if (!interaction.isButton()) return;
   if (!interaction.customId.startsWith("frogquiz:")) return;
 
   const [, userId, chosenKey] = interaction.customId.split(":");
+
   if (interaction.user.id !== userId) {
     return interaction.reply({
       content: "This isn’t your quiz 🐸",
@@ -195,7 +283,6 @@ client.on("interactionCreate", async (interaction) => {
   const isCorrect = chosenKey === correct;
 
   if (isCorrect) run.score++;
-
   run.current++;
 
   await interaction.message.edit({
@@ -212,6 +299,8 @@ client.on("interactionCreate", async (interaction) => {
   await nextQuestion(interaction.channel, userId);
 });
 
-/* ---------------- Login ---------------- */
+/* ==================================================
+   LOGIN
+================================================== */
 
 client.login(process.env.BOT_TOKEN);
