@@ -203,7 +203,7 @@ client.on("messageCreate", async (message) => {
     try {
       let fact;
       for (let i = 0; i < 5; i++) {
-        const res = await axios.get("https://frogfact.codeoce.com/random");
+        const res = await axios.get("https://frogclanker.codeoce.com/fact");
         if (!frogFactHistory.includes(res.data)) {
           fact = res.data;
           break;
@@ -298,6 +298,40 @@ client.on("interactionCreate", async (interaction) => {
 
   await nextQuestion(interaction.channel, userId);
 });
+
+
+/* ---------- !frognews ---------- */
+if (msg === "!frognews") {
+  try {
+    const res = await axios.get("https://frogclanker.codeoce.com/news", {
+      timeout: 5000
+    });
+
+    const headlines = Array.isArray(res.data)
+      ? res.data
+      : res.data.headlines;
+
+    if (!headlines || headlines.length === 0) {
+      return message.reply("The Frog News desk is suspiciously quiet.");
+    }
+
+    const headline =
+      headlines[Math.floor(Math.random() * headlines.length)];
+
+    const embed = new EmbedBuilder()
+      .setTitle("📰 The Daily Croak")
+      .setDescription(headline)
+      .setColor("#2ECC71")
+      .setFooter({ text: "This report is frog-certified" });
+
+    return message.channel.send({ embeds: [embed] });
+
+  } catch (err) {
+    console.error("Frog News fetch failed:", err.message);
+    return message.reply("The Daily Croak journalists are on strike, no news can be shown at this time.");
+  }
+}
+
 
 /* ==================================================
    LOGIN
