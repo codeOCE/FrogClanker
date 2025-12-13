@@ -313,6 +313,7 @@ if (msg === "!frognews") {
 
     if (!headlines || headlines.length === 0) {
       await message.reply("The Daily Croak desk is suspiciously quiet.");
+      return;
     }
 
     const headline =
@@ -324,13 +325,18 @@ if (msg === "!frognews") {
       .setColor("#2ECC71")
       .setFooter({ text: "This report is frog-certified" });
 
-    return message.channel.send({ embeds: [embed] });
+    await message.channel.send({ embeds: [embed] });
+    return;
 
   } catch (err) {
     console.error("Frog News fetch failed:", err.message);
-    return message.reply("The Daily Croak journalists are on strike, no news can be shown at this time.");
+    await message.reply(
+      "The Daily Croak journalists are on strike, no news can be shown at this time."
+    );
+    return;
   }
 }
+
 
 
 /* ==================================================
