@@ -261,10 +261,10 @@ if (msg === "!frognews") {
     const headline = res.data;
 
     const embed = new EmbedBuilder()
-      .setTitle("The Daily Croak")
+      .setTitle("📰 The Daily Croak")
       .setDescription(headline)
       .setColor("#2ECC71")
-      .setFooter({ text: "This report is frog-certified" });
+      .setFooter({ text: "✅ This report is frog-certified" });
 
     await message.channel.send({ embeds: [embed] });
 
