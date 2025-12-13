@@ -188,7 +188,7 @@ client.on("messageCreate", async (message) => {
 
     const file = chooseNonRepeatingRandom(files, phrogHistory);
     const embed = new EmbedBuilder()
-      .setTitle("🐸 Random Phrog")
+      .setTitle("🐸 A wild frog appears")
       .setColor("#4CAF50")
       .setImage("attachment://" + file);
 
