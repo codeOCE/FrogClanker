@@ -258,35 +258,42 @@ if (msg === "!frognews") {
       timeout: 5000
     });
 
-    const headlines = Array.isArray(res.data)
-      ? res.data
-      : res.data.headlines;
+    // DEBUG ONCE — you can remove this later
+    console.log("Frog news response:", res.data);
+
+    let headlines = null;
+
+    if (Array.isArray(res.data)) {
+      headlines = res.data;
+    } else if (Array.isArray(res.data.headlines)) {
+      headlines = res.data.headlines;
+    } else if (Array.isArray(res.data.news)) {
+      headlines = res.data.news;
+    }
 
     if (!headlines || headlines.length === 0) {
       await message.reply("The Daily Croak desk is suspiciously quiet.");
-      return;
+    } else {
+      const headline =
+        headlines[Math.floor(Math.random() * headlines.length)];
+
+      const embed = new EmbedBuilder()
+        .setTitle("The Daily Croak")
+        .setDescription(headline)
+        .setColor("#2ECC71")
+        .setFooter({ text: "This report is frog-certified" });
+
+      await message.channel.send({ embeds: [embed] });
     }
-
-    const headline =
-      headlines[Math.floor(Math.random() * headlines.length)];
-
-    const embed = new EmbedBuilder()
-      .setTitle("📰 The Daily Croak")
-      .setDescription(headline)
-      .setColor("#2ECC71")
-      .setFooter({ text: "This report is frog-certified" });
-
-    await message.channel.send({ embeds: [embed] });
-    return;
 
   } catch (err) {
     console.error("Frog News fetch failed:", err.message);
     await message.reply(
       "The Daily Croak journalists are on strike, no news can be shown at this time."
     );
-    return;
   }
 }
+
 
 });
 
