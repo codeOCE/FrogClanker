@@ -249,6 +249,45 @@ client.on("messageCreate", async (message) => {
     activeQuizRuns.set(key, run);
     await sendQuizQuestion(message.channel, message.author.id, run);
   }
+
+  
+/* ---------- !frognews ---------- */
+if (msg === "!frognews") {
+  try {
+    const res = await axios.get("https://frogclanker.codeoce.com/news", {
+      timeout: 5000
+    });
+
+    const headlines = Array.isArray(res.data)
+      ? res.data
+      : res.data.headlines;
+
+    if (!headlines || headlines.length === 0) {
+      await message.reply("The Daily Croak desk is suspiciously quiet.");
+      return;
+    }
+
+    const headline =
+      headlines[Math.floor(Math.random() * headlines.length)];
+
+    const embed = new EmbedBuilder()
+      .setTitle("📰 The Daily Croak")
+      .setDescription(headline)
+      .setColor("#2ECC71")
+      .setFooter({ text: "This report is frog-certified" });
+
+    await message.channel.send({ embeds: [embed] });
+    return;
+
+  } catch (err) {
+    console.error("Frog News fetch failed:", err.message);
+    await message.reply(
+      "The Daily Croak journalists are on strike, no news can be shown at this time."
+    );
+    return;
+  }
+}
+
 });
 
 /* ==================================================
@@ -298,45 +337,6 @@ client.on("interactionCreate", async (interaction) => {
 
   await nextQuestion(interaction.channel, userId);
 });
-
-
-/* ---------- !frognews ---------- */
-if (msg === "!frognews") {
-  try {
-    const res = await axios.get("https://frogclanker.codeoce.com/news", {
-      timeout: 5000
-    });
-
-    const headlines = Array.isArray(res.data)
-      ? res.data
-      : res.data.headlines;
-
-    if (!headlines || headlines.length === 0) {
-      await message.reply("The Daily Croak desk is suspiciously quiet.");
-      return;
-    }
-
-    const headline =
-      headlines[Math.floor(Math.random() * headlines.length)];
-
-    const embed = new EmbedBuilder()
-      .setTitle("📰 The Daily Croak")
-      .setDescription(headline)
-      .setColor("#2ECC71")
-      .setFooter({ text: "This report is frog-certified" });
-
-    await message.channel.send({ embeds: [embed] });
-    return;
-
-  } catch (err) {
-    console.error("Frog News fetch failed:", err.message);
-    await message.reply(
-      "The Daily Croak journalists are on strike, no news can be shown at this time."
-    );
-    return;
-  }
-}
-
 
 
 /* ==================================================
