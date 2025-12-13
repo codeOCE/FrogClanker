@@ -312,7 +312,7 @@ if (msg === "!frognews") {
       : res.data.headlines;
 
     if (!headlines || headlines.length === 0) {
-      return message.reply("The Frog News desk is suspiciously quiet.");
+      await message.reply("The Daily Croak desk is suspiciously quiet.");
     }
 
     const headline =
