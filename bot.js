@@ -13,78 +13,22 @@ import axios from "axios";
 
 dotenv.config();
 
-/* ==================================================
-   HELPERS
-================================================== */
+// ----------------------------
+// CONFIG
+// ----------------------------
+const PHROG_FOLDER = "./phrogs";
+const PHROG_REPORT_LIMIT = 3;
+const PHROG_COOLDOWN_MS = 10 * 60 * 1000; // 10 minutes
 
-function shuffle(arr) {
-  return [...arr].sort(() => Math.random() - 0.5);
-}
+// ----------------------------
+// REPORT TRACKERS (in-memory)
+// ----------------------------
+const phrogReportCounts = new Map(); // filename -> count
+const phrogUserCooldown = new Map(); // userId -> timestamp
 
-function chooseNonRepeatingRandom(list, history, limit = 10) {
-  let choice;
-  for (let i = 0; i < 20; i++) {
-    choice = list[Math.floor(Math.random() * list.length)];
-    if (!history.includes(choice)) break;
-  }
-  history.push(choice);
-  if (history.length > limit) history.shift();
-  return choice;
-}
-
-/* ==================================================
-   HISTORIES
-================================================== */
-
-const phrogHistory = [];
-const frogFactHistory = [];
-
-/* ==================================================
-   FROG QUIZ DATA LOADER
-================================================== */
-
-const QUIZ_DIR = "./frogquiz";
-
-function loadFrogSpecies() {
-  if (!fs.existsSync(QUIZ_DIR)) return [];
-
-  return fs.readdirSync(QUIZ_DIR, { withFileTypes: true })
-    .filter(d => d.isDirectory())
-    .map(dir => {
-      const dirPath = path.join(QUIZ_DIR, dir.name);
-      const images = fs.readdirSync(dirPath)
-        .filter(f => /^img\d+\.jpg$/i.test(f))
-        .map(f => ({
-          name: f,
-          path: path.join(dirPath, f)
-        }));
-
-      if (!images.length) return null;
-
-      return {
-        key: dir.name,
-        display: dir.name
-          .replace(/_/g, " ")
-          .replace(/\b\w/g, c => c.toUpperCase()),
-        images
-      };
-    })
-    .filter(Boolean);
-}
-
-const frogSpecies = loadFrogSpecies();
-
-/* ==================================================
-   ACTIVE QUIZ RUNS
-================================================== */
-
-// key = channelId:userId
-const activeQuizRuns = new Map();
-
-/* ==================================================
-   DISCORD CLIENT
-================================================== */
-
+// ----------------------------
+// CLIENT
+// ----------------------------
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
@@ -93,243 +37,184 @@ const client = new Client({
   ]
 });
 
-/* ==================================================
-   QUIZ FUNCTIONS
-================================================== */
+// ----------------------------
+// READY
+// ----------------------------
+client.once("ready", () => {
+  console.log(`🐸 Logged in as ${client.user.tag}`);
+});
 
-function disableRow(row) {
-  return [
-    new ActionRowBuilder().addComponents(
-      row.components.map(b => ButtonBuilder.from(b).setDisabled(true))
-    )
-  ];
-}
-
-async function sendQuizQuestion(channel, userId, run) {
-  const correct = frogSpecies[Math.floor(Math.random() * frogSpecies.length)];
-  const image = correct.images[Math.floor(Math.random() * correct.images.length)];
-
-  const choices = shuffle([
-    correct,
-    ...shuffle(frogSpecies.filter(f => f.key !== correct.key)).slice(0, 3)
-  ]);
-
-  const embed = new EmbedBuilder()
-    .setTitle(`🐸 Frog Quiz (${run.current + 1}/3)`)
-    .setDescription("⏱️ **You have 5 seconds!**")
-    .setColor("#4CAF50")
-    .setImage("attachment://" + image.name);
-
-  const row = new ActionRowBuilder().addComponents(
-    choices.map((c, i) =>
-      new ButtonBuilder()
-        .setCustomId(`frogquiz:${userId}:${c.key}`)
-        .setLabel(`${String.fromCharCode(65 + i)}. ${c.display}`)
-        .setStyle(ButtonStyle.Primary)
-    )
-  );
-
-  const msg = await channel.send({
-    embeds: [embed],
-    files: [{ attachment: image.path, name: image.name }],
-    components: [row]
-  });
-
-  const timeout = setTimeout(async () => {
-    if (!activeQuizRuns.has(run.key)) return;
-
-    run.current++;
-
-    await msg.edit({
-      content: `⏰ **Time’s up!** It was **${correct.display}**.`,
-      components: disableRow(row)
-    });
-
-    nextQuestion(channel, userId);
-  }, 5000);
-
-  run.active = {
-    correctKey: correct.key,
-    row,
-    message: msg,
-    timeout
-  };
-}
-
-async function nextQuestion(channel, userId) {
-  const key = `${channel.id}:${userId}`;
-  const run = activeQuizRuns.get(key);
-  if (!run) return;
-
-  if (run.current >= 3) {
-    activeQuizRuns.delete(key);
-    return channel.send(
-      `🏁 **Quiz complete!**\n\n🐸 **Score:** ${run.score} / 3`
-    );
-  }
-
-  await sendQuizQuestion(channel, userId, run);
-}
-
-/* ==================================================
-   MESSAGE HANDLER
-================================================== */
-
+// ----------------------------
+// MESSAGE HANDLER
+// ----------------------------
 client.on("messageCreate", async (message) => {
   if (message.author.bot) return;
+
   const msg = message.content.toLowerCase();
 
   /* ---------- !phrog ---------- */
   if (msg === "!phrog") {
-    const files = fs.readdirSync("./phrogs")
-      .filter(f => /\.(png|jpe?g|gif)$/i.test(f));
+    try {
+      const files = fs.readdirSync(PHROG_FOLDER).filter(file =>
+        /\.(png|jpe?g|gif|webp)$/i.test(file)
+      );
 
-    if (!files.length) return message.reply("No phrogs found 😭");
+      if (files.length === 0) {
+        await message.reply("No phrogs found 😭");
+      } else {
+        const randomFile =
+          files[Math.floor(Math.random() * files.length)];
+        const filePath = path.join(PHROG_FOLDER, randomFile);
 
-    const file = chooseNonRepeatingRandom(files, phrogHistory);
-    const embed = new EmbedBuilder()
-      .setTitle("🐸 A wild frog appears")
-      .setColor("#4CAF50")
-      .setImage("attachment://" + file);
+        const embed = new EmbedBuilder()
+          .setTitle("🐸 Random Phrog")
+          .setDescription("Here’s a fresh phrog for you 💚")
+          .setColor("#4CAF50")
+          .setImage("attachment://" + randomFile);
 
-    return message.channel.send({
-      embeds: [embed],
-      files: [{ attachment: `./phrogs/${file}`, name: file }]
-    });
+        const row = new ActionRowBuilder().addComponents(
+          new ButtonBuilder()
+            .setCustomId(`report_phrog:${randomFile}`)
+            .setLabel("🚫 Not a Frog")
+            .setStyle(ButtonStyle.Danger)
+        );
+
+        await message.channel.send({
+          embeds: [embed],
+          files: [{ attachment: filePath, name: randomFile }],
+          components: [row]
+        });
+      }
+    } catch (err) {
+      console.error("Phrog error:", err);
+      await message.reply("Something went wrong getting a phrog 😭");
+    }
   }
 
-  /* ---------- !frog ---------- */
+  /* ---------- !frog (fact) ---------- */
   if (msg === "!frog") {
     try {
-      let fact;
-      for (let i = 0; i < 5; i++) {
-        const res = await axios.get("https://frogclanker.codeoce.com/fact");
-        if (!frogFactHistory.includes(res.data)) {
-          fact = res.data;
-          break;
-        }
-      }
+      const res = await axios.get("https://frogclanker.codeoce.com/fact", {
+        timeout: 5000
+      });
 
-      frogFactHistory.push(fact);
-      if (frogFactHistory.length > 10) frogFactHistory.shift();
+      const fact = res.data;
 
       const embed = new EmbedBuilder()
         .setTitle("🐸 Frog Fact")
-        .setColor("#43B581")
         .setDescription(fact)
-        .setThumbnail("attachment://frogfact.png");
+        .setColor("#43B581");
 
-      return message.channel.send({
-        embeds: [embed],
-        files: [{ attachment: "./assets/frogfact.png", name: "frogfact.png" }]
+      await message.channel.send({ embeds: [embed] });
+
+    } catch (err) {
+      console.error("Frog fact error:", err.message);
+      await message.reply("Couldn't fetch a frog fact right now 😭");
+    }
+  }
+
+  /* ---------- !frognews ---------- */
+  if (msg === "!frognews") {
+    try {
+      const res = await axios.get("https://frogclanker.codeoce.com/news", {
+        timeout: 5000
       });
-    } catch {
-      return message.reply("Couldn't fetch a frog fact 😭");
+
+      const headline = res.data;
+
+      const embed = new EmbedBuilder()
+        .setTitle("The Daily Croak")
+        .setDescription(headline)
+        .setColor("#2ECC71")
+        .setFooter({ text: "This report is frog-certified" });
+
+      await message.channel.send({ embeds: [embed] });
+
+    } catch (err) {
+      console.error("Frog news error:", err.message);
+      await message.reply(
+        "The Daily Croak journalists are on strike, no news can be shown at this time."
+      );
     }
   }
-
-  /* ---------- !frogquiz ---------- */
-  if (msg === "!frogquiz") {
-    if (frogSpecies.length < 4) {
-      return message.reply("Not enough frog species for the quiz.");
-    }
-
-    const key = `${message.channel.id}:${message.author.id}`;
-    if (activeQuizRuns.has(key)) {
-      return message.reply("You already have a quiz running 🐸");
-    }
-
-    const run = {
-      key,
-      score: 0,
-      current: 0,
-      active: null
-    };
-
-    activeQuizRuns.set(key, run);
-    await sendQuizQuestion(message.channel, message.author.id, run);
-  }
-
-  
-/* ---------- !frognews ---------- */
-if (msg === "!frognews") {
-  try {
-    const res = await axios.get("https://frogclanker.codeoce.com/news", {
-      timeout: 5000
-    });
-
-    const headline = res.data;
-
-    const embed = new EmbedBuilder()
-      .setTitle("📰 The Daily Croak")
-      .setDescription(headline)
-      .setColor("#2ECC71")
-      .setFooter({ text: "✅ This report is frog-certified" });
-
-    await message.channel.send({ embeds: [embed] });
-
-  } catch (err) {
-    console.error("Frog News fetch failed:", err.message);
-    await message.reply(
-      "The Daily Croak journalists are on strike, no news can be shown at this time."
-    );
-  }
-}
-
-
 });
 
-/* ==================================================
-   BUTTON HANDLER
-================================================== */
-
+// ----------------------------
+// BUTTON HANDLER (phrog reports)
+// ----------------------------
 client.on("interactionCreate", async (interaction) => {
   if (!interaction.isButton()) return;
-  if (!interaction.customId.startsWith("frogquiz:")) return;
+  if (!interaction.customId.startsWith("report_phrog:")) return;
 
-  const [, userId, chosenKey] = interaction.customId.split(":");
+  const fileName = interaction.customId.split(":")[1];
+  const userId = interaction.user.id;
+  const now = Date.now();
 
-  if (interaction.user.id !== userId) {
-    return interaction.reply({
-      content: "This isn’t your quiz 🐸",
+  // Cooldown check
+  const lastUsed = phrogUserCooldown.get(userId) || 0;
+  const remaining = PHROG_COOLDOWN_MS - (now - lastUsed);
+
+  if (remaining > 0) {
+    const mins = Math.ceil(remaining / 60000);
+    await interaction.reply({
+      content: `🐸 Easy there! You can report another phrog in ${mins} minute(s).`,
       ephemeral: true
     });
+    return;
   }
 
-  const key = `${interaction.channel.id}:${userId}`;
-  const run = activeQuizRuns.get(key);
-  if (!run || !run.active) {
-    return interaction.reply({
-      content: "⏰ This question has ended.",
-      ephemeral: true
-    });
-  }
-
-  clearTimeout(run.active.timeout);
-
-  const correct = run.active.correctKey;
-  const isCorrect = chosenKey === correct;
-
-  if (isCorrect) run.score++;
-  run.current++;
-
-  await interaction.message.edit({
-    components: disableRow(run.active.row)
-  });
+  // Increment report count
+  const currentCount = phrogReportCounts.get(fileName) || 0;
+  const newCount = currentCount + 1;
+  phrogReportCounts.set(fileName, newCount);
+  phrogUserCooldown.set(userId, now);
 
   await interaction.reply({
-    content: isCorrect
-      ? "✅ **Correct!** 🐸"
-      : `❌ **Wrong!** It was **${correct.replace(/_/g, " ")}**.`,
+    content: `🚨 Thanks! Report recorded (${newCount}/${PHROG_REPORT_LIMIT}).`,
     ephemeral: true
   });
 
-  await nextQuestion(interaction.channel, userId);
+  // Notify owner or channel
+  const reportMsg =
+    `🚨 **Phrog Report**\n` +
+    `Image: \`${fileName}\`\n` +
+    `Count: ${newCount}/${PHROG_REPORT_LIMIT}\n` +
+    `By: ${interaction.user.tag} (${interaction.user.id})\n` +
+    `Server: ${interaction.guild?.name ?? "DM"}`;
+
+  try {
+    if (process.env.REPORT_CHANNEL_ID) {
+      const channel = await interaction.client.channels.fetch(
+        process.env.REPORT_CHANNEL_ID
+      );
+      if (channel) await channel.send(reportMsg);
+    } else if (process.env.OWNER_ID) {
+      const owner = await interaction.client.users.fetch(
+        process.env.OWNER_ID
+      );
+      await owner.send(reportMsg);
+    }
+  } catch (err) {
+    console.error("Failed to send phrog report:", err);
+  }
+
+  // Disable button after limit reached
+  if (newCount >= PHROG_REPORT_LIMIT) {
+    const disabledRow = new ActionRowBuilder().addComponents(
+      ButtonBuilder.from(interaction.component).setDisabled(true)
+    );
+
+    try {
+      await interaction.message.edit({
+        components: [disabledRow]
+      });
+    } catch (err) {
+      console.error("Failed to disable report button:", err);
+    }
+  }
 });
 
-
-/* ==================================================
-   LOGIN
-================================================== */
-
+// ----------------------------
+// LOGIN
+// ----------------------------
 client.login(process.env.BOT_TOKEN);
