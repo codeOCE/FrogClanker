@@ -83,6 +83,11 @@ client.on("messageCreate", async (message) => {
         const id = idMatch ? idMatch[1] : null;
         const meta = phrogMetadata[id] || {};
 
+        console.log(`[DEBUG] Filename: ${randomFile}, ID: ${id}, Meta Found: ${!!phrogMetadata[id]}`);
+        if (id && phrogMetadata[id]) {
+          console.log(`[DEBUG] SciName: ${phrogMetadata[id].scientific_name}, Facts: ${phrogMetadata[id].facts?.length}`);
+        }
+
         const embed = new EmbedBuilder()
           .setTitle("🐸 Random Phrog")
           .setDescription("Here’s a fresh phrog for you 💚")
@@ -164,6 +169,21 @@ client.on("messageCreate", async (message) => {
         "The Daily Croak journalists are on strike, no news can be shown at this time."
       );
     }
+  }
+
+  /* ---------- !phrogdebug ---------- */
+  if (msg === "!phrogdebug") {
+    const keys = Object.keys(phrogMetadata);
+    const sampleKey = keys[0];
+    const sample = sampleKey ? phrogMetadata[sampleKey] : null;
+
+    await message.reply(
+      `📊 **Metadata Debug**\n` +
+      `- Total entries: ${keys.length}\n` +
+      `- Sample ID: ${sampleKey || "None"}\n` +
+      `- Sample SciName: ${sample ? sample.scientific_name : "N/A"}\n` +
+      `- Sample Facts: ${sample && sample.facts ? sample.facts.length : 0}`
+    );
   }
 });
 
