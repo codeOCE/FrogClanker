@@ -89,6 +89,10 @@ client.on("messageCreate", async (message) => {
           .setColor("#4CAF50")
           .setImage("attachment://" + randomFile);
 
+        if (meta.common_name) {
+          embed.setTitle(`🐸 ${meta.common_name}`);
+        }
+
         if (meta.scientific_name) {
           embed.addFields({ name: "Scientific Name", value: `*${meta.scientific_name}*`, inline: true });
         }

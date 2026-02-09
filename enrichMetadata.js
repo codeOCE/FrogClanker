@@ -149,12 +149,52 @@ const SPECIES_MAPPING = [
     },
     {
         keywords: ["toad", "bufo"],
-        scientific_name: "Anura (Toad)",
+        scientific_name: "Bufo bufo (Common Toad)",
         facts: [
             "Contrary to myth, you cannot get warts from touching a toad.",
             "Toads have dry, bumpy skin and shorter legs than most typical frogs.",
             "They have large parotoid glands behind their eyes that produce defensive toxins.",
             "Most toads are primarily land-dwellers and only return to water to breed."
+        ]
+    },
+    {
+        keywords: ["leopard frog", "lithobates pipiens"],
+        scientific_name: "Lithobates pipiens (Leopard Frog)",
+        facts: [
+            "They are named for the dark spots that dot their back and legs.",
+            "Northern leopard frogs can jump up to 3 feet in a single bound.",
+            "They are often used in high school biology classes for dissection.",
+            "They live in a variety of habitats, including meadows and lakes."
+        ]
+    },
+    {
+        keywords: ["spring peeper", "pseudacris crucifer"],
+        scientific_name: "Pseudacris crucifer (Spring Peeper)",
+        facts: [
+            "They are tiny tree frogs known for their loud, high-pitched peeping call in early spring.",
+            "Adults are only about 1 inch long.",
+            "They have a dark 'X' mark on their backs.",
+            "They can survive freezing temperatures by producing a glucose 'antifreeze'."
+        ]
+    },
+    {
+        keywords: ["wood frog"],
+        scientific_name: "Lithobates sylvaticus (Wood Frog)",
+        facts: [
+            "They are the only frogs found north of the Arctic Circle.",
+            "They can survive being frozen solid during winter!",
+            "They produce a natural 'antifreeze' (glucose) to prevent ice from damaging their cells.",
+            "Their mating call sounds more like a quacking duck than a typical frog croak."
+        ]
+    },
+    {
+        keywords: ["pickerel frog"],
+        scientific_name: "Lithobates palustris (Pickerel Frog)",
+        facts: [
+            "They are the only poisonous frog native to the United States.",
+            "Their skin secretions can be toxic to other frogs and small mammals.",
+            "They have two rows of square-shaped spots on their backs.",
+            "They are often found in cool, clear water like spring-fed streams."
         ]
     }
 ];
@@ -216,6 +256,13 @@ async function enrichMetadata() {
 
     for (const [id, data] of Object.entries(metadata)) {
         let info = null;
+
+        // SKIP if we already have a specific name (not generic Anura)
+        if (data.scientific_name && !data.scientific_name.includes("Anura") && data.scientific_name !== "Not a Frog") {
+            enriched[id] = data;
+            continue;
+        }
+
         const searchStr = `${data.ai_species || ""} ${data.description || ""}`.toLowerCase();
 
         // 1. Try exact species match

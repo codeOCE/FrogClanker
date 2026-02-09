@@ -9,10 +9,15 @@ async function refineIdentification() {
     const speciesDb = await fs.readJson(SPECIES_DB);
 
     const ids = Object.keys(metadata);
-    console.log(`🔎 Refining identification for ${ids.length} entries...`);
+    // Filter for frogs that need processing or are still generic "Anura"
+    const targetIds = ids.filter(id => {
+        const data = metadata[id];
+        return !data.scientific_name || data.scientific_name.includes("Anura") || data.scientific_name === "Not a Frog";
+    });
+    console.log(`🔎 Refining identification for ${targetIds.length} entries...`);
 
-    for (let i = 0; i < ids.length; i++) {
-        const id = ids[i];
+    for (let i = 0; i < targetIds.length; i++) {
+        const id = targetIds[i];
         const data = metadata[id];
 
         // Skip things that are obviously not frogs based on previous audit
@@ -38,27 +43,34 @@ async function refineIdentification() {
         }
 
         // 2. If no local match, try iNaturalist for a "specific" guess
-        if (!matched && (data.scientific_name === "Anura" || !data.scientific_name)) {
-            // Pick the most likely "froggy" parts from the description
-            const keywords = searchStr.split(" ").filter(w =>
-                !["a", "the", "in", "on", "of", "with", "shot", "macro", "vibrant", "photo", "frog"].includes(w)
-            ).slice(0, 3).join(" ");
+        if (!matched && (data.scientific_name === "Anura" || !data.scientific_name || data.scientific_name.includes("Anura"))) {
+            // Pick keywords that are NOT generic
+            const genericWords = ["a", "the", "in", "on", "of", "with", "shot", "macro", "vibrant", "photo", "frog", "rests", "sitting", "nature", "nature's", "close-up", "highlighting", "intricate", "vivid", "bokeh", "blurred", "beautiful", "fresh"];
+            const rawKeywords = searchStr.split(/[\s,]+/).filter(w => !genericWords.includes(w) && w.length > 2);
 
-            if (keywords.length > 3) {
+            // Try different query combinations
+            const queryCandidates = [
+                rawKeywords.slice(0, 3).join(" ") + " frog",
+                rawKeywords.slice(0, 2).join(" "),
+            ].filter(q => q.trim().length > 4);
+
+            if (queryCandidates.length > 0) {
+                const query = queryCandidates[0];
                 try {
-                    console.log(`[${i + 1}/${ids.length}] Querying iNaturalist for: ${keywords}...`);
-                    const res = await axios.get(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(keywords)}&rank=species&limit=1`);
+                    console.log(`[${i + 1}/${targetIds.length}] Querying iNaturalist for: "${query}"...`);
+                    const res = await axios.get(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(query)}&rank=species&limit=1`);
 
                     if (res.data.results && res.data.results.length > 0) {
                         const top = res.data.results[0];
                         data.scientific_name = top.name;
-                        data.common_name = top.preferred_common_name;
+                        data.common_name = top.preferred_common_name || top.name;
                         data.facts = [
-                            `Commonly known as the ${top.preferred_common_name}, this species is part of the ${top.ancestor_ids.length > 0 ? "diverse" : ""} frog family.`,
-                            `Identified via iNaturalist as ${top.name}, a fascinating example of amphibian biology.`,
-                            `This ${top.preferred_common_name} shows the amazing variety found in nature.`
+                            `Commonly known as the ${data.common_name}, this species is a fascinating example of amphibian biology.`,
+                            `Identified as ${top.name}, these frogs are uniquely adapted to their environment.`,
+                            `The ${data.common_name} is one of the many incredible species found in the wild.`
                         ];
-                        console.log(`   ✅ Matched to: ${top.name} (${top.preferred_common_name})`);
+                        console.log(`   ✅ Matched to: ${top.name} (${data.common_name})`);
+                        matched = true;
                     }
                 } catch (err) {
                     console.error("   ❌ iNaturalist error:", err.message);
