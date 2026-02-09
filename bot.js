@@ -27,6 +27,19 @@ const phrogReportCounts = new Map(); // filename -> count
 const phrogUserCooldown = new Map(); // userId -> timestamp
 
 // ----------------------------
+// LOAD METADATA
+// ----------------------------
+let phrogMetadata = {};
+try {
+  if (fs.existsSync("./phrog_metadata.json")) {
+    phrogMetadata = JSON.parse(fs.readFileSync("./phrog_metadata.json", "utf8"));
+    console.log(`✅ Loaded metadata for ${Object.keys(phrogMetadata).length} phrogs.`);
+  }
+} catch (err) {
+  console.error("❌ Failed to load phrog metadata:", err.message);
+}
+
+// ----------------------------
 // CLIENT
 // ----------------------------
 const client = new Client({
@@ -66,11 +79,26 @@ client.on("messageCreate", async (message) => {
           files[Math.floor(Math.random() * files.length)];
         const filePath = path.join(PHROG_FOLDER, randomFile);
 
+        const idMatch = randomFile.match(/frog_(\d+)\./);
+        const id = idMatch ? idMatch[1] : null;
+        const meta = phrogMetadata[id] || {};
+
         const embed = new EmbedBuilder()
           .setTitle("🐸 Random Phrog")
           .setDescription("Here’s a fresh phrog for you 💚")
           .setColor("#4CAF50")
           .setImage("attachment://" + randomFile);
+
+        if (meta.scientific_name) {
+          embed.addFields({ name: "Scientific Name", value: `*${meta.scientific_name}*`, inline: true });
+        }
+        if (meta.facts && Array.isArray(meta.facts) && meta.facts.length > 0) {
+          const randomFact = meta.facts[Math.floor(Math.random() * meta.facts.length)];
+          embed.addFields({ name: "Frog Fact", value: randomFact });
+        } else if (meta.fact) {
+          // Fallback for old single-fact metadata
+          embed.addFields({ name: "Frog Fact", value: meta.fact });
+        }
 
         const row = new ActionRowBuilder().addComponents(
           new ButtonBuilder()
