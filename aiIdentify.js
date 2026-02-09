@@ -18,12 +18,34 @@ async function runAIIdentification() {
     }
 
     const metadata = await fs.readJson(METADATA_FILE);
-    const ids = Object.keys(metadata);
 
+    // Auto-discover files in folder
+    const files = (await fs.readdir(PHROG_FOLDER)).filter(file =>
+        /\.(png|jpe?g|gif|webp)$/i.test(file)
+    );
+
+    console.log(`📂 Found ${files.length} images in folder.`);
+
+    for (const file of files) {
+        const idMatch = file.match(/frog_(\d+)\./);
+        if (idMatch) {
+            const id = idMatch[1];
+            if (!metadata[id]) {
+                metadata[id] = {
+                    id: parseInt(id),
+                    description: "Auto-discovered frog image",
+                    ai_processed: false,
+                    scientific_name: "Anura"
+                };
+            }
+        }
+    }
+
+    const ids = Object.keys(metadata);
     // Filter for frogs that need processing
     const targetIds = ids.filter(id => {
         const data = metadata[id];
-        return data.scientific_name === "Anura" || !data.ai_processed;
+        return !data.ai_processed || data.description === "Auto-discovered frog image";
     });
 
     console.log(`🔎 Local AI Identification: ${targetIds.length} frogs to process.`);
