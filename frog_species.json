@@ -1,0 +1,183 @@
+[
+    {
+        "common_name": "Blue Poison Dart Frog",
+        "scientific_name": "Dendrobates tinctorius 'Azureus'",
+        "keywords": [
+            "blue dart frog",
+            "azureus",
+            "tinctorius"
+        ],
+        "facts": [
+            "Their bright blue skin serves as a warning to predators that they are highly toxic.",
+            "In captivity, they lose their toxicity because it comes from the specific insects they eat in the wild.",
+            "Each frog has a unique pattern of black spots, similar to human fingerprints.",
+            "They have excellent eyesight, allowing them to spot tiny movements even in low light.",
+            "Indigenous people sometimes used their toxins for blowgun darts."
+        ]
+    },
+    {
+        "common_name": "Red-Eyed Tree Frog",
+        "scientific_name": "Agalychnis callidryas",
+        "keywords": [
+            "red-eyed",
+            "red eyed",
+            "agalychnis"
+        ],
+        "facts": [
+            "Their striking red eyes are used for 'startle coloration' to confuse predators while the frog escapes.",
+            "They are nocturnal, spending their days hidden on the underside of leaves.",
+            "They have suction-pad-like toes that emit a wet mucus for climbing.",
+            "They blink their large eyes to help push insects down their throats while eating.",
+            "Males shake their bodies to create vibrations, signaling their territory to others."
+        ]
+    },
+    {
+        "common_name": "American Bullfrog",
+        "scientific_name": "Lithobates catesbeianus",
+        "keywords": [
+            "american bullfrog",
+            "bullfrog",
+            "catesbeianus"
+        ],
+        "facts": [
+            "They are apex predators in ponds and have been known to eat snakes and small birds.",
+            "Adults can grow up to 8 inches long and weigh over a pound.",
+            "Their deep 'jug-o-rum' call can be heard from over a mile away.",
+            "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
+            "They are the largest true frog species in North America."
+        ]
+    },
+    {
+        "common_name": "Green Tree Frog",
+        "scientific_name": "Hyla cinerea",
+        "keywords": [
+            "green tree frog",
+            "american green tree frog",
+            "cinerea"
+        ],
+        "facts": [
+            "They are often found near porch lights hunting for insects at night.",
+            "They are known for their distinctive bird-like barking call.",
+            "They can change their color slightly from bright green to dull brown to match their surroundings.",
+            "They have large, sticky toe pads that make them expert climbers."
+        ]
+    },
+    {
+        "common_name": "European Common Frog",
+        "scientific_name": "Rana temporaria",
+        "keywords": [
+            "common frog",
+            "european common frog",
+            "temporaria"
+        ],
+        "facts": [
+            "They are incredibly adaptable and can be found almost anywhere in Europe with water.",
+            "During winter, they may hibernate at the bottom of ponds, breathing through their skin.",
+            "They have a distinctive dark patch or 'mask' behind their eyes.",
+            "They can breathe through both their lungs and their skin."
+        ]
+    },
+    {
+        "common_name": "African Bullfrog",
+        "scientific_name": "Pyxicephalus adspersus",
+        "keywords": [
+            "african bullfrog",
+            "pixie frog",
+            "pyxicephalus"
+        ],
+        "facts": [
+            "Males can be as big as a dinner plate and weight over 3 pounds.",
+            "Unlike most frogs, the male stays to guard its tadpoles against predators.",
+            "They have tooth-like projections on their lower jaw to help grip large prey.",
+            "They can survive for months underground in a cocoon of dead skin during dry seasons."
+        ]
+    },
+    {
+        "common_name": "Green and Black Poison Dart Frog",
+        "scientific_name": "Dendrobates auratus",
+        "keywords": [
+            "green and black poison dart",
+            "auratus"
+        ],
+        "facts": [
+            "They are native to Central and South America and are known for their beautiful green patterns.",
+            "Males are dedicated fathers, carrying their tadpoles to water in bromeliads.",
+            "Their skin secretions were used by local tribes to poison arrows and darts.",
+            "They are most active during the day (diurnal) and hunt for small ants and mites."
+        ]
+    },
+    {
+        "common_name": "Strawberry Poison Dart Frog",
+        "scientific_name": "Oophaga pomilio",
+        "keywords": [
+            "strawberry poison",
+            "blue jeans",
+            "pomilio"
+        ],
+        "facts": [
+            "They are often called 'Blue Jeans' frogs because of their red bodies and blue legs.",
+            "Mothers individually carry each tadpole on their backs to small water pools in plants.",
+            "The mother feeds her tadpoles unfertilized eggs until they transform into froglets.",
+            "They are found in the humid lowlands of Central America."
+        ]
+    },
+    {
+        "common_name": "Tomato Frog",
+        "scientific_name": "Dyscophus antongilii",
+        "keywords": [
+            "tomato frog",
+            "dyscophus"
+        ],
+        "facts": [
+            "When threatened, they inflate their bodies to look like a giant, unswallowable tomato.",
+            "They can secrete a sticky, white glue-like substance that can numb a predator's mouth.",
+            "They are native exclusively to the island of Madagascar.",
+            "Females are much brighter and larger than the males."
+        ]
+    },
+    {
+        "common_name": "Glass Frog",
+        "scientific_name": "Centrolenidae",
+        "keywords": [
+            "glass frog",
+            "centrolene",
+            "vitreohyla"
+        ],
+        "facts": [
+            "Their underside skin is completely translucent, making their internal organs visible.",
+            "They can hide their red blood cells in their liver while sleeping to become even more transparent.",
+            "They are primarily nocturnal and live in trees near fast-flowing mountain streams.",
+            "Males aggressively guard their eggs against wasps and other predators."
+        ]
+    },
+    {
+        "common_name": "Vietnamese Mossy Frog",
+        "scientific_name": "Theloderma corticale",
+        "keywords": [
+            "mossy frog",
+            "vietnamese mossy",
+            "theloderma"
+        ],
+        "facts": [
+            "They perfectly resemble a clump of moss, making them nearly invisible on wet rocks.",
+            "When frightened, they curl into a ball and 'play dead' to look like a mossy stone.",
+            "They can throw their voice, making their call sound like it's coming from far away.",
+            "They live in flooded caves and on the banks of mountain streams."
+        ]
+    },
+    {
+        "common_name": "Pacman Frog",
+        "scientific_name": "Ceratophrys",
+        "keywords": [
+            "pacman frog",
+            "horned frog",
+            "ceratophrys"
+        ],
+        "facts": [
+            "They are nicknamed 'Pacman' because of their voracious appetite and giant mouths.",
+            "They bury themselves in the leaf litter and wait for prey to walk blindly by.",
+            "They have a very powerful bite and will try to eat anything that fits in their mouth.",
+            "In the wild, they have been known to eat other frogs, rodents, and even small birds."
+        ]
+    }
+]
