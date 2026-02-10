@@ -89,13 +89,26 @@ client.on("messageCreate", async (message) => {
           .setColor("#4CAF50")
           .setImage("attachment://" + randomFile);
 
-        if (meta.common_name) {
-          embed.setTitle(`🐸 ${meta.common_name}`);
+        // Handle Names
+        let commonName = meta.common_name;
+        let sciName = meta.scientific_name;
+
+        // Extract common name from scientific name if it looks like "Sci Name (Common Name)"
+        if (sciName && sciName.includes("(") && !commonName) {
+          const match = sciName.match(/^(.*?)\s*\((.*?)\)$/);
+          if (match) {
+            sciName = match[1].trim();
+            commonName = match[2].trim();
+          }
         }
 
-        if (meta.scientific_name) {
-          embed.addFields({ name: "Scientific Name", value: `*${meta.scientific_name}*`, inline: true });
+        if (commonName) {
+          embed.addFields({ name: "Common Name", value: commonName, inline: true });
         }
+        if (sciName) {
+          embed.addFields({ name: "Scientific Name", value: `*${sciName}*`, inline: true });
+        }
+
         if (meta.facts && Array.isArray(meta.facts) && meta.facts.length > 0) {
           const randomFact = meta.facts[Math.floor(Math.random() * meta.facts.length)];
           embed.addFields({ name: "Frog Fact", value: randomFact });

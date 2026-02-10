@@ -12,7 +12,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "5521": {
     "id": 5521,
@@ -27,7 +28,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "35669": {
     "id": 35669,
@@ -72,7 +74,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "50626": {
     "id": 50626,
@@ -88,7 +91,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "52532": {
     "id": 52532,
@@ -133,7 +137,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "59828": {
     "id": 59828,
@@ -148,7 +153,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "62671": {
     "id": 62671,
@@ -163,7 +169,8 @@
       "They can breathe through both their lungs and their skin."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "European Common Frog"
   },
   "63650": {
     "id": 63650,
@@ -178,7 +185,8 @@
       "Females are much brighter and larger than the males."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tomato Frog"
   },
   "64222": {
     "id": 64222,
@@ -253,7 +261,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "73798": {
     "id": 73798,
@@ -268,7 +277,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "76957": {
     "id": 76957,
@@ -284,7 +294,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "96131": {
     "id": 96131,
@@ -299,7 +310,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "greenhouse, nursery, glasshouse",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "103795": {
     "id": 103795,
@@ -316,7 +328,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "103796": {
     "id": 103796,
@@ -333,7 +346,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "107499": {
     "id": 107499,
@@ -349,7 +363,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "112321": {
     "id": 112321,
@@ -382,7 +397,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "129566": {
     "id": 129566,
@@ -399,7 +415,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "158031": {
     "id": 158031,
@@ -431,7 +448,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "vine snake",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "162252": {
     "id": 162252,
@@ -447,7 +465,8 @@
       "They can breathe through both their lungs and their skin."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "European Common Frog"
   },
   "555811": {
     "id": 555811,
@@ -462,7 +481,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "586812": {
     "id": 586812,
@@ -477,7 +497,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "golf ball",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "638689": {
     "id": 638689,
@@ -538,7 +559,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "753256": {
     "id": 753256,
@@ -554,7 +576,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "843146": {
     "id": 843146,
@@ -576,18 +599,13 @@
     "description": "Colorful graffiti mural featuring bold text and frog on urban building wall.",
     "url": "https://www.pexels.com/photo/graffiti-filled-wall-at-daytime-955798/",
     "photographer": "Sarah Trummer",
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Artistic)",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "Frogs are popular subjects in street art, symbolizing transformation and nature in urban environments."
     ],
     "ai_species": "crane",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Artistic Frog (Graffiti)"
   },
   "1036884": {
     "id": 1036884,
@@ -603,7 +621,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "1038025": {
     "id": 1038025,
@@ -636,7 +655,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "1093182": {
     "id": 1093182,
@@ -716,7 +736,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "cricket",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "1370740": {
     "id": 1370740,
@@ -755,19 +776,14 @@
     "description": "Side view of a ceramic princess figurine holding and kissing a crowned frog, evoking fairy tale magic.",
     "url": "https://www.pexels.com/photo/woman-wearing-crown-holding-frog-figurine-1637884/",
     "photographer": "Susanne Jutzeler, suju-foto",
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Decorative)",
     "fact": "This frog's unique patterns and specialized skin help it thrive in its specific micro-habitat, though its exact species is still being studied by our frog-experts.",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "Many cultures believe that frog figurines bring good luck and prosperity to a home."
     ],
     "ai_species": "gown",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Ceramic Frog"
   },
   "1785288": {
     "id": 1785288,
@@ -783,7 +799,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "1887725": {
     "id": 1887725,
@@ -799,7 +816,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "eft",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "1888839": {
     "id": 1888839,
@@ -816,7 +834,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "2013666": {
     "id": 2013666,
@@ -833,7 +852,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "2092023": {
     "id": 2092023,
@@ -849,7 +869,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "African chameleon, Chamaeleo chamaeleon",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "2092025": {
     "id": 2092025,
@@ -865,7 +886,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "2092027": {
     "id": 2092027,
@@ -898,7 +920,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "2170198": {
     "id": 2170198,
@@ -914,7 +937,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "2305938": {
     "id": 2305938,
@@ -931,7 +955,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "2421609": {
     "id": 2421609,
@@ -947,7 +972,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "2422777": {
     "id": 2422777,
@@ -964,7 +990,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "2631482": {
     "id": 2631482,
@@ -980,7 +1007,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "2761188": {
     "id": 2761188,
@@ -1002,18 +1030,13 @@
     "description": "A close-up shot of a frog resting on colorful purple flowers in a garden, showcasing vibrant summer wildlife.",
     "url": "https://www.pexels.com/photo/brown-frog-2761189/",
     "photographer": "Ylanite Koppens",
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
     ],
     "ai_species": "bee",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Mystery Phrog"
   },
   "2815727": {
     "id": 2815727,
@@ -1058,7 +1081,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "rock crab, Cancer irroratus",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "3013387": {
     "id": 3013387,
@@ -1086,7 +1110,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "rhinoceros beetle",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "3098662": {
     "id": 3098662,
@@ -1101,7 +1126,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "frilled lizard, Chlamydosaurus kingi",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "3180747": {
     "id": 3180747,
@@ -1116,7 +1142,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "3180755": {
     "id": 3180755,
@@ -1131,7 +1158,8 @@
       "They are found in the humid lowlands of Central America."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Strawberry Poison-dart Frog"
   },
   "3258237": {
     "id": 3258237,
@@ -1161,7 +1189,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "frilled lizard, Chlamydosaurus kingi",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "3455317": {
     "id": 3455317,
@@ -1206,7 +1235,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "3688199": {
     "id": 3688199,
@@ -1222,25 +1252,21 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "3726788": {
     "id": 3726788,
     "description": "Cozy room setup with a frog plush toy and colorful blanket and pillow.",
     "url": "https://www.pexels.com/photo/plush-toy-in-bed-3726788/",
     "photographer": "Inga Seliverstova",
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Soft)",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "Soft and squishy, this phrog doesn't need a swamp, just a cozy bed."
     ],
     "ai_species": "quilt, comforter, comfort, puff",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Plush Phrog"
   },
   "3743862": {
     "id": 3743862,
@@ -1255,7 +1281,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "3743863": {
     "id": 3743863,
@@ -1300,7 +1327,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "4027942": {
     "id": 4027942,
@@ -1328,7 +1356,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "4117242": {
     "id": 4117242,
@@ -1344,7 +1373,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "4190864": {
     "id": 4190864,
@@ -1393,17 +1423,12 @@
     "id": 4484276,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "box turtle, box tortoise",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "4538751": {
     "id": 4538751,
@@ -1422,17 +1447,12 @@
     "id": 4599974,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "common newt, Triturus vulgaris",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "4614479": {
     "id": 4614479,
@@ -1445,7 +1465,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "4737895": {
     "id": 4737895,
@@ -1487,7 +1508,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "4947103": {
     "id": 4947103,
@@ -1500,7 +1522,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "4953211": {
     "id": 4953211,
@@ -1513,7 +1536,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "4953213": {
     "id": 4953213,
@@ -1528,7 +1552,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "4966531": {
     "id": 4966531,
@@ -1541,7 +1566,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "5002900": {
     "id": 5002900,
@@ -1572,7 +1598,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "5055361": {
     "id": 5055361,
@@ -1586,7 +1613,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "5305909": {
     "id": 5305909,
@@ -1599,7 +1627,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "5337622": {
     "id": 5337622,
@@ -1615,7 +1644,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "5345279": {
     "id": 5345279,
@@ -1642,7 +1672,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "5377430": {
     "id": 5377430,
@@ -1657,7 +1688,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "water snake",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "5434981": {
     "id": 5434981,
@@ -1739,7 +1771,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "reel",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "6586877": {
     "id": 6586877,
@@ -1753,7 +1786,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "6613510": {
     "id": 6613510,
@@ -1782,7 +1816,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "7125457": {
     "id": 7125457,
@@ -1797,7 +1832,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "lycaenid, lycaenid butterfly",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "7177222": {
     "id": 7177222,
@@ -1813,7 +1849,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "7200224": {
     "id": 7200224,
@@ -1829,7 +1866,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "7512299": {
     "id": 7512299,
@@ -1843,7 +1881,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "7573655": {
     "id": 7573655,
@@ -1885,7 +1924,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "8271656": {
     "id": 8271656,
@@ -1925,7 +1965,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "8275236": {
     "id": 8275236,
@@ -1939,7 +1980,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "8309343": {
     "id": 8309343,
@@ -1952,7 +1994,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "8402927": {
     "id": 8402927,
@@ -1968,23 +2011,19 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "8426782": {
     "id": 8426782,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "umbrella",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "8458228": {
     "id": 8458228,
@@ -1998,7 +2037,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "8504628": {
     "id": 8504628,
@@ -2027,7 +2067,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "8802592": {
     "id": 8802592,
@@ -2042,7 +2083,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "8802596": {
     "id": 8802596,
@@ -2055,23 +2097,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "8816105": {
     "id": 8816105,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "banded gecko",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "8816110": {
     "id": 8816110,
@@ -2084,7 +2122,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "8824684": {
     "id": 8824684,
@@ -2112,7 +2151,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "8852967": {
     "id": 8852967,
@@ -2125,7 +2165,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "8853007": {
     "id": 8853007,
@@ -2138,23 +2179,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "8891973": {
     "id": 8891973,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "fiddler crab",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "8919559": {
     "id": 8919559,
@@ -2188,17 +2225,12 @@
     "id": 8921246,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "vine snake",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "9019355": {
     "id": 9019355,
@@ -2211,7 +2243,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "9105295": {
     "id": 9105295,
@@ -2226,7 +2259,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "9108695": {
     "id": 9108695,
@@ -2239,23 +2273,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "9112557": {
     "id": 9112557,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "banded gecko",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "9408389": {
     "id": 9408389,
@@ -2270,7 +2300,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "coral fungus",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "9539356": {
     "id": 9539356,
@@ -2284,7 +2315,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "9542444": {
     "id": 9542444,
@@ -2298,7 +2330,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "9713972": {
     "id": 9713972,
@@ -2325,7 +2358,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "9890923": {
     "id": 9890923,
@@ -2338,7 +2372,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "10004164": {
     "id": 10004164,
@@ -2352,7 +2387,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "10857798": {
     "id": 10857798,
@@ -2369,7 +2405,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "10882784": {
     "id": 10882784,
@@ -2399,7 +2436,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "11538896": {
     "id": 11538896,
@@ -2431,17 +2469,12 @@
     "id": 11654419,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "vase",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "11747503": {
     "id": 11747503,
@@ -2455,7 +2488,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "11980637": {
     "id": 11980637,
@@ -2481,7 +2515,8 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "12342515": {
     "id": 12342515,
@@ -2507,7 +2542,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "12514384": {
     "id": 12514384,
@@ -2523,7 +2559,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "12514394": {
     "id": 12514394,
@@ -2550,23 +2587,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "12568684": {
     "id": 12568684,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "American alligator, Alligator mississipiensis",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "12569707": {
     "id": 12569707,
@@ -2598,23 +2631,19 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "American chameleon, anole, Anolis carolinensis",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "12569713": {
     "id": 12569713,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "slug",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "12833790": {
     "id": 12833790,
@@ -2640,7 +2669,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "13038924": {
     "id": 13038924,
@@ -2654,7 +2684,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "13040001": {
     "id": 13040001,
@@ -2668,7 +2699,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "13224700": {
     "id": 13224700,
@@ -2685,7 +2717,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "13364727": {
     "id": 13364727,
@@ -2737,7 +2770,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "13391240": {
     "id": 13391240,
@@ -2751,7 +2785,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "13448675": {
     "id": 13448675,
@@ -2766,7 +2801,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "13706388": {
     "id": 13706388,
@@ -2780,7 +2816,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "13801172": {
     "id": 13801172,
@@ -2793,7 +2830,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "14092730": {
     "id": 14092730,
@@ -2848,7 +2886,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "14479252": {
     "id": 14479252,
@@ -2875,7 +2914,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "14505858": {
     "id": 14505858,
@@ -2959,39 +2999,30 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "15096080": {
     "id": 15096080,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "agama",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "15204314": {
     "id": 15204314,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "night snake, Hypsiglena torquata",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "15205232": {
     "id": 15205232,
@@ -3018,7 +3049,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "15205283": {
     "id": 15205283,
@@ -3032,7 +3064,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "15477997": {
     "id": 15477997,
@@ -3048,7 +3081,8 @@
       "They are most active during the day (diurnal) and hunt for small ants and mites."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green-and-black Poison Dart Frog"
   },
   "15478021": {
     "id": 15478021,
@@ -3065,7 +3099,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "15565463": {
     "id": 15565463,
@@ -3081,7 +3116,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "15578668": {
     "id": 15578668,
@@ -3095,7 +3131,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "15603452": {
     "id": 15603452,
@@ -3111,7 +3148,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "15698412": {
     "id": 15698412,
@@ -3131,19 +3169,14 @@
     "description": "Frog-shaped bubble machine creating bubbles on a sunny rooftop garden.",
     "url": "https://www.pexels.com/photo/funny-bubble-machine-on-roof-outdoors-15859235/",
     "photographer": "Lisa from Pexels",
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Mechanical)",
     "fact": "This frog's unique patterns and specialized skin help it thrive in its specific micro-habitat, though its exact species is still being studied by our frog-experts.",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "This mechanical frog breathes bubbles instead of flies!"
     ],
     "ai_species": "bubble",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Froggy Bubble Machine"
   },
   "16543092": {
     "id": 16543092,
@@ -3159,7 +3192,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "16668275": {
     "id": 16668275,
@@ -3174,7 +3208,8 @@
       "They are found in the humid lowlands of Central America."
     ],
     "ai_species": "slug",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Strawberry Poison-dart Frog"
   },
   "16668293": {
     "id": 16668293,
@@ -3190,7 +3225,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "16672278": {
     "id": 16672278,
@@ -3207,7 +3243,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "16672279": {
     "id": 16672279,
@@ -3222,7 +3259,8 @@
       "They are most active during the day (diurnal) and hunt for small ants and mites."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green-and-black Poison Dart Frog"
   },
   "16672280": {
     "id": 16672280,
@@ -3238,7 +3276,8 @@
       "Males aggressively guard their eggs against wasps and other predators."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Glass Frog"
   },
   "16672281": {
     "id": 16672281,
@@ -3253,7 +3292,8 @@
       "Males aggressively guard their eggs against wasps and other predators."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Glass Frog"
   },
   "16672282": {
     "id": 16672282,
@@ -3268,23 +3308,19 @@
       "They are most active during the day (diurnal) and hunt for small ants and mites."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green-and-black Poison Dart Frog"
   },
   "16735094": {
     "id": 16735094,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "weevil",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "16777293": {
     "id": 16777293,
@@ -3298,23 +3334,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "16847996": {
     "id": 16847996,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "African chameleon, Chamaeleo chamaeleon",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "16848028": {
     "id": 16848028,
@@ -3331,7 +3363,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "16865418": {
     "id": 16865418,
@@ -3347,23 +3380,19 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "American chameleon, anole, Anolis carolinensis",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "17054967": {
     "id": 17054967,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "cricket",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "17068046": {
     "id": 17068046,
@@ -3377,23 +3406,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "17237913": {
     "id": 17237913,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "cricket",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "17237932": {
     "id": 17237932,
@@ -3406,7 +3431,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17388394": {
     "id": 17388394,
@@ -3432,7 +3458,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17499994": {
     "id": 17499994,
@@ -3448,7 +3475,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "17506293": {
     "id": 17506293,
@@ -3462,7 +3490,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "17506296": {
     "id": 17506296,
@@ -3476,7 +3505,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "17506297": {
     "id": 17506297,
@@ -3490,7 +3520,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "17506298": {
     "id": 17506298,
@@ -3504,7 +3535,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "17544710": {
     "id": 17544710,
@@ -3530,23 +3562,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17662749": {
     "id": 17662749,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "starfish, sea star",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "17742303": {
     "id": 17742303,
@@ -3573,7 +3601,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "17797698": {
     "id": 17797698,
@@ -3603,7 +3632,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "17826907": {
     "id": 17826907,
@@ -3620,7 +3650,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "17829201": {
     "id": 17829201,
@@ -3637,7 +3668,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "17839937": {
     "id": 17839937,
@@ -3669,7 +3701,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "17840050": {
     "id": 17840050,
@@ -3695,7 +3728,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17840057": {
     "id": 17840057,
@@ -3710,7 +3744,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "17840058": {
     "id": 17840058,
@@ -3723,7 +3758,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17840059": {
     "id": 17840059,
@@ -3736,7 +3772,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17868069": {
     "id": 17868069,
@@ -3753,7 +3790,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "17895098": {
     "id": 17895098,
@@ -3769,7 +3807,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "17907387": {
     "id": 17907387,
@@ -3782,7 +3821,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "17907388": {
     "id": 17907388,
@@ -3795,7 +3835,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18056548": {
     "id": 18056548,
@@ -3812,23 +3853,19 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "18061314": {
     "id": 18061314,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "tiger beetle",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "18099595": {
     "id": 18099595,
@@ -3841,7 +3878,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18119022": {
     "id": 18119022,
@@ -3858,7 +3896,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "18136002": {
     "id": 18136002,
@@ -3874,7 +3913,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "slug",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "18161316": {
     "id": 18161316,
@@ -3906,7 +3946,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "18170271": {
     "id": 18170271,
@@ -3919,7 +3960,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18174678": {
     "id": 18174678,
@@ -3932,7 +3974,8 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "18273476": {
     "id": 18273476,
@@ -3947,7 +3990,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "starfish, sea star",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "18417424": {
     "id": 18417424,
@@ -3973,7 +4017,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18590932": {
     "id": 18590932,
@@ -3986,7 +4031,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18628447": {
     "id": 18628447,
@@ -4002,7 +4048,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "18628448": {
     "id": 18628448,
@@ -4018,7 +4065,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "18628450": {
     "id": 18628450,
@@ -4035,7 +4083,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "18628464": {
     "id": 18628464,
@@ -4051,7 +4100,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "18628473": {
     "id": 18628473,
@@ -4064,7 +4114,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18628735": {
     "id": 18628735,
@@ -4090,7 +4141,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18645623": {
     "id": 18645623,
@@ -4103,7 +4155,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18645627": {
     "id": 18645627,
@@ -4116,7 +4169,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18645628": {
     "id": 18645628,
@@ -4129,7 +4183,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18645630": {
     "id": 18645630,
@@ -4144,7 +4199,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "18700242": {
     "id": 18700242,
@@ -4160,7 +4216,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "18704358": {
     "id": 18704358,
@@ -4173,7 +4230,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18704364": {
     "id": 18704364,
@@ -4186,7 +4244,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18704413": {
     "id": 18704413,
@@ -4212,7 +4271,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18726757": {
     "id": 18726757,
@@ -4225,7 +4285,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18726761": {
     "id": 18726761,
@@ -4242,7 +4303,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "18726768": {
     "id": 18726768,
@@ -4255,7 +4317,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18726769": {
     "id": 18726769,
@@ -4268,7 +4331,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18726805": {
     "id": 18726805,
@@ -4297,7 +4361,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18888990": {
     "id": 18888990,
@@ -4310,7 +4375,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "18889034": {
     "id": 18889034,
@@ -4323,7 +4389,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "19046845": {
     "id": 19046845,
@@ -4336,7 +4403,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "19147768": {
     "id": 19147768,
@@ -4349,41 +4417,32 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "19173970": {
     "id": 19173970,
     "description": "A tiny frog sits delicately in gently cupped hands, showcasing nature's delicate beauty.",
     "url": "https://www.pexels.com/photo/close-up-of-a-person-holding-a-tiny-frog-in-hands-19173970/",
     "photographer": "Andreas Schnabl",
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
     ],
     "ai_species": "tick",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Mystery Phrog"
   },
   "19181402": {
     "id": 19181402,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "pedestal, plinth, footstall",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "19196077": {
     "id": 19196077,
@@ -4428,7 +4487,8 @@
       "They are often masters of camouflage, matching the colors of the dirt, rocks, or dead leaves where they live.",
       "Many land-dwelling frogs burrow into the ground during the day to stay cool and damp.",
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
-    ]
+    ],
+    "common_name": "Terrestrial Frog/Toad"
   },
   "19585986": {
     "id": 19585986,
@@ -4457,7 +4517,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "19705033": {
     "id": 19705033,
@@ -4474,7 +4535,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "19858412": {
     "id": 19858412,
@@ -4506,7 +4568,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "20167547": {
     "id": 20167547,
@@ -4520,7 +4583,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "20273624": {
     "id": 20273624,
@@ -4533,7 +4597,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "20403264": {
     "id": 20403264,
@@ -4549,7 +4614,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "20403276": {
     "id": 20403276,
@@ -4565,7 +4631,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "20403308": {
     "id": 20403308,
@@ -4578,23 +4645,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "20661575": {
     "id": 20661575,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "fountain",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "20744259": {
     "id": 20744259,
@@ -4653,7 +4716,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "21327284": {
     "id": 21327284,
@@ -4667,7 +4731,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "21612273": {
     "id": 21612273,
@@ -4699,7 +4764,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "21612277": {
     "id": 21612277,
@@ -4755,7 +4821,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "22602216": {
     "id": 22602216,
@@ -4769,7 +4836,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "22602590": {
     "id": 22602590,
@@ -4782,23 +4850,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "22949071": {
     "id": 22949071,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "African crocodile, Nile crocodile, Crocodylus niloticus",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "23017794": {
     "id": 23017794,
@@ -4824,7 +4888,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "23136462": {
     "id": 23136462,
@@ -4837,7 +4902,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "23408576": {
     "id": 23408576,
@@ -4854,7 +4920,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "23408577": {
     "id": 23408577,
@@ -4871,7 +4938,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "23408578": {
     "id": 23408578,
@@ -4888,7 +4956,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "23408580": {
     "id": 23408580,
@@ -4905,7 +4974,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "23516525": {
     "id": 23516525,
@@ -4919,7 +4989,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "23526661": {
     "id": 23526661,
@@ -4932,7 +5003,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "23645270": {
     "id": 23645270,
@@ -4949,7 +5021,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "23645275": {
     "id": 23645275,
@@ -4965,7 +5038,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "23645286": {
     "id": 23645286,
@@ -4978,7 +5052,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "23645343": {
     "id": 23645343,
@@ -4994,7 +5069,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "23658742": {
     "id": 23658742,
@@ -5008,7 +5084,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "23658765": {
     "id": 23658765,
@@ -5022,7 +5099,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "23716147": {
     "id": 23716147,
@@ -5036,7 +5114,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "23716150": {
     "id": 23716150,
@@ -5049,7 +5128,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "23716154": {
     "id": 23716154,
@@ -5075,7 +5155,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "23874066": {
     "id": 23874066,
@@ -5089,7 +5170,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "24994821": {
     "id": 24994821,
@@ -5106,7 +5188,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "25015084": {
     "id": 25015084,
@@ -5119,7 +5202,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "25559663": {
     "id": 25559663,
@@ -5151,7 +5235,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "25692338": {
     "id": 25692338,
@@ -5165,7 +5250,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "25897422": {
     "id": 25897422,
@@ -5178,7 +5264,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "25897423": {
     "id": 25897423,
@@ -5204,7 +5291,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "25942363": {
     "id": 25942363,
@@ -5221,25 +5309,21 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "25942378": {
     "id": 25942378,
     "description": "Detailed close-up of a green frog sitting outdoors in Waldkirch, Germany.",
     "url": "https://www.pexels.com/photo/close-up-on-a-tiny-green-frog-25942378/",
     "photographer": "Ilo Frey",
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "This image was identified as a non-frog item and is hidden from the main command."
     ],
     "ai_species": "American chameleon, anole, Anolis carolinensis",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Not a Frog"
   },
   "26076138": {
     "id": 26076138,
@@ -5255,23 +5339,19 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "26081901": {
     "id": 26081901,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "American alligator, Alligator mississipiensis",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "26150771": {
     "id": 26150771,
@@ -5285,7 +5365,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "26690573": {
     "id": 26690573,
@@ -5298,7 +5379,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "26690577": {
     "id": 26690577,
@@ -5314,7 +5396,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "26690580": {
     "id": 26690580,
@@ -5327,7 +5410,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "26690588": {
     "id": 26690588,
@@ -5340,7 +5424,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "26698444": {
     "id": 26698444,
@@ -5355,7 +5440,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "cockroach, roach",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "26757643": {
     "id": 26757643,
@@ -5420,18 +5506,15 @@
     "description": "Detailed close-up of a common coqui frog in its natural habitat in Fajardo, Puerto Rico.",
     "url": "https://www.pexels.com/photo/close-up-of-a-frog-26967758/",
     "photographer": "Roberto Lee Cortes",
-    "scientific_name": "Anura",
+    "scientific_name": "Eleutherodactylus coqui",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "Native to Puerto Rico, the Coqui's call (ko-kee!) can reach levels over 90 decibels.",
+      "Unlike many frogs, they do not have a tadpole stage; instead, tiny frogs hatch directly from eggs.",
+      "The male Coqui is the one that calls to defend territory and attract mates."
     ],
     "ai_species": "walking stick, walkingstick, stick insect",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Common Coqui"
   },
   "26968163": {
     "id": 26968163,
@@ -5491,7 +5574,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "27048941": {
     "id": 27048941,
@@ -5504,7 +5588,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "27098492": {
     "id": 27098492,
@@ -5518,7 +5603,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "27114812": {
     "id": 27114812,
@@ -5532,7 +5618,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "27132148": {
     "id": 27132148,
@@ -5548,7 +5635,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "27132149": {
     "id": 27132149,
@@ -5563,7 +5651,8 @@
       "They can breathe through both their lungs and their skin."
     ],
     "ai_species": "African crocodile, Nile crocodile, Crocodylus niloticus",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "European Common Frog"
   },
   "27132153": {
     "id": 27132153,
@@ -5594,23 +5683,19 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "27311533": {
     "id": 27311533,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "ice lolly, lolly, lollipop, popsicle",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "27397921": {
     "id": 27397921,
@@ -5626,7 +5711,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "27398315": {
     "id": 27398315,
@@ -5639,7 +5725,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "27400051": {
     "id": 27400051,
@@ -5652,7 +5739,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "27443464": {
     "id": 27443464,
@@ -5666,23 +5754,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "27468907": {
     "id": 27468907,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "European fire salamander, Salamandra salamandra",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "27490426": {
     "id": 27490426,
@@ -5696,7 +5780,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "27513827": {
     "id": 27513827,
@@ -5709,7 +5794,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "27647914": {
     "id": 27647914,
@@ -5723,7 +5809,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "27691639": {
     "id": 27691639,
@@ -5737,7 +5824,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "27768764": {
     "id": 27768764,
@@ -5752,39 +5840,30 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "27814209": {
     "id": 27814209,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "wolf spider, hunting spider",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "27853910": {
     "id": 27853910,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "green lizard, Lacerta viridis",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "27865374": {
     "id": 27865374,
@@ -5797,7 +5876,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "27920597": {
     "id": 27920597,
@@ -5812,7 +5892,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "27920598": {
     "id": 27920598,
@@ -5846,17 +5927,12 @@
     "id": 28052117,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "bell cote, bell cot",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "28074794": {
     "id": 28074794,
@@ -5896,7 +5972,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "28144601": {
     "id": 28144601,
@@ -5909,7 +5986,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "28198517": {
     "id": 28198517,
@@ -5922,7 +6000,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "28298161": {
     "id": 28298161,
@@ -5938,25 +6017,23 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "28320465": {
     "id": 28320465,
     "description": "Detailed shot of a colorful frog perched on lichen in Guasca, Colombia.",
     "url": "https://www.pexels.com/photo/ranas-de-paramo-28320465/",
     "photographer": "Andrés  Ramírez",
-    "scientific_name": "Anura",
+    "scientific_name": "Pristimantis lichenoides",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "They have evolved incredible camouflage to look exactly like colorful moss and lichen.",
+      "They are endemic to the cloud forests of the Andes in Colombia.",
+      "Like all Pristimantis, they undergo direct development, bypassing the tadpole stage entirely."
     ],
     "ai_species": "common newt, Triturus vulgaris",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Lichen-mimic Rain Frog"
   },
   "28654598": {
     "id": 28654598,
@@ -5969,23 +6046,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "28850035": {
     "id": 28850035,
     "description": "Two little penguins resting in a sandy aquarium display setting.",
     "url": "https://www.pexels.com/photo/little-penguins-at-the-aquarium-exhibit-28850035/",
     "photographer": "Nate Biddle",
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "28888698": {
     "id": 28888698,
@@ -5999,23 +6072,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "28905024": {
     "id": 28905024,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "steel arch bridge",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "28915867": {
     "id": 28915867,
@@ -6028,7 +6097,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "28915882": {
     "id": 28915882,
@@ -6041,7 +6111,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "28917176": {
     "id": 28917176,
@@ -6070,7 +6141,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "29268253": {
     "id": 29268253,
@@ -6083,7 +6155,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "29444320": {
     "id": 29444320,
@@ -6112,7 +6185,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "29455187": {
     "id": 29455187,
@@ -6126,7 +6200,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "29506275": {
     "id": 29506275,
@@ -6141,7 +6216,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "29506276": {
     "id": 29506276,
@@ -6157,7 +6233,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "29506277": {
     "id": 29506277,
@@ -6170,7 +6247,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "29506298": {
     "id": 29506298,
@@ -6183,7 +6261,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "29506300": {
     "id": 29506300,
@@ -6211,7 +6290,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "29518235": {
     "id": 29518235,
@@ -6225,7 +6305,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "29937010": {
     "id": 29937010,
@@ -6238,7 +6319,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "29993582": {
     "id": 29993582,
@@ -6251,7 +6333,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "30047859": {
     "id": 30047859,
@@ -6266,7 +6349,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "30047860": {
     "id": 30047860,
@@ -6303,18 +6387,13 @@
     "description": "Red brick lighthouse tower in a grassy field under a cloudy sky, embodying autumn vibes.",
     "url": "https://www.pexels.com/photo/historic-lighthouse-in-autumn-landscape-30195687/",
     "photographer": "Maximilian Orlowsky",
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "This image was identified as a non-frog item and is hidden from the main command."
     ],
     "ai_species": "beacon, lighthouse, beacon light, pharos",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Not a Frog"
   },
   "30195688": {
     "id": 30195688,
@@ -6327,39 +6406,30 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "30443956": {
     "id": 30443956,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "pot, flowerpot",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30480524": {
     "id": 30480524,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "agama",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30602537": {
     "id": 30602537,
@@ -6378,83 +6448,58 @@
     "id": 30770772,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "fountain",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30823856": {
     "id": 30823856,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "terrapin",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30835514": {
     "id": 30835514,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "green lizard, Lacerta viridis",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30835525": {
     "id": 30835525,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "green lizard, Lacerta viridis",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30835526": {
     "id": 30835526,
     "description": "Vibrant green day gecko clinging to a bamboo stalk in a forest setting.",
     "url": "https://www.pexels.com/photo/close-up-of-a-green-day-gecko-on-bamboo-30835526/",
     "photographer": "Fotis Michalainas",
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
+      "This image was identified as a non-frog item and is hidden from the main command."
     ],
     "ai_species": "green lizard, Lacerta viridis",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Not a Frog"
   },
   "30835538": {
     "id": 30835538,
@@ -6467,39 +6512,30 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "30835568": {
     "id": 30835568,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "cinema, movie theater, movie theatre, movie house, picture palace",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "30835578": {
     "id": 30835578,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "vault",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "31031548": {
     "id": 31031548,
@@ -6513,7 +6549,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "31036266": {
     "id": 31036266,
@@ -6527,7 +6564,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "31036270": {
     "id": 31036270,
@@ -6555,7 +6593,8 @@
       "They can breathe through both their lungs and their skin."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "European Common Frog"
   },
   "31097615": {
     "id": 31097615,
@@ -6584,7 +6623,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "31316798": {
     "id": 31316798,
@@ -6613,7 +6653,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "31534446": {
     "id": 31534446,
@@ -6628,7 +6669,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "31544321": {
     "id": 31544321,
@@ -6641,7 +6683,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "31633358": {
     "id": 31633358,
@@ -6655,7 +6698,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "31747387": {
     "id": 31747387,
@@ -6682,7 +6726,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "31810490": {
     "id": 31810490,
@@ -6695,7 +6740,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "31826519": {
     "id": 31826519,
@@ -6711,7 +6757,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "31826521": {
     "id": 31826521,
@@ -6727,7 +6774,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "31826531": {
     "id": 31826531,
@@ -6801,7 +6849,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32013199": {
     "id": 32013199,
@@ -6815,7 +6864,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32114515": {
     "id": 32114515,
@@ -6829,7 +6879,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32114522": {
     "id": 32114522,
@@ -6843,7 +6894,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32289251": {
     "id": 32289251,
@@ -6859,39 +6911,30 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "32319066": {
     "id": 32319066,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "tricycle, trike, velocipede",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "32319179": {
     "id": 32319179,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "fountain",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "32528967": {
     "id": 32528967,
@@ -6906,7 +6949,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "rhinoceros beetle",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "32528968": {
     "id": 32528968,
@@ -6936,7 +6980,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "32528970": {
     "id": 32528970,
@@ -6981,7 +7026,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "32528990": {
     "id": 32528990,
@@ -7008,7 +7054,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32550140": {
     "id": 32550140,
@@ -7035,23 +7082,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32615009": {
     "id": 32615009,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "common iguana, iguana, Iguana iguana",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "32615010": {
     "id": 32615010,
@@ -7065,7 +7108,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32615017": {
     "id": 32615017,
@@ -7079,7 +7123,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32615018": {
     "id": 32615018,
@@ -7093,39 +7138,30 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "32669411": {
     "id": 32669411,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "umbrella",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "32669420": {
     "id": 32669420,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "reflex camera",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "32669424": {
     "id": 32669424,
@@ -7144,17 +7180,12 @@
     "id": 32669428,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "stole",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "32669434": {
     "id": 32669434,
@@ -7169,7 +7200,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "32669435": {
     "id": 32669435,
@@ -7199,7 +7231,8 @@
       "Some terrestrial species can travel long distances away from water, only returning to ponds during the breeding season."
     ],
     "ai_species": "car mirror",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Terrestrial Frog/Toad"
   },
   "32697676": {
     "id": 32697676,
@@ -7228,7 +7261,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "33020871": {
     "id": 33020871,
@@ -7242,7 +7276,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "33042875": {
     "id": 33042875,
@@ -7256,7 +7291,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "33289932": {
     "id": 33289932,
@@ -7270,7 +7306,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "33292867": {
     "id": 33292867,
@@ -7286,7 +7323,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "33311080": {
     "id": 33311080,
@@ -7302,7 +7340,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "33348226": {
     "id": 33348226,
@@ -7315,7 +7354,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "33442876": {
     "id": 33442876,
@@ -7330,7 +7370,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "33458199": {
     "id": 33458199,
@@ -7343,7 +7384,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "33483027": {
     "id": 33483027,
@@ -7358,7 +7400,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "saltshaker, salt shaker",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "33516515": {
     "id": 33516515,
@@ -7384,7 +7427,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "33670377": {
     "id": 33670377,
@@ -7397,7 +7441,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "33765191": {
     "id": 33765191,
@@ -7410,7 +7455,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "33765194": {
     "id": 33765194,
@@ -7431,17 +7477,12 @@
     "id": 33801339,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Not a Frog",
     "ai_species": "green snake, grass snake",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "This image was identified as a non-frog item and is hidden from the main command."
+    ],
+    "common_name": "Not a Frog"
   },
   "33804691": {
     "id": 33804691,
@@ -7485,7 +7526,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "33852150": {
     "id": 33852150,
@@ -7500,7 +7542,8 @@
       "They can breathe through both their lungs and their skin."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "European Common Frog"
   },
   "33881493": {
     "id": 33881493,
@@ -7516,7 +7559,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "33881494": {
     "id": 33881494,
@@ -7532,7 +7576,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "33885856": {
     "id": 33885856,
@@ -7546,7 +7591,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "33892086": {
     "id": 33892086,
@@ -7587,7 +7633,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "little blue heron, Egretta caerulea",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "33949537": {
     "id": 33949537,
@@ -7617,7 +7664,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "lakeside, lakeshore",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "33976329": {
     "id": 33976329,
@@ -7630,7 +7678,8 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "33976332": {
     "id": 33976332,
@@ -7644,23 +7693,19 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "33976333": {
     "id": 33976333,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "radio telescope, radio reflector",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "33976335": {
     "id": 33976335,
@@ -7675,23 +7720,19 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "water snake",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "33976336": {
     "id": 33976336,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "solar dish, solar collector, solar furnace",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "33976626": {
     "id": 33976626,
@@ -7747,7 +7788,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "33992002": {
     "id": 33992002,
@@ -7788,7 +7830,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "American alligator, Alligator mississipiensis",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "34012610": {
     "id": 34012610,
@@ -7819,7 +7862,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "34037951": {
     "id": 34037951,
@@ -7832,7 +7876,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34044696": {
     "id": 34044696,
@@ -7863,7 +7908,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "34056347": {
     "id": 34056347,
@@ -7879,7 +7925,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "34073514": {
     "id": 34073514,
@@ -7892,7 +7939,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34079374": {
     "id": 34079374,
@@ -7906,7 +7954,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "34220469": {
     "id": 34220469,
@@ -7919,23 +7968,19 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "34235321": {
     "id": 34235321,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "34257110": {
     "id": 34257110,
@@ -7993,7 +8038,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34285315": {
     "id": 34285315,
@@ -8051,7 +8097,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34365709": {
     "id": 34365709,
@@ -8065,7 +8112,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "34367572": {
     "id": 34367572,
@@ -8078,7 +8126,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34419603": {
     "id": 34419603,
@@ -8094,7 +8143,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "34436456": {
     "id": 34436456,
@@ -8128,17 +8178,12 @@
     "id": 34511924,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "earthstar",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "34526935": {
     "id": 34526935,
@@ -8151,7 +8196,8 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "34540195": {
     "id": 34540195,
@@ -8165,7 +8211,8 @@
       "Their deep 'jug-o-rum' call can be heard from over a mile away.",
       "Bullfrog tadpoles can take up to two years to transform into adult frogs.",
       "They are the largest true frog species in North America."
-    ]
+    ],
+    "common_name": "American Bullfrog"
   },
   "34540205": {
     "id": 34540205,
@@ -8193,7 +8240,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "terrapin",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "34580580": {
     "id": 34580580,
@@ -8212,17 +8260,12 @@
     "id": 34598571,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "snail",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "34605422": {
     "id": 34605422,
@@ -8237,7 +8280,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "34605478": {
     "id": 34605478,
@@ -8250,7 +8294,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34638493": {
     "id": 34638493,
@@ -8263,23 +8308,19 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34638866": {
     "id": 34638866,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "snail",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   },
   "34677124": {
     "id": 34677124,
@@ -8295,7 +8336,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "34690980": {
     "id": 34690980,
@@ -8311,7 +8353,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "34720122": {
     "id": 34720122,
@@ -8324,7 +8367,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "34766419": {
     "id": 34766419,
@@ -8354,7 +8398,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "grasshopper, hopper",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "34769349": {
     "id": 34769349,
@@ -8370,7 +8415,8 @@
       "Indigenous people sometimes used their toxins for blowgun darts."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Dyeing Poison Dart Frog"
   },
   "34833402": {
     "id": 34833402,
@@ -8424,7 +8470,8 @@
       "Many pond frogs can stay underwater for long periods by absorbing oxygen through their skin.",
       "Their eyes and nostrils are often on the very top of their heads so they can see and breathe while mostly submerged.",
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
-    ]
+    ],
+    "common_name": "Aquatic Frog"
   },
   "34983524": {
     "id": 34983524,
@@ -8452,7 +8499,8 @@
       "They can breathe through both their lungs and their skin."
     ],
     "ai_species": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "European Common Frog"
   },
   "34991847": {
     "id": 34991847,
@@ -8468,7 +8516,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "35029951": {
     "id": 35029951,
@@ -8484,7 +8533,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "35029954": {
     "id": 35029954,
@@ -8515,7 +8565,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "35037045": {
     "id": 35037045,
@@ -8531,7 +8582,8 @@
       "Males shake their bodies to create vibrations, signaling their territory to others."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Red-eyed Tree Frog"
   },
   "35037767": {
     "id": 35037767,
@@ -8562,7 +8614,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "35098884": {
     "id": 35098884,
@@ -8577,7 +8630,8 @@
       "They spend their lives near water to keep their skin moist and to provide a safe place for their eggs."
     ],
     "ai_species": "water snake",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Aquatic Frog"
   },
   "35100930": {
     "id": 35100930,
@@ -8593,7 +8647,8 @@
       "They are the largest true frog species in North America."
     ],
     "ai_species": "bullfrog, Rana catesbeiana",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "American Bullfrog"
   },
   "35115974": {
     "id": 35115974,
@@ -8623,7 +8678,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "35115976": {
     "id": 35115976,
@@ -8638,7 +8694,8 @@
       "They have large, sticky toe pads that make them expert climbers."
     ],
     "ai_species": "tree frog, tree-frog",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Green Treefrog"
   },
   "35117530": {
     "id": 35117530,
@@ -8653,7 +8710,8 @@
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
     ],
     "ai_species": "leafhopper",
-    "ai_processed": true
+    "ai_processed": true,
+    "common_name": "Tree Frog"
   },
   "35171637": {
     "id": 35171637,
@@ -8666,7 +8724,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "35270221": {
     "id": 35270221,
@@ -8679,7 +8738,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "35270222": {
     "id": 35270222,
@@ -8692,7 +8752,8 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "35270224": {
     "id": 35270224,
@@ -8705,22 +8766,18 @@
       "Most tree frogs are small and lightweight, evolved for life high above the forest floor.",
       "Many tree frogs can change their color to blend in with the leaves or bark they are resting on.",
       "They often lay their eggs on leaves overhanging water, so the tadpoles fall directly into the water when they hatch."
-    ]
+    ],
+    "common_name": "Tree Frog"
   },
   "35270225": {
     "id": 35270225,
     "description": "Auto-discovered frog image",
     "ai_processed": true,
-    "scientific_name": "Anura",
+    "scientific_name": "Anura (Unidentified species)",
     "ai_species": "earthstar",
     "facts": [
-      "Frogs absorb water through their skin, so they don't actually need to drink like humans do!",
-      "A group of frogs is called an 'army'.",
-      "Some frogs can jump over 20 times their body length in a single bound.",
-      "Frogs use their eyes to help them swallow—they pull their eyes down into their head to push food down.",
-      "Frogs can be found on every continent on Earth except for Antarctica.",
-      "The world's smallest frog is less than 1 cm long, about the size of a housefly.",
-      "Frog skin is often slimy to keep it moist, which helps them breathe through their skin."
-    ]
+      "Even our frog experts are scratching their heads at this one! It's definitely a phrog, but its specific species is a secret."
+    ],
+    "common_name": "Mystery Phrog"
   }
 }
