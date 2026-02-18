@@ -1,0 +1,10 @@
+{
+  "frog_10004164.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "original_file": "frog_10004164.jpg",
+    "sorted_path": "edible_frog\\frog_10004164_1.jpg"
+  }
+}

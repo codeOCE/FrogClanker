@@ -1,0 +1,722 @@
+{
+  "103795": {
+    "id": 103795,
+    "description": "Green frog partially submerged in a pond with algae-covered water.",
+    "url": "https://www.pexels.com/photo/frog-on-body-of-water-during-daytime-103795/",
+    "photographer": "nastia",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "103796": {
+    "id": 103796,
+    "description": "Close-up of a green frog in its natural habitat, surrounded by water and greenery.",
+    "url": "https://www.pexels.com/photo/green-frog-103796/",
+    "photographer": "nastia",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "107499": {
+    "id": 107499,
+    "description": "A vibrant green tree frog rests on a log surrounded by lush greenery in its natural habitat.",
+    "url": "https://www.pexels.com/photo/green-tree-frog-perching-on-tree-during-daytime-107499/",
+    "photographer": "Nick Duell",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "112321": {
+    "id": 112321,
+    "description": "Detailed macro shot of a frog showcasing its eye and textured skin.",
+    "url": "https://www.pexels.com/photo/green-and-brown-frog-112321/",
+    "photographer": "sooraj s",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Some frogs can jump over 20 times their body length!"
+  },
+  "122430": {
+    "id": 122430,
+    "description": "Green frog sitting on lush lily pad in a tranquil pond surrounded by vibrant leaves.",
+    "url": "https://www.pexels.com/photo/green-frog-on-lily-pad-122430/",
+    "photographer": "Pixabay",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "129566": {
+    "id": 129566,
+    "description": "A frog partially submerged in water among vibrant green pond plants.",
+    "url": "https://www.pexels.com/photo/brown-frog-surrounded-by-green-floating-pants-on-water-129566/",
+    "photographer": "Richard Fletcher",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "158031": {
+    "id": 158031,
+    "description": "Detailed close-up of a toad on mossy ground, showcasing natural habitat.",
+    "url": "https://www.pexels.com/photo/selective-focus-photography-of-a-brown-and-black-frog-158031/",
+    "photographer": "Pixabay",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "158380": {
+    "id": 158380,
+    "description": "Close-up of a green tree frog blending in with vibrant leaves on a branch.",
+    "url": "https://www.pexels.com/photo/tree-frog-selective-focal-photography-158380/",
+    "photographer": "Pixabay",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "162252": {
+    "id": 162252,
+    "description": "Detailed close-up of a common frog sitting on cobblestones with green leaves, showcasing its natural habitat.",
+    "url": "https://www.pexels.com/photo/brown-and-black-frog-162252/",
+    "photographer": "Pixabay",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "1036884": {
+    "id": 1036884,
+    "description": "Frog resting on lily pad in a serene pond, capturing a peaceful nature moment.",
+    "url": "https://www.pexels.com/photo/photo-of-frog-on-aquatic-plant-1036884/",
+    "photographer": "Marilisa Santos",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "1038025": {
+    "id": 1038025,
+    "description": "Macro shot of frog eye reflecting a photographer capturing the scene.",
+    "url": "https://www.pexels.com/photo/closeup-photo-of-frog-eye-1038025/",
+    "photographer": "Egor Kamelev",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Some frogs can jump over 20 times their body length!"
+  },
+  "1046494": {
+    "id": 1046494,
+    "description": "Close-up of a vibrant blue dart frog sitting on moss in a lush rainforest.",
+    "url": "https://www.pexels.com/photo/closeup-photo-of-blue-frog-on-green-surface-1046494/",
+    "photographer": "Thierry Fillieul",
+    "scientific_name": "Dendrobates tinctorius 'Azureus'",
+    "fact": "These frogs are famous for their brilliant blue color, which warns predators of their toxicity."
+  },
+  "1093182": {
+    "id": 1093182,
+    "description": "A detailed view of a frog resting on colorful pebbles in a riverbed.",
+    "url": "https://www.pexels.com/photo/close-up-photography-of-frog-1093182/",
+    "photographer": "Pille  Kirsi",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "1093185": {
+    "id": 1093185,
+    "description": "A detailed view of a frog resting on rocks near a river in a wetland setting.",
+    "url": "https://www.pexels.com/photo/brown-frog-on-body-of-water-1093185/",
+    "photographer": "Pille  Kirsi",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "1101196": {
+    "id": 1101196,
+    "description": "Detailed macro shot of a common toad showcasing its eyes and textured skin in vivid detail.",
+    "url": "https://www.pexels.com/photo/macro-shot-photo-of-a-brown-frog-1101196/",
+    "photographer": "Egor Kamelev",
+    "scientific_name": "Bufo bufo",
+    "fact": "Toads have warty skin and parotoid glands behind their eyes that secrete toxins."
+  },
+  "1136104": {
+    "id": 1136104,
+    "description": "A detailed close-up of a frog resting on water surrounded by vibrant lily pads and leaves.",
+    "url": "https://www.pexels.com/photo/closeup-photography-of-brown-frog-beside-lily-pads-1136104/",
+    "photographer": "Vojta Kovařík",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "1266444": {
+    "id": 1266444,
+    "description": "A woman closely examining a silver frog ring with a soft background.",
+    "url": "https://www.pexels.com/photo/close-up-photography-of-silver-ring-1266444/",
+    "photographer": "Susanne Jutzeler, suju-foto",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs use their eyes to help them swallow—they pull them down into the roof of their mouth."
+  },
+  "1370740": {
+    "id": 1370740,
+    "description": "A vivid green frog sits on a leaf, showcasing wildlife in Monteverde, Costa Rica.",
+    "url": "https://www.pexels.com/photo/photo-of-green-frog-on-leaf-1370740/",
+    "photographer": "Lexo Salazar",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "1423593": {
+    "id": 1423593,
+    "description": "Macro shot of a tiny frog outdoors, showcasing its intricate skin texture and environment.",
+    "url": "https://www.pexels.com/photo/gray-frog-1423593/",
+    "photographer": "Johannes Plenio",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "1637884": {
+    "id": 1637884,
+    "description": "Side view of a ceramic princess figurine holding and kissing a crowned frog, evoking fairy tale magic.",
+    "url": "https://www.pexels.com/photo/woman-wearing-crown-holding-frog-figurine-1637884/",
+    "photographer": "Susanne Jutzeler, suju-foto",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs use their eyes to help them swallow—they pull them down into the roof of their mouth."
+  },
+  "1785288": {
+    "id": 1785288,
+    "description": "Close-up of an American green tree frog (Hyla cinerea) perched on a branch, showcasing its vivid color.",
+    "url": "https://www.pexels.com/photo/green-tree-frog-1785288/",
+    "photographer": "Francesco",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "1887725": {
+    "id": 1887725,
+    "description": "Close-up of a vibrant orange frog among lush greenery, showcasing nature's vivid colors.",
+    "url": "https://www.pexels.com/photo/close-up-photo-of-orange-frog-about-to-jump-on-green-grass-1887725/",
+    "photographer": "Guillaume Meurice",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs use their eyes to help them swallow—they pull them down into the roof of their mouth."
+  },
+  "1888839": {
+    "id": 1888839,
+    "description": "Detailed macro image of a frog partially submerged in a rocky riverbed.",
+    "url": "https://www.pexels.com/photo/shallow-focus-photo-of-green-frog-1888839/",
+    "photographer": "Fatih Sağlambilen",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "2013666": {
+    "id": 2013666,
+    "description": "Detailed close-up of a frog nestled in vibrant green grass, showcasing wildlife in natural habitat.",
+    "url": "https://www.pexels.com/photo/photo-of-frog-2013666/",
+    "photographer": "Juris Freidenfelds",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs use their eyes to help them swallow—they pull them down into the roof of their mouth."
+  },
+  "2092023": {
+    "id": 2092023,
+    "description": "A close-up shot of a vibrant green frog on a branch, under a dark backdrop.",
+    "url": "https://www.pexels.com/photo/macro-photography-of-green-frog-2092023/",
+    "photographer": "Lexo Salazar",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "2092025": {
+    "id": 2092025,
+    "description": "A close-up macro shot of a frog perched on a green leaf in its natural habitat.",
+    "url": "https://www.pexels.com/photo/close-up-photo-of-brown-frog-2092025/",
+    "photographer": "Lexo Salazar",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "2092027": {
+    "id": 2092027,
+    "description": "A vibrant tree frog perched on a branch in natural habitat, showcasing detailed features.",
+    "url": "https://www.pexels.com/photo/macro-photography-of-green-frog-2092027/",
+    "photographer": "Lexo Salazar",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "2092041": {
+    "id": 2092041,
+    "description": "Close-up of a colorful red-eyed tree frog perched on a vibrant green leaf at night.",
+    "url": "https://www.pexels.com/photo/close-up-photo-of-green-frog-2092041/",
+    "photographer": "Lexo Salazar",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "2170198": {
+    "id": 2170198,
+    "description": "Detailed macro shot of a green tree frog resting on a leaf.",
+    "url": "https://www.pexels.com/photo/tree-frog-resting-on-green-leaf-2170198/",
+    "photographer": "Глеб Коровко",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "2305938": {
+    "id": 2305938,
+    "description": "A macro shot of a vibrant green frog partially submerged in a natural wetland pond environment.",
+    "url": "https://www.pexels.com/photo/green-toad-in-water-2305938/",
+    "photographer": "Darius Krause",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "2421609": {
+    "id": 2421609,
+    "description": "A frog statue overlooks a serene coastal rock formation during sunrise, calm sea in the background.",
+    "url": "https://www.pexels.com/photo/photo-of-frog-statue-2421609/",
+    "photographer": "Casia Charlie",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "2422777": {
+    "id": 2422777,
+    "description": "A close-up shot of a frog camouflaged among vibrant green duckweed in a pond.",
+    "url": "https://www.pexels.com/photo/green-frog-2422777/",
+    "photographer": "Tetyana Kovyrina",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "10857798": {
+    "id": 10857798,
+    "description": "Close-up of a colorful red-eyed tree frog perched on a human finger, showcasing vivid orange and green hues.",
+    "url": "https://www.pexels.com/photo/red-eyed-frog-10857798/",
+    "photographer": "Maverick F",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "10882784": {
+    "id": 10882784,
+    "description": "A close-up shot of a golden frog sitting on grass at night, showcasing its textured skin.",
+    "url": "https://www.pexels.com/photo/frog-sitting-in-grass-10882784/",
+    "photographer": "PEDRO DUTRA",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "12514384": {
+    "id": 12514384,
+    "description": "Detailed close-up of a frog perched on a fingertip with a vibrant green background, perfect for nature enthusiasts.",
+    "url": "https://www.pexels.com/photo/frog-on-finger-12514384/",
+    "photographer": "Macro Photography",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "12569707": {
+    "id": 12569707,
+    "description": "Detailed side view of a frog perched on a branch against a black background.",
+    "url": "https://www.pexels.com/photo/frog-on-a-tree-branch-12569707/",
+    "photographer": "Macro Photography",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "12569708": {
+    "id": 12569708,
+    "description": "A small frog hides under a leaf during rainfall, showcasing nature's beauty and adaptability.",
+    "url": "https://www.pexels.com/photo/frog-hiding-from-rain-under-a-leaf-12569708/",
+    "photographer": "Macro Photography",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "13224700": {
+    "id": 13224700,
+    "description": "A detailed close-up of a frog in its natural habitat, showcasing its texture and vibrant environment.",
+    "url": "https://www.pexels.com/photo/toad-in-the-grass-13224700/",
+    "photographer": "Artem Makarov",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "14399065": {
+    "id": 14399065,
+    "description": "Vibrant yellow frog in natural habitat surrounded by foliage and rocks.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-yellow-frog-14399065/",
+    "photographer": "Osmany Mederos",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "14759046": {
+    "id": 14759046,
+    "description": "A small frog sitting on a wet wooden surface, basking in natural light.",
+    "url": "https://www.pexels.com/photo/photo-of-a-frog-sitting-on-a-wooden-board-14759046/",
+    "photographer": "IslandHopper X",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs use their eyes to help them swallow—they pull them down into the roof of their mouth."
+  },
+  "15025038": {
+    "id": 15025038,
+    "description": "A detailed close-up of a frog perched on a rock in the lush environment of East Java, Indonesia.",
+    "url": "https://www.pexels.com/photo/a-rock-on-a-frog-15025038/",
+    "photographer": "Oktavianus Mulyadi",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "15477997": {
+    "id": 15477997,
+    "description": "Close-up of a vibrant green and black poison dart frog perched on a mossy log in Costa Rica's rainforest.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-lizard-on-a-rock-15477997/",
+    "photographer": "Erick Arce",
+    "scientific_name": "Dendrobatidae",
+    "fact": "Indigenous people sometimes use the toxins from these frogs for their blowgun darts."
+  },
+  "15478021": {
+    "id": 15478021,
+    "description": "Close-up of a red-eyed tree frog on a mossy log in the Costa Rican rainforest.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-frog-15478021/",
+    "photographer": "Erick Arce",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "15565463": {
+    "id": 15565463,
+    "description": "Macro shot of a green tree frog sitting on a leaf, showcasing vibrant nature.",
+    "url": "https://www.pexels.com/photo/macro-of-frog-sitting-on-leaf-15565463/",
+    "photographer": "대정 김",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "15859235": {
+    "id": 15859235,
+    "description": "Frog-shaped bubble machine creating bubbles on a sunny rooftop garden.",
+    "url": "https://www.pexels.com/photo/funny-bubble-machine-on-roof-outdoors-15859235/",
+    "photographer": "Lisa from Pexels",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "16668293": {
+    "id": 16668293,
+    "description": "Stunning close-up of a vibrant tree frog perched on a branch against a black background.",
+    "url": "https://www.pexels.com/photo/tree-frog-in-close-up-16668293/",
+    "photographer": "Jonnathan Marin",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "16672278": {
+    "id": 16672278,
+    "description": "Close-up of a red-eyed tree frog perched on a branch in the lush Costa Rican rainforest.",
+    "url": "https://www.pexels.com/photo/frog-on-branch-16672278/",
+    "photographer": "Jean Paul  Montanaro",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "16672280": {
+    "id": 16672280,
+    "description": "Vertical close-up of a Costa Rican glass frog highlighting its vibrant, striking eyes against a black background.",
+    "url": "https://www.pexels.com/photo/close-up-of-frog-eyes-16672280/",
+    "photographer": "Jean Paul  Montanaro",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "16848028": {
+    "id": 16848028,
+    "description": "Close-up of a red-eyed tree frog in the Panama rainforest, highlighting vivid colors and natural habitat.",
+    "url": "https://www.pexels.com/photo/frog-sitting-on-branch-16848028/",
+    "photographer": "Steven Paton",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "16865418": {
+    "id": 16865418,
+    "description": "Close-up of a small tree frog perched on a leaf in a lush Indonesian jungle setting.",
+    "url": "https://www.pexels.com/photo/tiny-frog-on-a-stem-of-a-plant-16865418/",
+    "photographer": "Ilham Hadi Prayoga",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "17818781": {
+    "id": 17818781,
+    "description": "Detailed view of a green frog sitting on moist soil next to water.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-green-frog-17818781/",
+    "photographer": "Petr Ganaj",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "17826907": {
+    "id": 17826907,
+    "description": "Close-up of a common toad in a wetland in the Plzeň region, Czechia.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-toad-in-the-water-17826907/",
+    "photographer": "Petr Ganaj",
+    "scientific_name": "Bufo bufo",
+    "fact": "Toads have warty skin and parotoid glands behind their eyes that secrete toxins."
+  },
+  "17829201": {
+    "id": 17829201,
+    "description": "A detailed close-up of a frog swimming in clear water, showcasing its textured skin.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-toad-in-the-water-17829201/",
+    "photographer": "Petr Ganaj",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "17839938": {
+    "id": 17839938,
+    "description": "A vibrant red-eyed tree frog clings to a green leaf against a dark background, highlighting nature's colors.",
+    "url": "https://www.pexels.com/photo/frog-on-leaf-17839938/",
+    "photographer": "Jean Paul  Montanaro",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "17868069": {
+    "id": 17868069,
+    "description": "Vivid close-up photo of a frog displaying its vocal sacs in a natural water habitat.",
+    "url": "https://www.pexels.com/photo/close-up-of-frog-17868069/",
+    "photographer": "Denitsa Kireva",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "17895098": {
+    "id": 17895098,
+    "description": "A high-quality close-up image of a frog sitting on a leaf in the lush rainforests of Moyobamba, Peru.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-small-frog-on-a-leaf-17895098/",
+    "photographer": "Jhoel Rojas",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "18056548": {
+    "id": 18056548,
+    "description": "Captivating close-up of a red-eyed tree frog with vivid green and red colors, perched outdoors.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-red-eyed-tree-frog-18056548/",
+    "photographer": "ByChelo",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "18119022": {
+    "id": 18119022,
+    "description": "Close-up of a vibrant blue poison dart frog on a tree trunk, showcasing nature's striking wildlife.",
+    "url": "https://www.pexels.com/photo/blue-poison-dart-frog-18119022/",
+    "photographer": "Juan Felipe Ramírez",
+    "scientific_name": "Dendrobatidae",
+    "fact": "Indigenous people sometimes use the toxins from these frogs for their blowgun darts."
+  },
+  "18136002": {
+    "id": 18136002,
+    "description": "Macro shot of a frog nestled inside a yellow flower, highlighting its natural texture.",
+    "url": "https://www.pexels.com/photo/frog-on-yellow-background-18136002/",
+    "photographer": "Juan Felipe Ramírez",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "18161316": {
+    "id": 18161316,
+    "description": "Vibrant Mexican leaf frog perched on a leaf amidst lush Miami foliage, perfect for wildlife enthusiasts.",
+    "url": "https://www.pexels.com/photo/mexican-leaf-frog-18161316/",
+    "photographer": "Juan Felipe Ramírez",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "18161317": {
+    "id": 18161317,
+    "description": "Close-up of a green tree frog resting amidst tropical foliage, showcasing vibrant wildlife in Miami.",
+    "url": "https://www.pexels.com/photo/green-frog-among-tropical-leaves-18161317/",
+    "photographer": "Juan Felipe Ramírez",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "18628447": {
+    "id": 18628447,
+    "description": "Detailed close-up of a vibrant gilding tree frog perched on a branch, set against a black background.",
+    "url": "https://www.pexels.com/photo/close-up-of-gilding-tree-frog-18628447/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "18628448": {
+    "id": 18628448,
+    "description": "Close-up of a camouflaged Scinax garbei frog on a branch, showcasing its intricate markings.",
+    "url": "https://www.pexels.com/photo/close-up-of-frog-18628448/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "18628450": {
+    "id": 18628450,
+    "description": "Detailed photo of a red-eyed tree frog gripping a green stem against a black background.",
+    "url": "https://www.pexels.com/photo/close-up-of-red-eyed-tree-frog-18628450/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "18628464": {
+    "id": 18628464,
+    "description": "Detailed vertical shot of a green frog resting on a leaf, showcasing nature's vivid colors.",
+    "url": "https://www.pexels.com/photo/top-view-of-green-frog-18628464/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Some frogs can jump over 20 times their body length!"
+  },
+  "18700242": {
+    "id": 18700242,
+    "description": "Close-up of a green tree frog perched on a branch with a black background.",
+    "url": "https://www.pexels.com/photo/a-green-frog-with-a-red-eye-sits-on-a-branch-18700242/",
+    "photographer": "Andres Campos",
+    "scientific_name": "Hyla cinerea",
+    "fact": "They are known for their distinctive bird-like barking call."
+  },
+  "18726761": {
+    "id": 18726761,
+    "description": "Intimate macro shot of two vibrant red-eyed tree frogs on a leaf against a dark background.",
+    "url": "https://www.pexels.com/photo/gliding-tree-frogs-on-leaf-18726761/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "18726805": {
+    "id": 18726805,
+    "description": "Vibrant gliding tree frog resting on a green plant stem, perfect for nature-themed mobile wallpaper.",
+    "url": "https://www.pexels.com/photo/gliding-tree-frog-on-plant-stem-18726805/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "19196077": {
+    "id": 19196077,
+    "description": "A detailed close-up of a frog reflecting in a pond in Bremen, Germany.",
+    "url": "https://www.pexels.com/photo/frog-in-pond-19196077/",
+    "photographer": "Georg Wietschorke",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "19254437": {
+    "id": 19254437,
+    "description": "Close-up of a green frog on a rock in Farnham's natural habitat.",
+    "url": "https://www.pexels.com/photo/green-frog-sitting-on-a-stone-19254437/",
+    "photographer": "Lydia Dumont",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Some frogs can jump over 20 times their body length!"
+  },
+  "19585986": {
+    "id": 19585986,
+    "description": "Close-up of a green frog resting on moss in a tropical forest, showcasing its vivid colors and natural habitat.",
+    "url": "https://www.pexels.com/photo/green-frog-on-a-moss-19585986/",
+    "photographer": "William Warby",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "19705033": {
+    "id": 19705033,
+    "description": "Vibrant blue poison dart frog sitting on moss, showcasing its striking coloration in a natural setting.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-blue-poison-dart-frog-sitting-on-moss-19705033/",
+    "photographer": "William Warby",
+    "scientific_name": "Dendrobatidae",
+    "fact": "Indigenous people sometimes use the toxins from these frogs for their blowgun darts."
+  },
+  "19858412": {
+    "id": 19858412,
+    "description": "Vivid close-up shot of a frog amidst grass, showcasing bokeh effect.",
+    "url": "https://www.pexels.com/photo/frog-on-grass-19858412/",
+    "photographer": "Rodrigo Pereira",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "20403264": {
+    "id": 20403264,
+    "description": "Detailed macro shot of a small tropical frog perched on a vibrant leaf in Nigeria.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-small-frog-sitting-on-a-leaf-20403264/",
+    "photographer": "ABCDee David",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "20403276": {
+    "id": 20403276,
+    "description": "A detailed macro shot of a tree frog gripping a green stem, showcasing texture and color in Nigeria.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-small-frog-attached-to-a-stem-of-a-plant-20403276/",
+    "photographer": "ABCDee David",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "20781763": {
+    "id": 20781763,
+    "description": "Close-up of a camouflaged toad blending with the forest floor. Perfect example of wildlife adaptation.",
+    "url": "https://www.pexels.com/photo/frog-in-a-forest-20781763/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Some frogs can jump over 20 times their body length!"
+  },
+  "20898083": {
+    "id": 20898083,
+    "description": "Close-up of a frog's head above calm water, creating perfect reflections.",
+    "url": "https://www.pexels.com/photo/frog-head-in-water-20898083/",
+    "photographer": "Tommes Frites",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frog skin is often slimy to keep it moist and help them breathe."
+  },
+  "21612273": {
+    "id": 21612273,
+    "description": "Close-up of a tree frog perched on a branch against a dark background",
+    "url": "https://www.pexels.com/photo/frog-on-branch-21612273/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "A group of frogs is called an 'army'."
+  },
+  "21612274": {
+    "id": 21612274,
+    "description": "Detailed close-up of a frog resting on a branch against a dark background, showcasing nature's tranquility.",
+    "url": "https://www.pexels.com/photo/frog-on-branch-on-black-background-21612274/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  },
+  "21612277": {
+    "id": 21612277,
+    "description": "Close-up of tree frog perched on a branch with a dark background, showcasing detailed texture.",
+    "url": "https://www.pexels.com/photo/frog-on-black-background-21612277/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs absorb water through their skin, so they don't need to drink."
+  },
+  "23408576": {
+    "id": 23408576,
+    "description": "Vivid close-up of a red-eyed tree frog on a branch, showcasing its striking features.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-green-frog-on-a-branch-23408576/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "23408577": {
+    "id": 23408577,
+    "description": "Vibrant red-eyed tree frog perched on a branch in a detailed close-up photograph.",
+    "url": "https://www.pexels.com/photo/green-red-eyed-tree-frog-on-a-branch-23408577/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "23408578": {
+    "id": 23408578,
+    "description": "Close-up of a vibrant red-eyed tree frog perched on a branch in natural surroundings",
+    "url": "https://www.pexels.com/photo/close-up-of-a-red-eyed-tree-frog-on-a-branch-23408578/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "23408580": {
+    "id": 23408580,
+    "description": "Red-eyed tree frog on brown leaf, showcasing vivid colors and captivating details.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-red-eyed-tree-frog-on-a-brown-leaf-23408580/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "23645270": {
+    "id": 23645270,
+    "description": "Two vibrant Red-Eyed Tree Frogs sitting on a branch against a black background.",
+    "url": "https://www.pexels.com/photo/red-eyed-tree-frogs-23645270/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "23645275": {
+    "id": 23645275,
+    "description": "Intimate portrait of a tree frog perched on a branch against a black background.",
+    "url": "https://www.pexels.com/photo/frog-on-black-background-23645275/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "The world's smallest frog is less than 1 cm long."
+  },
+  "23645343": {
+    "id": 23645343,
+    "description": "A detailed close-up of a tree frog perched on a branch against a black background.",
+    "url": "https://www.pexels.com/photo/close-up-of-frog-23645343/",
+    "photographer": "Alejandro  Orozco",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs use their eyes to help them swallow—they pull them down into the roof of their mouth."
+  },
+  "24994821": {
+    "id": 24994821,
+    "description": "Close-up of a red-eyed tree frog perched on a branch, showcasing its vibrant colors and exotic nature.",
+    "url": "https://www.pexels.com/photo/close-up-of-a-red-eyed-tree-frog-sitting-on-a-branch-24994821/",
+    "photographer": "Andres",
+    "scientific_name": "Agalychnis callidryas",
+    "fact": "Their bright red eyes are actually a defense mechanism called startle coloration."
+  },
+  "25639597": {
+    "id": 25639597,
+    "description": "A serene image of a green frog sitting on a lily pad in a calm pond.",
+    "url": "https://www.pexels.com/photo/frog-and-water-lily-25639597/",
+    "photographer": "pete weiler",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Some frogs can jump over 20 times their body length!"
+  },
+  "25942363": {
+    "id": 25942363,
+    "description": "Green frog resting on water lilies in a serene pond. Perfect nature shot with selective focus.",
+    "url": "https://www.pexels.com/photo/frog-sitting-in-a-pond-filled-with-water-lilies-25942363/",
+    "photographer": "Ilo Frey",
+    "scientific_name": "Anura (Unknown species)",
+    "fact": "Frogs can be found on every continent except Antarctica."
+  }
+}

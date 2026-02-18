@@ -17,6 +17,7 @@ dotenv.config();
 // CONFIG
 // ----------------------------
 const PHROG_FOLDER = "./phrogs";
+const PHROG_INAT_FOLDER = "./phrogs_inat";
 const PHROG_REPORT_LIMIT = 3;
 const PHROG_COOLDOWN_MS = 10 * 60 * 1000; // 10 minutes
 
@@ -30,6 +31,8 @@ const phrogUserCooldown = new Map(); // userId -> timestamp
 // LOAD METADATA
 // ----------------------------
 let phrogMetadata = {};
+let inatManifest = {};
+
 try {
   if (fs.existsSync("./phrog_metadata.json")) {
     phrogMetadata = JSON.parse(fs.readFileSync("./phrog_metadata.json", "utf8"));
@@ -37,6 +40,16 @@ try {
   }
 } catch (err) {
   console.error("❌ Failed to load phrog metadata:", err.message);
+}
+
+try {
+  const manifestPath = path.join(PHROG_INAT_FOLDER, "manifest.json");
+  if (fs.existsSync(manifestPath)) {
+    inatManifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+    console.log(`✅ Loaded iNaturalist manifest for ${Object.keys(inatManifest).length} phrogs.`);
+  }
+} catch (err) {
+  console.error("❌ Failed to load iNaturalist manifest:", err.message);
 }
 
 // ----------------------------
@@ -68,68 +81,92 @@ client.on("messageCreate", async (message) => {
   /* ---------- !phrog ---------- */
   if (msg === "!phrog") {
     try {
-      const files = fs.readdirSync(PHROG_FOLDER).filter(file =>
-        /\.(png|jpe?g|gif|webp)$/i.test(file)
-      );
+      // Choose between Pexels folder and iNaturalist folder
+      const useInat = Math.random() > 0.5 && fs.existsSync(PHROG_INAT_FOLDER);
+      let randomFile, filePath, meta;
 
-      if (files.length === 0) {
-        await message.reply("No phrogs found 😭");
+      if (useInat) {
+        // Pick random species folder
+        const speciesFolders = fs.readdirSync(PHROG_INAT_FOLDER, { withFileTypes: true })
+          .filter(dirent => dirent.isDirectory())
+          .map(dirent => dirent.name);
+
+        if (speciesFolders.length === 0) {
+          throw new Error("No species folders found in phrogs_inat");
+        }
+
+        const randomSpecies = speciesFolders[Math.floor(Math.random() * speciesFolders.length)];
+        const speciesPath = path.join(PHROG_INAT_FOLDER, randomSpecies);
+
+        const files = fs.readdirSync(speciesPath).filter(file =>
+          /\.(png|jpe?g|gif|webp)$/i.test(file)
+        );
+
+        if (files.length === 0) {
+          throw new Error(`No images found in ${randomSpecies}`);
+        }
+
+        randomFile = files[Math.floor(Math.random() * files.length)];
+        filePath = path.join(speciesPath, randomFile);
+        meta = inatManifest[randomFile] || {};
       } else {
-        const randomFile =
-          files[Math.floor(Math.random() * files.length)];
-        const filePath = path.join(PHROG_FOLDER, randomFile);
+        const files = fs.readdirSync(PHROG_FOLDER).filter(file =>
+          /\.(png|jpe?g|gif|webp)$/i.test(file)
+        );
+
+        if (files.length === 0) {
+          await message.reply("No phrogs found 😭");
+          return;
+        }
+
+        randomFile = files[Math.floor(Math.random() * files.length)];
+        filePath = path.join(PHROG_FOLDER, randomFile);
 
         const idMatch = randomFile.match(/frog_(\d+)\./);
         const id = idMatch ? idMatch[1] : null;
-        const meta = phrogMetadata[id] || {};
-
-        const embed = new EmbedBuilder()
-          .setTitle("🐸 Random Phrog")
-          .setDescription("Here’s a fresh phrog for you 💚")
-          .setColor("#4CAF50")
-          .setImage("attachment://" + randomFile);
-
-        // Handle Names
-        let commonName = meta.common_name;
-        let sciName = meta.scientific_name;
-
-        // Extract common name from scientific name if it looks like "Sci Name (Common Name)"
-        if (sciName && sciName.includes("(") && !commonName) {
-          const match = sciName.match(/^(.*?)\s*\((.*?)\)$/);
-          if (match) {
-            sciName = match[1].trim();
-            commonName = match[2].trim();
-          }
-        }
-
-        if (commonName) {
-          embed.addFields({ name: "Common Name", value: commonName, inline: true });
-        }
-        if (sciName) {
-          embed.addFields({ name: "Scientific Name", value: `*${sciName}*`, inline: true });
-        }
-
-        if (meta.facts && Array.isArray(meta.facts) && meta.facts.length > 0) {
-          const randomFact = meta.facts[Math.floor(Math.random() * meta.facts.length)];
-          embed.addFields({ name: "Frog Fact", value: randomFact });
-        } else if (meta.fact) {
-          // Fallback for old single-fact metadata
-          embed.addFields({ name: "Frog Fact", value: meta.fact });
-        }
-
-        const row = new ActionRowBuilder().addComponents(
-          new ButtonBuilder()
-            .setCustomId(`report_phrog:${randomFile}`)
-            .setLabel("🚫 Not a Frog")
-            .setStyle(ButtonStyle.Danger)
-        );
-
-        await message.channel.send({
-          embeds: [embed],
-          files: [{ attachment: filePath, name: randomFile }],
-          components: [row]
-        });
+        meta = phrogMetadata[id] || {};
       }
+
+      const embed = new EmbedBuilder()
+        .setTitle("🐸 Random Phrog")
+        .setDescription("Here’s a fresh phrog for you 💚")
+        .setColor("#4CAF50")
+        .setImage("attachment://" + randomFile);
+
+      // Handle Names
+      let commonName = meta.common_name;
+      let sciName = meta.scientific_name;
+
+      // Extract common name from scientific name if it looks like "Sci Name (Common Name)"
+      if (sciName && sciName.includes("(") && !commonName) {
+        const match = sciName.match(/^(.*?)\s*\((.*?)\)$/);
+        if (match) {
+          sciName = match[1].trim();
+          commonName = match[2].trim();
+        }
+      }
+
+      if (commonName) {
+        embed.addFields({ name: "Common Name", value: commonName, inline: true });
+      }
+      if (sciName) {
+        embed.addFields({ name: "Scientific Name", value: `*${sciName}*`, inline: true });
+      }
+
+      // Facts removed as per user request (they don't have to have a fact show up)
+
+      const row = new ActionRowBuilder().addComponents(
+        new ButtonBuilder()
+          .setCustomId(`report_phrog:${randomFile}`)
+          .setLabel("🚫 Not a Frog")
+          .setStyle(ButtonStyle.Danger)
+      );
+
+      await message.channel.send({
+        embeds: [embed],
+        files: [{ attachment: filePath, name: randomFile }],
+        components: [row]
+      });
     } catch (err) {
       console.error("Phrog error:", err);
       await message.reply("Something went wrong getting a phrog 😭");

@@ -1,0 +1,5330 @@
+{
+  "frog_10004164.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 61.661,
+    "original_file": "frog_10004164.jpg",
+    "sorted_path": "marsh_frog\\frog_10004164.jpg"
+  },
+  "frog_1036884.jpg": {
+    "common_name": "Eastern Golden Frog",
+    "scientific_name": "Pelophylax plancyi",
+    "folder": "eastern_golden_frog",
+    "confidence": "high",
+    "score": 48.279,
+    "original_file": "frog_1036884.jpg",
+    "sorted_path": "eastern_golden_frog\\frog_1036884.jpg"
+  },
+  "frog_103795.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 38.189,
+    "original_file": "frog_103795.jpg",
+    "sorted_path": "marsh_frog\\frog_103795.jpg"
+  },
+  "frog_103796.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 34.665,
+    "original_file": "frog_103796.jpg",
+    "sorted_path": "marsh_frog\\frog_103796.jpg"
+  },
+  "frog_1038025.jpg": {
+    "common_name": "Moaning Frog",
+    "scientific_name": "Heleioporus eyrei",
+    "folder": "moaning_frog",
+    "confidence": "high",
+    "score": 14.319,
+    "original_file": "frog_1038025.jpg",
+    "sorted_path": "moaning_frog\\frog_1038025.jpg"
+  },
+  "frog_1046494.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 61.415,
+    "original_file": "frog_1046494.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_1046494.jpg"
+  },
+  "frog_107499.jpg": {
+    "common_name": "Brazilian Common Walking Leaf Frog",
+    "scientific_name": "Phyllomedusa burmeisteri",
+    "folder": "brazilian_common_walking_leaf_frog",
+    "confidence": "high",
+    "score": 10.167,
+    "original_file": "frog_107499.jpg",
+    "sorted_path": "brazilian_common_walking_leaf_frog\\frog_107499.jpg"
+  },
+  "frog_10857798.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 75.014,
+    "original_file": "frog_10857798.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_10857798.jpg"
+  },
+  "frog_10882784.jpg": {
+    "common_name": "Yellow Cururu Toad",
+    "scientific_name": "Rhinella icterica",
+    "folder": "yellow_cururu_toad",
+    "confidence": "high",
+    "score": 57.93,
+    "original_file": "frog_10882784.jpg",
+    "sorted_path": "yellow_cururu_toad\\frog_10882784.jpg"
+  },
+  "frog_1093182.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 23.589,
+    "original_file": "frog_1093182.jpg",
+    "sorted_path": "european_toad\\frog_1093182.jpg"
+  },
+  "frog_1093185.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 50.256,
+    "original_file": "frog_1093185.jpg",
+    "sorted_path": "european_toad\\frog_1093185.jpg"
+  },
+  "frog_1101196.jpg": {
+    "common_name": "Caucasian Toad",
+    "scientific_name": "Bufo verrucosissimus",
+    "folder": "caucasian_toad",
+    "confidence": "high",
+    "score": 61.522,
+    "original_file": "frog_1101196.jpg",
+    "sorted_path": "caucasian_toad\\frog_1101196.jpg"
+  },
+  "frog_112321.jpg": {
+    "common_name": "Indus Valley Bullfrog",
+    "scientific_name": "Hoplobatrachus tigerinus",
+    "folder": "indus_valley_bullfrog",
+    "confidence": "high",
+    "score": 48.12,
+    "original_file": "frog_112321.jpg",
+    "sorted_path": "indus_valley_bullfrog\\frog_112321.jpg"
+  },
+  "frog_11286873.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 49.6,
+    "original_file": "frog_11286873.jpg",
+    "sorted_path": "pool_frog\\frog_11286873.jpg"
+  },
+  "frog_1136104.jpg": {
+    "common_name": "Moor Frog",
+    "scientific_name": "Rana arvalis",
+    "folder": "moor_frog",
+    "confidence": "high",
+    "score": 35.426,
+    "original_file": "frog_1136104.jpg",
+    "sorted_path": "moor_frog\\frog_1136104.jpg"
+  },
+  "frog_11538896.jpg": {
+    "common_name": "Siberian Wood Frog",
+    "scientific_name": "Rana amurensis",
+    "folder": "siberian_wood_frog",
+    "confidence": "high",
+    "score": 41.345,
+    "original_file": "frog_11538896.jpg",
+    "sorted_path": "siberian_wood_frog\\frog_11538896.jpg"
+  },
+  "frog_11653954.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 62.895,
+    "original_file": "frog_11653954.jpg",
+    "sorted_path": "sahara_frog\\frog_11653954.jpg"
+  },
+  "frog_11654419.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 47.668,
+    "original_file": "frog_11654419.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_11654419.jpg"
+  },
+  "frog_11747503.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 15.761,
+    "original_file": "frog_11747503.jpg",
+    "sorted_path": "pool_frog\\frog_11747503.jpg"
+  },
+  "frog_11980637.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 18.459,
+    "original_file": "frog_11980637.jpg",
+    "sorted_path": "marsh_frog\\frog_11980637.jpg"
+  },
+  "frog_12181451.jpg": {
+    "common_name": "Wet Forest Toad",
+    "scientific_name": "Incilius melanochlorus",
+    "folder": "wet_forest_toad",
+    "confidence": "high",
+    "score": 16.172,
+    "original_file": "frog_12181451.jpg",
+    "sorted_path": "wet_forest_toad\\frog_12181451.jpg"
+  },
+  "frog_122430.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 57.246,
+    "original_file": "frog_122430.jpg",
+    "sorted_path": "pool_frog\\frog_122430.jpg"
+  },
+  "frog_12342515.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 70.843,
+    "original_file": "frog_12342515.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_12342515.jpg"
+  },
+  "frog_12453290.jpg": {
+    "common_name": "Taipei Green Tree Frog",
+    "scientific_name": "Zhangixalus taipeianus",
+    "folder": "taipei_green_tree_frog",
+    "confidence": "high",
+    "score": 47.683,
+    "original_file": "frog_12453290.jpg",
+    "sorted_path": "taipei_green_tree_frog\\frog_12453290.jpg"
+  },
+  "frog_12514384.jpg": {
+    "common_name": "Harlequin Tree Frog",
+    "scientific_name": "Rhacophorus pardalis",
+    "folder": "harlequin_tree_frog",
+    "confidence": "high",
+    "score": 35.349,
+    "original_file": "frog_12514384.jpg",
+    "sorted_path": "harlequin_tree_frog\\frog_12514384.jpg"
+  },
+  "frog_12514394.jpg": {
+    "common_name": "Banana Tree Dwelling Frog",
+    "scientific_name": "Boana platanera",
+    "folder": "banana_tree_dwelling_frog",
+    "confidence": "high",
+    "score": 0.994,
+    "original_file": "frog_12514394.jpg",
+    "sorted_path": "banana_tree_dwelling_frog\\frog_12514394.jpg"
+  },
+  "frog_12515549.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 33.352,
+    "original_file": "frog_12515549.jpg",
+    "sorted_path": "marsh_frog\\frog_12515549.jpg"
+  },
+  "frog_12568684.jpg": {
+    "common_name": "European Fire-Bellied Toad",
+    "scientific_name": "Bombina bombina",
+    "folder": "european_fire_bellied_toad",
+    "confidence": "high",
+    "score": 33.483,
+    "original_file": "frog_12568684.jpg",
+    "sorted_path": "european_fire_bellied_toad\\frog_12568684.jpg"
+  },
+  "frog_12569707.jpg": {
+    "common_name": "Green Paddy Frog",
+    "scientific_name": "Hylarana erythraea",
+    "folder": "green_paddy_frog",
+    "confidence": "high",
+    "score": 68.536,
+    "original_file": "frog_12569707.jpg",
+    "sorted_path": "green_paddy_frog\\frog_12569707.jpg"
+  },
+  "frog_12569708.jpg": {
+    "common_name": "Taipei frog",
+    "scientific_name": "Hylarana taipehensis",
+    "folder": "taipei_frog",
+    "confidence": "high",
+    "score": 6.884,
+    "original_file": "frog_12569708.jpg",
+    "sorted_path": "taipei_frog\\frog_12569708.jpg"
+  },
+  "frog_12569713.jpg": {
+    "common_name": "Malayan White-lipped Frog",
+    "scientific_name": "Chalcorana labialis",
+    "folder": "malayan_white_lipped_frog",
+    "confidence": "high",
+    "score": 3.68,
+    "original_file": "frog_12569713.jpg",
+    "sorted_path": "malayan_white_lipped_frog\\frog_12569713.jpg"
+  },
+  "frog_12833790.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 58.322,
+    "original_file": "frog_12833790.jpg",
+    "sorted_path": "american_toad\\frog_12833790.jpg"
+  },
+  "frog_12914766.jpg": {
+    "common_name": "Eastern Tree Frog",
+    "scientific_name": "Hyla orientalis",
+    "folder": "eastern_tree_frog",
+    "confidence": "high",
+    "score": 35.875,
+    "original_file": "frog_12914766.jpg",
+    "sorted_path": "eastern_tree_frog\\frog_12914766.jpg"
+  },
+  "frog_129566.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 67.029,
+    "original_file": "frog_129566.jpg",
+    "sorted_path": "european_common_frog\\frog_129566.jpg"
+  },
+  "frog_13038924.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 96.314,
+    "original_file": "frog_13038924.jpg",
+    "sorted_path": "green_frog\\frog_13038924.jpg"
+  },
+  "frog_13040001.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 96.574,
+    "original_file": "frog_13040001.jpg",
+    "sorted_path": "green_frog\\frog_13040001.jpg"
+  },
+  "frog_13224700.jpg": {
+    "common_name": "Wet Forest Toad",
+    "scientific_name": "Incilius melanochlorus",
+    "folder": "wet_forest_toad",
+    "confidence": "high",
+    "score": 38.126,
+    "original_file": "frog_13224700.jpg",
+    "sorted_path": "wet_forest_toad\\frog_13224700.jpg"
+  },
+  "frog_13364727.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 50.193,
+    "original_file": "frog_13364727.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_13364727.jpg"
+  },
+  "frog_13364748.jpg": {
+    "common_name": "Cane Toad",
+    "scientific_name": "Rhinella marina",
+    "folder": "cane_toad",
+    "confidence": "high",
+    "score": 64.591,
+    "original_file": "frog_13364748.jpg",
+    "sorted_path": "cane_toad\\frog_13364748.jpg"
+  },
+  "frog_13368047.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 46.733,
+    "original_file": "frog_13368047.jpg",
+    "sorted_path": "american_toad\\frog_13368047.jpg"
+  },
+  "frog_13391236.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 65.758,
+    "original_file": "frog_13391236.jpg",
+    "sorted_path": "sahara_frog\\frog_13391236.jpg"
+  },
+  "frog_13391240.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 42.467,
+    "original_file": "frog_13391240.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_13391240.jpg"
+  },
+  "frog_13448675.jpg": {
+    "common_name": "Gray Tree Frog",
+    "scientific_name": "Dryophytes versicolor",
+    "folder": "gray_tree_frog",
+    "confidence": "high",
+    "score": 58.329,
+    "original_file": "frog_13448675.jpg",
+    "sorted_path": "gray_tree_frog\\frog_13448675.jpg"
+  },
+  "frog_13706388.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 64.326,
+    "original_file": "frog_13706388.jpg",
+    "sorted_path": "edible_frog\\frog_13706388.jpg"
+  },
+  "frog_1370740.jpg": {
+    "common_name": "Tatayo's Glass Frog",
+    "scientific_name": "Hyalinobatrachium tatayoi",
+    "folder": "tatayos_glass_frog",
+    "confidence": "high",
+    "score": 32.929,
+    "original_file": "frog_1370740.jpg",
+    "sorted_path": "tatayos_glass_frog\\frog_1370740.jpg"
+  },
+  "frog_13801172.jpg": {
+    "common_name": "Espirito Santo tree frog",
+    "scientific_name": "Bokermannohyla circumdata",
+    "folder": "espirito_santo_tree_frog",
+    "confidence": "high",
+    "score": 9.476,
+    "original_file": "frog_13801172.jpg",
+    "sorted_path": "espirito_santo_tree_frog\\frog_13801172.jpg"
+  },
+  "frog_14092730.jpg": {
+    "common_name": "Cape River Frog",
+    "scientific_name": "Amietia fuscigula",
+    "folder": "cape_river_frog",
+    "confidence": "high",
+    "score": 32.505,
+    "original_file": "frog_14092730.jpg",
+    "sorted_path": "cape_river_frog\\frog_14092730.jpg"
+  },
+  "frog_1423593.jpg": {
+    "common_name": "Gabilan Mountains Slender Salamander",
+    "scientific_name": "Batrachoseps gavilanensis",
+    "folder": "gabilan_mountains_slender_salamander",
+    "confidence": "high",
+    "score": 30.915,
+    "original_file": "frog_1423593.jpg",
+    "sorted_path": "gabilan_mountains_slender_salamander\\frog_1423593.jpg"
+  },
+  "frog_14382183.jpg": {
+    "common_name": "Indus Valley Bullfrog",
+    "scientific_name": "Hoplobatrachus tigerinus",
+    "folder": "indus_valley_bullfrog",
+    "confidence": "high",
+    "score": 67.754,
+    "original_file": "frog_14382183.jpg",
+    "sorted_path": "indus_valley_bullfrog\\frog_14382183.jpg"
+  },
+  "frog_14399065.jpg": {
+    "common_name": "Panamanian Golden Frog",
+    "scientific_name": "Atelopus zeteki",
+    "folder": "panamanian_golden_frog",
+    "confidence": "high",
+    "score": 93.948,
+    "original_file": "frog_14399065.jpg",
+    "sorted_path": "panamanian_golden_frog\\frog_14399065.jpg"
+  },
+  "frog_14412041.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 49.363,
+    "original_file": "frog_14412041.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_14412041.jpg"
+  },
+  "frog_14479252.jpg": {
+    "common_name": "Concepcion Toad",
+    "scientific_name": "Rhinella arunco",
+    "folder": "concepcion_toad",
+    "confidence": "high",
+    "score": 92.678,
+    "original_file": "frog_14479252.jpg",
+    "sorted_path": "concepcion_toad\\frog_14479252.jpg"
+  },
+  "frog_14505855.jpg": {
+    "common_name": "Iberian Frog",
+    "scientific_name": "Rana iberica",
+    "folder": "iberian_frog",
+    "confidence": "high",
+    "score": 37.941,
+    "original_file": "frog_14505855.jpg",
+    "sorted_path": "iberian_frog\\frog_14505855.jpg"
+  },
+  "frog_14505858.jpg": {
+    "common_name": "Iberian Frog",
+    "scientific_name": "Rana iberica",
+    "folder": "iberian_frog",
+    "confidence": "high",
+    "score": 26.503,
+    "original_file": "frog_14505858.jpg",
+    "sorted_path": "iberian_frog\\frog_14505858.jpg"
+  },
+  "frog_14512518.jpg": {
+    "common_name": "Argentine Toad",
+    "scientific_name": "Rhinella arenarum",
+    "folder": "argentine_toad",
+    "confidence": "high",
+    "score": 19.882,
+    "original_file": "frog_14512518.jpg",
+    "sorted_path": "argentine_toad\\frog_14512518.jpg"
+  },
+  "frog_14613777.jpg": {
+    "common_name": "Granular Glass Frog",
+    "scientific_name": "Cochranella granulosa",
+    "folder": "granular_glass_frog",
+    "confidence": "high",
+    "score": 34.015,
+    "original_file": "frog_14613777.jpg",
+    "sorted_path": "granular_glass_frog\\frog_14613777.jpg"
+  },
+  "frog_14759046.jpg": {
+    "common_name": "Pig Frog",
+    "scientific_name": "Lithobates grylio",
+    "folder": "pig_frog",
+    "confidence": "high",
+    "score": 79.427,
+    "original_file": "frog_14759046.jpg",
+    "sorted_path": "pig_frog\\frog_14759046.jpg"
+  },
+  "frog_15025038.jpg": {
+    "common_name": "Java White-lipped Frog",
+    "scientific_name": "Chalcorana chalconota",
+    "folder": "java_white_lipped_frog",
+    "confidence": "high",
+    "score": 99.697,
+    "original_file": "frog_15025038.jpg",
+    "sorted_path": "java_white_lipped_frog\\frog_15025038.jpg"
+  },
+  "frog_15052838.jpg": {
+    "common_name": "Common Southeast Asian Tree Frog",
+    "scientific_name": "Polypedates leucomystax",
+    "folder": "common_southeast_asian_tree_frog",
+    "confidence": "high",
+    "score": 41.286,
+    "original_file": "frog_15052838.jpg",
+    "sorted_path": "common_southeast_asian_tree_frog\\frog_15052838.jpg"
+  },
+  "frog_15096080.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 40.077,
+    "original_file": "frog_15096080.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_15096080.jpg"
+  },
+  "frog_15204314.jpg": {
+    "common_name": "Caspian Whipsnake",
+    "scientific_name": "Dolichophis caspius",
+    "folder": "caspian_whipsnake",
+    "confidence": "high",
+    "score": 13.234,
+    "original_file": "frog_15204314.jpg",
+    "sorted_path": "caspian_whipsnake\\frog_15204314.jpg"
+  },
+  "frog_15205232.jpg": {
+    "common_name": "Red-spotted Toad",
+    "scientific_name": "Anaxyrus punctatus",
+    "folder": "red_spotted_toad",
+    "confidence": "high",
+    "score": 33.084,
+    "original_file": "frog_15205232.jpg",
+    "sorted_path": "red_spotted_toad\\frog_15205232.jpg"
+  },
+  "frog_15205280.jpg": {
+    "common_name": "Savage's Thin-toed Frog",
+    "scientific_name": "Leptodactylus savagei",
+    "folder": "savages_thin_toed_frog",
+    "confidence": "high",
+    "score": 20.076,
+    "original_file": "frog_15205280.jpg",
+    "sorted_path": "savages_thin_toed_frog\\frog_15205280.jpg"
+  },
+  "frog_15205283.jpg": {
+    "common_name": "Rainforest Stony-creek Frog",
+    "scientific_name": "Rhyaconastes jungguy",
+    "folder": "rainforest_stony_creek_frog",
+    "confidence": "high",
+    "score": 27.279,
+    "original_file": "frog_15205283.jpg",
+    "sorted_path": "rainforest_stony_creek_frog\\frog_15205283.jpg"
+  },
+  "frog_15477997.jpg": {
+    "common_name": "Green-and-black Poison Dart Frog",
+    "scientific_name": "Dendrobates auratus",
+    "folder": "green_and_black_poison_dart_frog",
+    "confidence": "high",
+    "score": 93.789,
+    "original_file": "frog_15477997.jpg",
+    "sorted_path": "green_and_black_poison_dart_frog\\frog_15477997.jpg"
+  },
+  "frog_15478021.jpg": {
+    "common_name": "Red-webbed Tree Frog",
+    "scientific_name": "Boana rufitela",
+    "folder": "red_webbed_tree_frog",
+    "confidence": "high",
+    "score": 11.605,
+    "original_file": "frog_15478021.jpg",
+    "sorted_path": "red_webbed_tree_frog\\frog_15478021.jpg"
+  },
+  "frog_15565463.jpg": {
+    "common_name": "East Japan Tree Frog",
+    "scientific_name": "Dryophytes leopardus",
+    "folder": "east_japan_tree_frog",
+    "confidence": "high",
+    "score": 74.154,
+    "original_file": "frog_15565463.jpg",
+    "sorted_path": "east_japan_tree_frog\\frog_15565463.jpg"
+  },
+  "frog_15578668.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 57.372,
+    "original_file": "frog_15578668.jpg",
+    "sorted_path": "pool_frog\\frog_15578668.jpg"
+  },
+  "frog_15603452.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 83.514,
+    "original_file": "frog_15603452.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_15603452.jpg"
+  },
+  "frog_15698412.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 49.201,
+    "original_file": "frog_15698412.jpg",
+    "sorted_path": "european_toad\\frog_15698412.jpg"
+  },
+  "frog_158031.jpg": {
+    "common_name": "Eastern-Japanese Common Toad",
+    "scientific_name": "Bufo formosus",
+    "folder": "eastern_japanese_common_toad",
+    "confidence": "high",
+    "score": 20.552,
+    "original_file": "frog_158031.jpg",
+    "sorted_path": "eastern_japanese_common_toad\\frog_158031.jpg"
+  },
+  "frog_158380.jpg": {
+    "common_name": "Forest Green Treefrog",
+    "scientific_name": "Zhangixalus arboreus",
+    "folder": "forest_green_treefrog",
+    "confidence": "high",
+    "score": 68.484,
+    "original_file": "frog_158380.jpg",
+    "sorted_path": "forest_green_treefrog\\frog_158380.jpg"
+  },
+  "frog_15859235.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Chlorohyla chloris",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 6.516,
+    "original_file": "frog_15859235.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_15859235.jpg"
+  },
+  "frog_162252.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 97.491,
+    "original_file": "frog_162252.jpg",
+    "sorted_path": "european_common_frog\\frog_162252.jpg"
+  },
+  "frog_1637884.jpg": {
+    "common_name": "Yanga",
+    "scientific_name": "Yanga",
+    "folder": "yanga",
+    "confidence": "high",
+    "score": 3.282,
+    "original_file": "frog_1637884.jpg",
+    "sorted_path": "yanga\\frog_1637884.jpg"
+  },
+  "frog_16543092.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 36.87,
+    "original_file": "frog_16543092.jpg",
+    "sorted_path": "iberian_green_frog\\frog_16543092.jpg"
+  },
+  "frog_16668275.jpg": {
+    "common_name": "Strawberry Poison Dart Frog",
+    "scientific_name": "Oophaga pumilio",
+    "folder": "strawberry_poison_dart_frog",
+    "confidence": "high",
+    "score": 96.404,
+    "original_file": "frog_16668275.jpg",
+    "sorted_path": "strawberry_poison_dart_frog\\frog_16668275.jpg"
+  },
+  "frog_16668293.jpg": {
+    "common_name": "Sylvia's Tree Frog",
+    "scientific_name": "Cruziohyla sylviae",
+    "folder": "sylvias_tree_frog",
+    "confidence": "high",
+    "score": 79.005,
+    "original_file": "frog_16668293.jpg",
+    "sorted_path": "sylvias_tree_frog\\frog_16668293.jpg"
+  },
+  "frog_16672278.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 96.109,
+    "original_file": "frog_16672278.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_16672278.jpg"
+  },
+  "frog_16672279.jpg": {
+    "common_name": "Green-and-black Poison Dart Frog",
+    "scientific_name": "Dendrobates auratus",
+    "folder": "green_and_black_poison_dart_frog",
+    "confidence": "high",
+    "score": 73.533,
+    "original_file": "frog_16672279.jpg",
+    "sorted_path": "green_and_black_poison_dart_frog\\frog_16672279.jpg"
+  },
+  "frog_16672280.jpg": {
+    "common_name": "Ghost Glass Frog",
+    "scientific_name": "Sachatamia ilex",
+    "folder": "ghost_glass_frog",
+    "confidence": "high",
+    "score": 99.135,
+    "original_file": "frog_16672280.jpg",
+    "sorted_path": "ghost_glass_frog\\frog_16672280.jpg"
+  },
+  "frog_16672281.jpg": {
+    "common_name": "Yellow-flecked Glassfrog",
+    "scientific_name": "Sachatamia albomaculata",
+    "folder": "yellow_flecked_glassfrog",
+    "confidence": "high",
+    "score": 88.208,
+    "original_file": "frog_16672281.jpg",
+    "sorted_path": "yellow_flecked_glassfrog\\frog_16672281.jpg"
+  },
+  "frog_16672282.jpg": {
+    "common_name": "Green-and-black Poison Dart Frog",
+    "scientific_name": "Dendrobates auratus",
+    "folder": "green_and_black_poison_dart_frog",
+    "confidence": "high",
+    "score": 70.562,
+    "original_file": "frog_16672282.jpg",
+    "sorted_path": "green_and_black_poison_dart_frog\\frog_16672282.jpg"
+  },
+  "frog_16735094.jpg": {
+    "common_name": "Anthony's Poison Arrow Frog",
+    "scientific_name": "Epipedobates anthonyi",
+    "folder": "anthonys_poison_arrow_frog",
+    "confidence": "high",
+    "score": 93.827,
+    "original_file": "frog_16735094.jpg",
+    "sorted_path": "anthonys_poison_arrow_frog\\frog_16735094.jpg"
+  },
+  "frog_16777293.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 46.33,
+    "original_file": "frog_16777293.jpg",
+    "sorted_path": "sahara_frog\\frog_16777293.jpg"
+  },
+  "frog_16847996.jpg": {
+    "common_name": "Taylor's Leaf Frog",
+    "scientific_name": "Agalychnis taylori",
+    "folder": "taylors_leaf_frog",
+    "confidence": "high",
+    "score": 58.71,
+    "original_file": "frog_16847996.jpg",
+    "sorted_path": "taylors_leaf_frog\\frog_16847996.jpg"
+  },
+  "frog_16848028.jpg": {
+    "common_name": "Taylor's Leaf Frog",
+    "scientific_name": "Agalychnis taylori",
+    "folder": "taylors_leaf_frog",
+    "confidence": "high",
+    "score": 48.779,
+    "original_file": "frog_16848028.jpg",
+    "sorted_path": "taylors_leaf_frog\\frog_16848028.jpg"
+  },
+  "frog_16865418.jpg": {
+    "common_name": "Common Southeast Asian Tree Frog",
+    "scientific_name": "Polypedates leucomystax",
+    "folder": "common_southeast_asian_tree_frog",
+    "confidence": "high",
+    "score": 63.728,
+    "original_file": "frog_16865418.jpg",
+    "sorted_path": "common_southeast_asian_tree_frog\\frog_16865418.jpg"
+  },
+  "frog_17054967.jpg": {
+    "common_name": "Green Dotted Tree Frog",
+    "scientific_name": "Dendropsophus molitor",
+    "folder": "green_dotted_tree_frog",
+    "confidence": "high",
+    "score": 93.774,
+    "original_file": "frog_17054967.jpg",
+    "sorted_path": "green_dotted_tree_frog\\frog_17054967.jpg"
+  },
+  "frog_17068046.jpg": {
+    "common_name": "Transverse Volcanic Leopard Frog",
+    "scientific_name": "Lithobates neovolcanicus",
+    "folder": "transverse_volcanic_leopard_frog",
+    "confidence": "high",
+    "score": 7.783,
+    "original_file": "frog_17068046.jpg",
+    "sorted_path": "transverse_volcanic_leopard_frog\\frog_17068046.jpg"
+  },
+  "frog_17237913.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 10.071,
+    "original_file": "frog_17237913.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_17237913.jpg"
+  },
+  "frog_17237932.jpg": {
+    "common_name": "Taylor's Leaf Frog",
+    "scientific_name": "Agalychnis taylori",
+    "folder": "taylors_leaf_frog",
+    "confidence": "high",
+    "score": 42.558,
+    "original_file": "frog_17237932.jpg",
+    "sorted_path": "taylors_leaf_frog\\frog_17237932.jpg"
+  },
+  "frog_17388394.jpg": {
+    "common_name": "Green Toad",
+    "scientific_name": "Bufotes viridis",
+    "folder": "green_toad",
+    "confidence": "high",
+    "score": 46.466,
+    "original_file": "frog_17388394.jpg",
+    "sorted_path": "green_toad\\frog_17388394.jpg"
+  },
+  "frog_17428194.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 88.236,
+    "original_file": "frog_17428194.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_17428194.jpg"
+  },
+  "frog_17499994.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 25.348,
+    "original_file": "frog_17499994.jpg",
+    "sorted_path": "sahara_frog\\frog_17499994.jpg"
+  },
+  "frog_17506293.jpg": {
+    "common_name": "Green Dotted Tree Frog",
+    "scientific_name": "Dendropsophus molitor",
+    "folder": "green_dotted_tree_frog",
+    "confidence": "high",
+    "score": 10.19,
+    "original_file": "frog_17506293.jpg",
+    "sorted_path": "green_dotted_tree_frog\\frog_17506293.jpg"
+  },
+  "frog_17506296.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 71.783,
+    "original_file": "frog_17506296.jpg",
+    "sorted_path": "green_frog\\frog_17506296.jpg"
+  },
+  "frog_17506297.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 18.372,
+    "original_file": "frog_17506297.jpg",
+    "sorted_path": "green_frog\\frog_17506297.jpg"
+  },
+  "frog_17506298.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 89.483,
+    "original_file": "frog_17506298.jpg",
+    "sorted_path": "green_frog\\frog_17506298.jpg"
+  },
+  "frog_17544710.jpg": {
+    "common_name": "Malayan Treehole Frog",
+    "scientific_name": "Metaphrynella pollicaris",
+    "folder": "malayan_treehole_frog",
+    "confidence": "high",
+    "score": 12.743,
+    "original_file": "frog_17544710.jpg",
+    "sorted_path": "malayan_treehole_frog\\frog_17544710.jpg"
+  },
+  "frog_17742303.jpg": {
+    "common_name": "Wide-spread Fungoid Frog",
+    "scientific_name": "Hydrophylax bahuvistara",
+    "folder": "wide_spread_fungoid_frog",
+    "confidence": "high",
+    "score": 84.492,
+    "original_file": "frog_17742303.jpg",
+    "sorted_path": "wide_spread_fungoid_frog\\frog_17742303.jpg"
+  },
+  "frog_17797698.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 69.564,
+    "original_file": "frog_17797698.jpg",
+    "sorted_path": "european_toad\\frog_17797698.jpg"
+  },
+  "frog_17829201.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 62.791,
+    "original_file": "frog_17829201.jpg",
+    "sorted_path": "european_toad\\frog_17829201.jpg"
+  },
+  "frog_17840050.jpg": {
+    "common_name": "Fitzinger's Robber Frog",
+    "scientific_name": "Craugastor fitzingeri",
+    "folder": "fitzingers_robber_frog",
+    "confidence": "high",
+    "score": 93.003,
+    "original_file": "frog_17840050.jpg",
+    "sorted_path": "fitzingers_robber_frog\\frog_17840050.jpg"
+  },
+  "frog_17840058.jpg": {
+    "common_name": "Mahogany Tree Frog",
+    "scientific_name": "Tlalocohyla loquax",
+    "folder": "mahogany_tree_frog",
+    "confidence": "high",
+    "score": 88.713,
+    "original_file": "frog_17840058.jpg",
+    "sorted_path": "mahogany_tree_frog\\frog_17840058.jpg"
+  },
+  "frog_17868069.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 12.542,
+    "original_file": "frog_17868069.jpg",
+    "sorted_path": "sahara_frog\\frog_17868069.jpg"
+  },
+  "frog_17907388.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 92.797,
+    "original_file": "frog_17907388.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_17907388.jpg"
+  },
+  "frog_18099595.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 32.735,
+    "original_file": "frog_18099595.jpg",
+    "sorted_path": "european_common_frog\\frog_18099595.jpg"
+  },
+  "frog_18161316.jpg": {
+    "common_name": "Malabar Gliding Frog",
+    "scientific_name": "Rhacophorus malabaricus",
+    "folder": "malabar_gliding_frog",
+    "confidence": "high",
+    "score": 15.024,
+    "original_file": "frog_18161316.jpg",
+    "sorted_path": "malabar_gliding_frog\\frog_18161316.jpg"
+  },
+  "frog_17578755.jpg": {
+    "common_name": "Italian Tree Frog",
+    "scientific_name": "Hyla intermedia",
+    "folder": "italian_tree_frog",
+    "confidence": "high",
+    "score": 44.012,
+    "original_file": "frog_17578755.jpg",
+    "sorted_path": "italian_tree_frog\\frog_17578755.jpg"
+  },
+  "frog_17662749.jpg": {
+    "common_name": "showy leopard frog",
+    "scientific_name": "Lithobates spectabilis",
+    "folder": "showy_leopard_frog",
+    "confidence": "high",
+    "score": 14.05,
+    "original_file": "frog_17662749.jpg",
+    "sorted_path": "showy_leopard_frog\\frog_17662749.jpg"
+  },
+  "frog_17769941.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 42.551,
+    "original_file": "frog_17769941.jpg",
+    "sorted_path": "american_bullfrog\\frog_17769941.jpg"
+  },
+  "frog_17818781.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 18.862,
+    "original_file": "frog_17818781.jpg",
+    "sorted_path": "pool_frog\\frog_17818781.jpg"
+  },
+  "frog_17826907.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 16.05,
+    "original_file": "frog_17826907.jpg",
+    "sorted_path": "american_bullfrog\\frog_17826907.jpg"
+  },
+  "frog_17839937.jpg": {
+    "common_name": "Fitzinger's Robber Frog",
+    "scientific_name": "Craugastor fitzingeri",
+    "folder": "fitzingers_robber_frog",
+    "confidence": "high",
+    "score": 19.824,
+    "original_file": "frog_17839937.jpg",
+    "sorted_path": "fitzingers_robber_frog\\frog_17839937.jpg"
+  },
+  "frog_17839938.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 38.741,
+    "original_file": "frog_17839938.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_17839938.jpg"
+  },
+  "frog_17840055.jpg": {
+    "common_name": "Pygmy Rain Frog",
+    "scientific_name": "Pristimantis ridens",
+    "folder": "pygmy_rain_frog",
+    "confidence": "high",
+    "score": 61.558,
+    "original_file": "frog_17840055.jpg",
+    "sorted_path": "pygmy_rain_frog\\frog_17840055.jpg"
+  },
+  "frog_17840059.jpg": {
+    "common_name": "Mahogany Tree Frog",
+    "scientific_name": "Tlalocohyla loquax",
+    "folder": "mahogany_tree_frog",
+    "confidence": "high",
+    "score": 71.52,
+    "original_file": "frog_17840059.jpg",
+    "sorted_path": "mahogany_tree_frog\\frog_17840059.jpg"
+  },
+  "frog_17895098.jpg": {
+    "common_name": "Canelos Treefrog",
+    "scientific_name": "Boana appendiculata",
+    "folder": "canelos_treefrog",
+    "confidence": "high",
+    "score": 77.384,
+    "original_file": "frog_17895098.jpg",
+    "sorted_path": "canelos_treefrog\\frog_17895098.jpg"
+  },
+  "frog_18056548.jpg": {
+    "common_name": "Taylor's Leaf Frog",
+    "scientific_name": "Agalychnis taylori",
+    "folder": "taylors_leaf_frog",
+    "confidence": "high",
+    "score": 41.034,
+    "original_file": "frog_18056548.jpg",
+    "sorted_path": "taylors_leaf_frog\\frog_18056548.jpg"
+  },
+  "frog_18119022.jpg": {
+    "common_name": "Green-and-black Poison Dart Frog",
+    "scientific_name": "Dendrobates auratus",
+    "folder": "green_and_black_poison_dart_frog",
+    "confidence": "high",
+    "score": 82.097,
+    "original_file": "frog_18119022.jpg",
+    "sorted_path": "green_and_black_poison_dart_frog\\frog_18119022.jpg"
+  },
+  "frog_18161317.jpg": {
+    "common_name": "Malabar Gliding Frog",
+    "scientific_name": "Rhacophorus malabaricus",
+    "folder": "malabar_gliding_frog",
+    "confidence": "high",
+    "score": 30.755,
+    "original_file": "frog_18161317.jpg",
+    "sorted_path": "malabar_gliding_frog\\frog_18161317.jpg"
+  },
+  "frog_18174678.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 13.91,
+    "original_file": "frog_18174678.jpg",
+    "sorted_path": "pool_frog\\frog_18174678.jpg"
+  },
+  "frog_18417424.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 43.563,
+    "original_file": "frog_18417424.jpg",
+    "sorted_path": "pool_frog\\frog_18417424.jpg"
+  },
+  "frog_18590932.jpg": {
+    "common_name": "Western Tree Frog",
+    "scientific_name": "Polypedates occidentalis",
+    "folder": "western_tree_frog",
+    "confidence": "high",
+    "score": 44.68,
+    "original_file": "frog_18590932.jpg",
+    "sorted_path": "western_tree_frog\\frog_18590932.jpg"
+  },
+  "frog_18628448.jpg": {
+    "common_name": "Boulenger's Snouted Tree Frog",
+    "scientific_name": "Scinax boulengeri",
+    "folder": "boulengers_snouted_tree_frog",
+    "confidence": "high",
+    "score": 93.567,
+    "original_file": "frog_18628448.jpg",
+    "sorted_path": "boulengers_snouted_tree_frog\\frog_18628448.jpg"
+  },
+  "frog_18628464.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 81.441,
+    "original_file": "frog_18628464.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_18628464.jpg"
+  },
+  "frog_18628735.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 91.106,
+    "original_file": "frog_18628735.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18628735.jpg"
+  },
+  "frog_18645623.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 87.042,
+    "original_file": "frog_18645623.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18645623.jpg"
+  },
+  "frog_18645628.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 95.635,
+    "original_file": "frog_18645628.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18645628.jpg"
+  },
+  "frog_18700242.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 93.772,
+    "original_file": "frog_18700242.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18700242.jpg"
+  },
+  "frog_18704364.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 91.3,
+    "original_file": "frog_18704364.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18704364.jpg"
+  },
+  "frog_18704489.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 92.246,
+    "original_file": "frog_18704489.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18704489.jpg"
+  },
+  "frog_18726761.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 54.421,
+    "original_file": "frog_18726761.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_18726761.jpg"
+  },
+  "frog_18726769.jpg": {
+    "common_name": "Olive Snouted Tree Frog",
+    "scientific_name": "Scinax elaeochroa",
+    "folder": "olive_snouted_tree_frog",
+    "confidence": "high",
+    "score": 52.545,
+    "original_file": "frog_18726769.jpg",
+    "sorted_path": "olive_snouted_tree_frog\\frog_18726769.jpg"
+  },
+  "frog_18726806.jpg": {
+    "common_name": "Harlequin Treefrog",
+    "scientific_name": "Dendropsophus ebraccatus",
+    "folder": "harlequin_treefrog",
+    "confidence": "high",
+    "score": 77.278,
+    "original_file": "frog_18726806.jpg",
+    "sorted_path": "harlequin_treefrog\\frog_18726806.jpg"
+  },
+  "frog_1888839.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 71.61,
+    "original_file": "frog_1888839.jpg",
+    "sorted_path": "marsh_frog\\frog_1888839.jpg"
+  },
+  "frog_18889034.jpg": {
+    "common_name": "Rosenberg's Gladiator Frog",
+    "scientific_name": "Boana rosenbergi",
+    "folder": "rosenbergs_gladiator_frog",
+    "confidence": "high",
+    "score": 58.578,
+    "original_file": "frog_18889034.jpg",
+    "sorted_path": "rosenbergs_gladiator_frog\\frog_18889034.jpg"
+  },
+  "frog_19147768.jpg": {
+    "common_name": "Harlequin Treefrog",
+    "scientific_name": "Dendropsophus ebraccatus",
+    "folder": "harlequin_treefrog",
+    "confidence": "high",
+    "score": 79.047,
+    "original_file": "frog_19147768.jpg",
+    "sorted_path": "harlequin_treefrog\\frog_19147768.jpg"
+  },
+  "frog_17840057.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 99.276,
+    "original_file": "frog_17840057.jpg",
+    "sorted_path": "masked_tree_frog\\frog_17840057.jpg"
+  },
+  "frog_1785288.jpg": {
+    "common_name": "White-lipped Tree Frog",
+    "scientific_name": "Sandyrana infrafrenata",
+    "folder": "white_lipped_tree_frog",
+    "confidence": "high",
+    "score": 53.897,
+    "original_file": "frog_1785288.jpg",
+    "sorted_path": "white_lipped_tree_frog\\frog_1785288.jpg"
+  },
+  "frog_17907387.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 50.477,
+    "original_file": "frog_17907387.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_17907387.jpg"
+  },
+  "frog_18061314.jpg": {
+    "common_name": "Green-and-black Poison Dart Frog",
+    "scientific_name": "Dendrobates auratus",
+    "folder": "green_and_black_poison_dart_frog",
+    "confidence": "high",
+    "score": 42.21,
+    "original_file": "frog_18061314.jpg",
+    "sorted_path": "green_and_black_poison_dart_frog\\frog_18061314.jpg"
+  },
+  "frog_18136002.jpg": {
+    "common_name": "Green Dotted Tree Frog",
+    "scientific_name": "Dendropsophus molitor",
+    "folder": "green_dotted_tree_frog",
+    "confidence": "high",
+    "score": 5.969,
+    "original_file": "frog_18136002.jpg",
+    "sorted_path": "green_dotted_tree_frog\\frog_18136002.jpg"
+  },
+  "frog_18170271.jpg": {
+    "common_name": "Green Treefrog",
+    "scientific_name": "Dryophytes cinereus",
+    "folder": "green_treefrog",
+    "confidence": "high",
+    "score": 92.132,
+    "original_file": "frog_18170271.jpg",
+    "sorted_path": "green_treefrog\\frog_18170271.jpg"
+  },
+  "frog_18273476.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 40.425,
+    "original_file": "frog_18273476.jpg",
+    "sorted_path": "iberian_green_frog\\frog_18273476.jpg"
+  },
+  "frog_18435943.jpg": {
+    "common_name": "Boettger's Colombian Tree Frog",
+    "scientific_name": "Dendropsophus columbianus",
+    "folder": "boettgers_colombian_tree_frog",
+    "confidence": "high",
+    "score": 38.439,
+    "original_file": "frog_18435943.jpg",
+    "sorted_path": "boettgers_colombian_tree_frog\\frog_18435943.jpg"
+  },
+  "frog_18628447.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 96.351,
+    "original_file": "frog_18628447.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_18628447.jpg"
+  },
+  "frog_18628450.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 57.068,
+    "original_file": "frog_18628450.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_18628450.jpg"
+  },
+  "frog_18628473.jpg": {
+    "common_name": "Harlequin Treefrog",
+    "scientific_name": "Dendropsophus ebraccatus",
+    "folder": "harlequin_treefrog",
+    "confidence": "high",
+    "score": 97.647,
+    "original_file": "frog_18628473.jpg",
+    "sorted_path": "harlequin_treefrog\\frog_18628473.jpg"
+  },
+  "frog_18645622.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 94.144,
+    "original_file": "frog_18645622.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18645622.jpg"
+  },
+  "frog_18645627.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 92.281,
+    "original_file": "frog_18645627.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18645627.jpg"
+  },
+  "frog_18645630.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 92.649,
+    "original_file": "frog_18645630.jpg",
+    "sorted_path": "masked_tree_frog\\frog_18645630.jpg"
+  },
+  "frog_18704358.jpg": {
+    "common_name": "Fitzinger's Robber Frog",
+    "scientific_name": "Craugastor fitzingeri",
+    "folder": "fitzingers_robber_frog",
+    "confidence": "high",
+    "score": 49.478,
+    "original_file": "frog_18704358.jpg",
+    "sorted_path": "fitzingers_robber_frog\\frog_18704358.jpg"
+  },
+  "frog_18704413.jpg": {
+    "common_name": "T\u00fangara Frog",
+    "scientific_name": "Engystomops pustulosus",
+    "folder": "t\u00fangara_frog",
+    "confidence": "high",
+    "score": 98.861,
+    "original_file": "frog_18704413.jpg",
+    "sorted_path": "t\u00fangara_frog\\frog_18704413.jpg"
+  },
+  "frog_18726757.jpg": {
+    "common_name": "Rosenberg's Gladiator Frog",
+    "scientific_name": "Boana rosenbergi",
+    "folder": "rosenbergs_gladiator_frog",
+    "confidence": "high",
+    "score": 20.418,
+    "original_file": "frog_18726757.jpg",
+    "sorted_path": "rosenbergs_gladiator_frog\\frog_18726757.jpg"
+  },
+  "frog_18726768.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 93.277,
+    "original_file": "frog_18726768.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_18726768.jpg"
+  },
+  "frog_18726805.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 59.271,
+    "original_file": "frog_18726805.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_18726805.jpg"
+  },
+  "frog_1887725.jpg": {
+    "common_name": "Golden Mantella",
+    "scientific_name": "Mantella aurantiaca",
+    "folder": "golden_mantella",
+    "confidence": "high",
+    "score": 79.041,
+    "original_file": "frog_1887725.jpg",
+    "sorted_path": "golden_mantella\\frog_1887725.jpg"
+  },
+  "frog_18888990.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 55.387,
+    "original_file": "frog_18888990.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_18888990.jpg"
+  },
+  "frog_19046845.jpg": {
+    "common_name": "European Tree Frog",
+    "scientific_name": "Hyla arborea",
+    "folder": "european_tree_frog",
+    "confidence": "high",
+    "score": 69.737,
+    "original_file": "frog_19046845.jpg",
+    "sorted_path": "european_tree_frog\\frog_19046845.jpg"
+  },
+  "frog_19173970.jpg": {
+    "common_name": "Pygmy Free-fingered Frog",
+    "scientific_name": "Craugastor pygmaeus",
+    "folder": "pygmy_free_fingered_frog",
+    "confidence": "high",
+    "score": 4.165,
+    "original_file": "frog_19173970.jpg",
+    "sorted_path": "pygmy_free_fingered_frog\\frog_19173970.jpg"
+  },
+  "frog_19181402.jpg": {
+    "common_name": "Wood Ear mushroom",
+    "scientific_name": "Auricularia polytricha",
+    "folder": "wood_ear_mushroom",
+    "confidence": "high",
+    "score": 1.133,
+    "original_file": "frog_19181402.jpg",
+    "sorted_path": "wood_ear_mushroom\\frog_19181402.jpg"
+  },
+  "frog_19196077.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 14.584,
+    "original_file": "frog_19196077.jpg",
+    "sorted_path": "european_common_frog\\frog_19196077.jpg"
+  },
+  "frog_19254437.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 76.757,
+    "original_file": "frog_19254437.jpg",
+    "sorted_path": "green_frog\\frog_19254437.jpg"
+  },
+  "frog_19575151.jpg": {
+    "common_name": "Carpenter Frog",
+    "scientific_name": "Lithobates virgatipes",
+    "folder": "carpenter_frog",
+    "confidence": "high",
+    "score": 6.222,
+    "original_file": "frog_19575151.jpg",
+    "sorted_path": "carpenter_frog\\frog_19575151.jpg"
+  },
+  "frog_19585986.jpg": {
+    "common_name": "Golden Poison Dart Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "folder": "golden_poison_dart_frog",
+    "confidence": "high",
+    "score": 53.909,
+    "original_file": "frog_19585986.jpg",
+    "sorted_path": "golden_poison_dart_frog\\frog_19585986.jpg"
+  },
+  "frog_19704273.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 20.674,
+    "original_file": "frog_19704273.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_19704273.jpg"
+  },
+  "frog_19705033.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 58.104,
+    "original_file": "frog_19705033.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_19705033.jpg"
+  },
+  "frog_19858412.jpg": {
+    "common_name": "Cururu Toad",
+    "scientific_name": "Rhinella diptycha",
+    "folder": "cururu_toad",
+    "confidence": "high",
+    "score": 87.091,
+    "original_file": "frog_19858412.jpg",
+    "sorted_path": "cururu_toad\\frog_19858412.jpg"
+  },
+  "frog_19916216.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 73.925,
+    "original_file": "frog_19916216.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_19916216.jpg"
+  },
+  "frog_2013666.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 47.013,
+    "original_file": "frog_2013666.jpg",
+    "sorted_path": "european_toad\\frog_2013666.jpg"
+  },
+  "frog_20167547.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 17.42,
+    "original_file": "frog_20167547.jpg",
+    "sorted_path": "edible_frog\\frog_20167547.jpg"
+  },
+  "frog_20273624.jpg": {
+    "common_name": "Hong Kong Rice-paddy Frog",
+    "scientific_name": "Fejervarya multistriata",
+    "folder": "hong_kong_rice_paddy_frog",
+    "confidence": "high",
+    "score": 54.705,
+    "original_file": "frog_20273624.jpg",
+    "sorted_path": "hong_kong_rice_paddy_frog\\frog_20273624.jpg"
+  },
+  "frog_20403264.jpg": {
+    "common_name": "Coorg Yellow Bush Frog",
+    "scientific_name": "Raorchestes luteolus",
+    "folder": "coorg_yellow_bush_frog",
+    "confidence": "high",
+    "score": 4.836,
+    "original_file": "frog_20403264.jpg",
+    "sorted_path": "coorg_yellow_bush_frog\\frog_20403264.jpg"
+  },
+  "frog_20403276.jpg": {
+    "common_name": "Banana Tree Dwelling Frog",
+    "scientific_name": "Boana platanera",
+    "folder": "banana_tree_dwelling_frog",
+    "confidence": "high",
+    "score": 44.082,
+    "original_file": "frog_20403276.jpg",
+    "sorted_path": "banana_tree_dwelling_frog\\frog_20403276.jpg"
+  },
+  "frog_20403308.jpg": {
+    "common_name": "Lesser Tree Frog",
+    "scientific_name": "Dendropsophus minutus",
+    "folder": "lesser_tree_frog",
+    "confidence": "high",
+    "score": 13.458,
+    "original_file": "frog_20403308.jpg",
+    "sorted_path": "lesser_tree_frog\\frog_20403308.jpg"
+  },
+  "frog_20661575.jpg": {
+    "common_name": "Lipstick",
+    "scientific_name": "Echeveria agavoides",
+    "folder": "lipstick",
+    "confidence": "high",
+    "score": 3.514,
+    "original_file": "frog_20661575.jpg",
+    "sorted_path": "lipstick\\frog_20661575.jpg"
+  },
+  "frog_20744259.jpg": {
+    "common_name": "Green Toad",
+    "scientific_name": "Bufotes viridis",
+    "folder": "green_toad",
+    "confidence": "high",
+    "score": 61.389,
+    "original_file": "frog_20744259.jpg",
+    "sorted_path": "green_toad\\frog_20744259.jpg"
+  },
+  "frog_20747164.jpg": {
+    "common_name": "Fowler's Toad",
+    "scientific_name": "Anaxyrus fowleri",
+    "folder": "fowlers_toad",
+    "confidence": "high",
+    "score": 23.007,
+    "original_file": "frog_20747164.jpg",
+    "sorted_path": "fowlers_toad\\frog_20747164.jpg"
+  },
+  "frog_20781763.jpg": {
+    "common_name": "T\u00fangara Frog",
+    "scientific_name": "Engystomops pustulosus",
+    "folder": "t\u00fangara_frog",
+    "confidence": "high",
+    "score": 87.47,
+    "original_file": "frog_20781763.jpg",
+    "sorted_path": "t\u00fangara_frog\\frog_20781763.jpg"
+  },
+  "frog_20898083.jpg": {
+    "common_name": "Moor Frog",
+    "scientific_name": "Rana arvalis",
+    "folder": "moor_frog",
+    "confidence": "high",
+    "score": 40.384,
+    "original_file": "frog_20898083.jpg",
+    "sorted_path": "moor_frog\\frog_20898083.jpg"
+  },
+  "frog_2092023.jpg": {
+    "common_name": "Yellow-flecked Glassfrog",
+    "scientific_name": "Sachatamia albomaculata",
+    "folder": "yellow_flecked_glassfrog",
+    "confidence": "high",
+    "score": 62.236,
+    "original_file": "frog_2092023.jpg",
+    "sorted_path": "yellow_flecked_glassfrog\\frog_2092023.jpg"
+  },
+  "frog_2092025.jpg": {
+    "common_name": "Fitzinger's Robber Frog",
+    "scientific_name": "Craugastor fitzingeri",
+    "folder": "fitzingers_robber_frog",
+    "confidence": "high",
+    "score": 23.4,
+    "original_file": "frog_2092025.jpg",
+    "sorted_path": "fitzingers_robber_frog\\frog_2092025.jpg"
+  },
+  "frog_2092027.jpg": {
+    "common_name": "Yellow-flecked Glassfrog",
+    "scientific_name": "Sachatamia albomaculata",
+    "folder": "yellow_flecked_glassfrog",
+    "confidence": "high",
+    "score": 78.105,
+    "original_file": "frog_2092027.jpg",
+    "sorted_path": "yellow_flecked_glassfrog\\frog_2092027.jpg"
+  },
+  "frog_2092041.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 76.173,
+    "original_file": "frog_2092041.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_2092041.jpg"
+  },
+  "frog_21327284.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 33.323,
+    "original_file": "frog_21327284.jpg",
+    "sorted_path": "edible_frog\\frog_21327284.jpg"
+  },
+  "frog_21612273.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 93.407,
+    "original_file": "frog_21612273.jpg",
+    "sorted_path": "masked_tree_frog\\frog_21612273.jpg"
+  },
+  "frog_21612274.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 64.313,
+    "original_file": "frog_21612274.jpg",
+    "sorted_path": "masked_tree_frog\\frog_21612274.jpg"
+  },
+  "frog_21612277.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 96.265,
+    "original_file": "frog_21612277.jpg",
+    "sorted_path": "masked_tree_frog\\frog_21612277.jpg"
+  },
+  "frog_2170198.jpg": {
+    "common_name": "White-lipped Tree Frog",
+    "scientific_name": "Sandyrana infrafrenata",
+    "folder": "white_lipped_tree_frog",
+    "confidence": "high",
+    "score": 56.23,
+    "original_file": "frog_2170198.jpg",
+    "sorted_path": "white_lipped_tree_frog\\frog_2170198.jpg"
+  },
+  "frog_21751157.jpg": {
+    "common_name": "Black-spotted Casque-headed Tree Frog",
+    "scientific_name": "Trachycephalus nigromaculatus",
+    "folder": "black_spotted_casque_headed_tree_frog",
+    "confidence": "high",
+    "score": 82.24,
+    "original_file": "frog_21751157.jpg",
+    "sorted_path": "black_spotted_casque_headed_tree_frog\\frog_21751157.jpg"
+  },
+  "frog_22602213.jpg": {
+    "common_name": "Eastern Golden Frog",
+    "scientific_name": "Pelophylax plancyi",
+    "folder": "eastern_golden_frog",
+    "confidence": "high",
+    "score": 28.272,
+    "original_file": "frog_22602213.jpg",
+    "sorted_path": "eastern_golden_frog\\frog_22602213.jpg"
+  },
+  "frog_22602214.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 25.641,
+    "original_file": "frog_22602214.jpg",
+    "sorted_path": "sahara_frog\\frog_22602214.jpg"
+  },
+  "frog_22602216.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 28.442,
+    "original_file": "frog_22602216.jpg",
+    "sorted_path": "sahara_frog\\frog_22602216.jpg"
+  },
+  "frog_22602590.jpg": {
+    "common_name": "Mediterranean Tree Frog",
+    "scientific_name": "Hyla meridionalis",
+    "folder": "mediterranean_tree_frog",
+    "confidence": "high",
+    "score": 94.645,
+    "original_file": "frog_22602590.jpg",
+    "sorted_path": "mediterranean_tree_frog\\frog_22602590.jpg"
+  },
+  "frog_22949071.jpg": {
+    "common_name": "Chiricahua Leopard Frog",
+    "scientific_name": "Lithobates chiricahuensis",
+    "folder": "chiricahua_leopard_frog",
+    "confidence": "high",
+    "score": 11.961,
+    "original_file": "frog_22949071.jpg",
+    "sorted_path": "chiricahua_leopard_frog\\frog_22949071.jpg"
+  },
+  "frog_23017794.jpg": {
+    "common_name": "Chaco Tree Frog",
+    "scientific_name": "Boana raniceps",
+    "folder": "chaco_tree_frog",
+    "confidence": "high",
+    "score": 60.532,
+    "original_file": "frog_23017794.jpg",
+    "sorted_path": "chaco_tree_frog\\frog_23017794.jpg"
+  },
+  "frog_2305938.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 29.959,
+    "original_file": "frog_2305938.jpg",
+    "sorted_path": "edible_frog\\frog_2305938.jpg"
+  },
+  "frog_23136334.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 17.335,
+    "original_file": "frog_23136334.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_23136334.jpg"
+  },
+  "frog_23136462.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 76.556,
+    "original_file": "frog_23136462.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_23136462.jpg"
+  },
+  "frog_23408576.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 20.305,
+    "original_file": "frog_23408576.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_23408576.jpg"
+  },
+  "frog_23408577.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 18.439,
+    "original_file": "frog_23408577.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_23408577.jpg"
+  },
+  "frog_23408578.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 45.251,
+    "original_file": "frog_23408578.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_23408578.jpg"
+  },
+  "frog_23408580.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 53.932,
+    "original_file": "frog_23408580.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_23408580.jpg"
+  },
+  "frog_23516525.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 35.702,
+    "original_file": "frog_23516525.jpg",
+    "sorted_path": "pool_frog\\frog_23516525.jpg"
+  },
+  "frog_23526661.jpg": {
+    "common_name": "Olive Snouted Tree Frog",
+    "scientific_name": "Scinax elaeochroa",
+    "folder": "olive_snouted_tree_frog",
+    "confidence": "high",
+    "score": 38.993,
+    "original_file": "frog_23526661.jpg",
+    "sorted_path": "olive_snouted_tree_frog\\frog_23526661.jpg"
+  },
+  "frog_23645270.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 18.299,
+    "original_file": "frog_23645270.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_23645270.jpg"
+  },
+  "frog_23645275.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 86.005,
+    "original_file": "frog_23645275.jpg",
+    "sorted_path": "masked_tree_frog\\frog_23645275.jpg"
+  },
+  "frog_23645286.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 78.113,
+    "original_file": "frog_23645286.jpg",
+    "sorted_path": "masked_tree_frog\\frog_23645286.jpg"
+  },
+  "frog_23645343.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 83.414,
+    "original_file": "frog_23645343.jpg",
+    "sorted_path": "masked_tree_frog\\frog_23645343.jpg"
+  },
+  "frog_23658742.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 54.465,
+    "original_file": "frog_23658742.jpg",
+    "sorted_path": "american_bullfrog\\frog_23658742.jpg"
+  },
+  "frog_23658765.jpg": {
+    "common_name": "East Asian Bullfrog",
+    "scientific_name": "Hoplobatrachus chinensis",
+    "folder": "east_asian_bullfrog",
+    "confidence": "high",
+    "score": 30.635,
+    "original_file": "frog_23658765.jpg",
+    "sorted_path": "east_asian_bullfrog\\frog_23658765.jpg"
+  },
+  "frog_23716147.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 23.572,
+    "original_file": "frog_23716147.jpg",
+    "sorted_path": "marsh_frog\\frog_23716147.jpg"
+  },
+  "frog_23716150.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 44.265,
+    "original_file": "frog_23716150.jpg",
+    "sorted_path": "marsh_frog\\frog_23716150.jpg"
+  },
+  "frog_23716154.jpg": {
+    "common_name": "Black-spotted Frog",
+    "scientific_name": "Pelophylax nigromaculatus",
+    "folder": "black_spotted_frog",
+    "confidence": "high",
+    "score": 8.975,
+    "original_file": "frog_23716154.jpg",
+    "sorted_path": "black_spotted_frog\\frog_23716154.jpg"
+  },
+  "frog_23833416.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 17.008,
+    "original_file": "frog_23833416.jpg",
+    "sorted_path": "masked_tree_frog\\frog_23833416.jpg"
+  },
+  "frog_23874066.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 87.126,
+    "original_file": "frog_23874066.jpg",
+    "sorted_path": "green_frog\\frog_23874066.jpg"
+  },
+  "frog_2421609.jpg": {
+    "common_name": "Strap Flame Lichen",
+    "scientific_name": "Dufourea ligulata",
+    "folder": "strap_flame_lichen",
+    "confidence": "high",
+    "score": 9.335,
+    "original_file": "frog_2421609.jpg",
+    "sorted_path": "strap_flame_lichen\\frog_2421609.jpg"
+  },
+  "frog_2422777.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 19.316,
+    "original_file": "frog_2422777.jpg",
+    "sorted_path": "green_frog\\frog_2422777.jpg"
+  },
+  "frog_24994821.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 20.111,
+    "original_file": "frog_24994821.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_24994821.jpg"
+  },
+  "frog_25015084.jpg": {
+    "common_name": "Red Snouted Tree Frog",
+    "scientific_name": "Scinax ruber",
+    "folder": "red_snouted_tree_frog",
+    "confidence": "high",
+    "score": 40.348,
+    "original_file": "frog_25015084.jpg",
+    "sorted_path": "red_snouted_tree_frog\\frog_25015084.jpg"
+  },
+  "frog_25559663.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 65.906,
+    "original_file": "frog_25559663.jpg",
+    "sorted_path": "iberian_green_frog\\frog_25559663.jpg"
+  },
+  "frog_25639597.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 90.559,
+    "original_file": "frog_25639597.jpg",
+    "sorted_path": "american_bullfrog\\frog_25639597.jpg"
+  },
+  "frog_25692338.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 56.952,
+    "original_file": "frog_25692338.jpg",
+    "sorted_path": "american_bullfrog\\frog_25692338.jpg"
+  },
+  "frog_25897422.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 34.617,
+    "original_file": "frog_25897422.jpg",
+    "sorted_path": "masked_tree_frog\\frog_25897422.jpg"
+  },
+  "frog_25897423.jpg": {
+    "common_name": "Mexican White-lipped Frog",
+    "scientific_name": "Leptodactylus fragilis",
+    "folder": "mexican_white_lipped_frog",
+    "confidence": "high",
+    "score": 77.277,
+    "original_file": "frog_25897423.jpg",
+    "sorted_path": "mexican_white_lipped_frog\\frog_25897423.jpg"
+  },
+  "frog_25897424.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 94.174,
+    "original_file": "frog_25897424.jpg",
+    "sorted_path": "masked_tree_frog\\frog_25897424.jpg"
+  },
+  "frog_25942363.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 19.131,
+    "original_file": "frog_25942363.jpg",
+    "sorted_path": "sahara_frog\\frog_25942363.jpg"
+  },
+  "frog_25942378.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 8.279,
+    "original_file": "frog_25942378.jpg",
+    "sorted_path": "iberian_green_frog\\frog_25942378.jpg"
+  },
+  "frog_26076138.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 61.811,
+    "original_file": "frog_26076138.jpg",
+    "sorted_path": "marsh_frog\\frog_26076138.jpg"
+  },
+  "frog_26081901.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 8.652,
+    "original_file": "frog_26081901.jpg",
+    "sorted_path": "edible_frog\\frog_26081901.jpg"
+  },
+  "frog_26150771.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 40.493,
+    "original_file": "frog_26150771.jpg",
+    "sorted_path": "american_bullfrog\\frog_26150771.jpg"
+  },
+  "frog_2631482.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 21.383,
+    "original_file": "frog_2631482.jpg",
+    "sorted_path": "marsh_frog\\frog_2631482.jpg"
+  },
+  "frog_26690573.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 79.563,
+    "original_file": "frog_26690573.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_26690573.jpg"
+  },
+  "frog_26690577.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 84.993,
+    "original_file": "frog_26690577.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_26690577.jpg"
+  },
+  "frog_26690580.jpg": {
+    "common_name": "Granular Glass Frog",
+    "scientific_name": "Cochranella granulosa",
+    "folder": "granular_glass_frog",
+    "confidence": "high",
+    "score": 97.804,
+    "original_file": "frog_26690580.jpg",
+    "sorted_path": "granular_glass_frog\\frog_26690580.jpg"
+  },
+  "frog_26690588.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 57.047,
+    "original_file": "frog_26690588.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_26690588.jpg"
+  },
+  "frog_26698444.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 44.161,
+    "original_file": "frog_26698444.jpg",
+    "sorted_path": "marsh_frog\\frog_26698444.jpg"
+  },
+  "frog_26757643.jpg": {
+    "common_name": "Common Hourglass Tree Frog",
+    "scientific_name": "Polypedates cruciger",
+    "folder": "common_hourglass_tree_frog",
+    "confidence": "high",
+    "score": 18.143,
+    "original_file": "frog_26757643.jpg",
+    "sorted_path": "common_hourglass_tree_frog\\frog_26757643.jpg"
+  },
+  "frog_26894059.jpg": {
+    "common_name": "Natal sand frog",
+    "scientific_name": "Tomopterna natalensis",
+    "folder": "natal_sand_frog",
+    "confidence": "high",
+    "score": 7.349,
+    "original_file": "frog_26894059.jpg",
+    "sorted_path": "natal_sand_frog\\frog_26894059.jpg"
+  },
+  "frog_26967755.jpg": {
+    "common_name": "Antillean Coqui",
+    "scientific_name": "Eleutherodactylus antillensis",
+    "folder": "antillean_coqui",
+    "confidence": "high",
+    "score": 25.614,
+    "original_file": "frog_26967755.jpg",
+    "sorted_path": "antillean_coqui\\frog_26967755.jpg"
+  },
+  "frog_26967756.jpg": {
+    "common_name": "Caribbean White-lipped Frog",
+    "scientific_name": "Leptodactylus albilabris",
+    "folder": "caribbean_white_lipped_frog",
+    "confidence": "high",
+    "score": 67.851,
+    "original_file": "frog_26967756.jpg",
+    "sorted_path": "caribbean_white_lipped_frog\\frog_26967756.jpg"
+  },
+  "frog_26967758.jpg": {
+    "common_name": "Mexican White-lipped Frog",
+    "scientific_name": "Leptodactylus fragilis",
+    "folder": "mexican_white_lipped_frog",
+    "confidence": "high",
+    "score": 49.892,
+    "original_file": "frog_26967758.jpg",
+    "sorted_path": "mexican_white_lipped_frog\\frog_26967758.jpg"
+  },
+  "frog_26968163.jpg": {
+    "common_name": "Antillean Coqui",
+    "scientific_name": "Eleutherodactylus antillensis",
+    "folder": "antillean_coqui",
+    "confidence": "high",
+    "score": 53.403,
+    "original_file": "frog_26968163.jpg",
+    "sorted_path": "antillean_coqui\\frog_26968163.jpg"
+  },
+  "frog_26968164.jpg": {
+    "common_name": "Antillean Coqui",
+    "scientific_name": "Eleutherodactylus antillensis",
+    "folder": "antillean_coqui",
+    "confidence": "high",
+    "score": 93.012,
+    "original_file": "frog_26968164.jpg",
+    "sorted_path": "antillean_coqui\\frog_26968164.jpg"
+  },
+  "frog_26968169.jpg": {
+    "common_name": "Antillean Coqui",
+    "scientific_name": "Eleutherodactylus antillensis",
+    "folder": "antillean_coqui",
+    "confidence": "high",
+    "score": 93.891,
+    "original_file": "frog_26968169.jpg",
+    "sorted_path": "antillean_coqui\\frog_26968169.jpg"
+  },
+  "frog_26998891.jpg": {
+    "common_name": "Mosquito Coast Tree Frog",
+    "scientific_name": "Smilisca manisorum",
+    "folder": "mosquito_coast_tree_frog",
+    "confidence": "high",
+    "score": 5.556,
+    "original_file": "frog_26998891.jpg",
+    "sorted_path": "mosquito_coast_tree_frog\\frog_26998891.jpg"
+  },
+  "frog_27048941.jpg": {
+    "common_name": "Variable Harlequin Frog",
+    "scientific_name": "Atelopus varius",
+    "folder": "variable_harlequin_frog",
+    "confidence": "high",
+    "score": 92.283,
+    "original_file": "frog_27048941.jpg",
+    "sorted_path": "variable_harlequin_frog\\frog_27048941.jpg"
+  },
+  "frog_27098492.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 39.015,
+    "original_file": "frog_27098492.jpg",
+    "sorted_path": "marsh_frog\\frog_27098492.jpg"
+  },
+  "frog_27114812.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 50.083,
+    "original_file": "frog_27114812.jpg",
+    "sorted_path": "american_bullfrog\\frog_27114812.jpg"
+  },
+  "frog_27132148.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 40.221,
+    "original_file": "frog_27132148.jpg",
+    "sorted_path": "iberian_green_frog\\frog_27132148.jpg"
+  },
+  "frog_27132149.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 70.32,
+    "original_file": "frog_27132149.jpg",
+    "sorted_path": "marsh_frog\\frog_27132149.jpg"
+  },
+  "frog_27132153.jpg": {
+    "common_name": "Chiricahua Leopard Frog",
+    "scientific_name": "Lithobates chiricahuensis",
+    "folder": "chiricahua_leopard_frog",
+    "confidence": "high",
+    "score": 62.322,
+    "original_file": "frog_27132153.jpg",
+    "sorted_path": "chiricahua_leopard_frog\\frog_27132153.jpg"
+  },
+  "frog_27132278.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 79.074,
+    "original_file": "frog_27132278.jpg",
+    "sorted_path": "marsh_frog\\frog_27132278.jpg"
+  },
+  "frog_27311533.jpg": {
+    "common_name": "banana passionfruit",
+    "scientific_name": "Passiflora tripartita",
+    "folder": "banana_passionfruit",
+    "confidence": "high",
+    "score": 2.735,
+    "original_file": "frog_27311533.jpg",
+    "sorted_path": "banana_passionfruit\\frog_27311533.jpg"
+  },
+  "frog_27397921.jpg": {
+    "common_name": "Taylor's Leaf Frog",
+    "scientific_name": "Agalychnis taylori",
+    "folder": "taylors_leaf_frog",
+    "confidence": "high",
+    "score": 65.168,
+    "original_file": "frog_27397921.jpg",
+    "sorted_path": "taylors_leaf_frog\\frog_27397921.jpg"
+  },
+  "frog_27398315.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 80.148,
+    "original_file": "frog_27398315.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_27398315.jpg"
+  },
+  "frog_27400051.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 88.8,
+    "original_file": "frog_27400051.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_27400051.jpg"
+  },
+  "frog_27443464.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 42.286,
+    "original_file": "frog_27443464.jpg",
+    "sorted_path": "marsh_frog\\frog_27443464.jpg"
+  },
+  "frog_27468907.jpg": {
+    "common_name": "Indochinamon",
+    "scientific_name": "Indochinamon",
+    "folder": "indochinamon",
+    "confidence": "high",
+    "score": 58.608,
+    "original_file": "frog_27468907.jpg",
+    "sorted_path": "indochinamon\\frog_27468907.jpg"
+  },
+  "frog_27490426.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 27.069,
+    "original_file": "frog_27490426.jpg",
+    "sorted_path": "marsh_frog\\frog_27490426.jpg"
+  },
+  "frog_27513827.jpg": {
+    "common_name": "Green Treefrog",
+    "scientific_name": "Dryophytes cinereus",
+    "folder": "green_treefrog",
+    "confidence": "high",
+    "score": 96.541,
+    "original_file": "frog_27513827.jpg",
+    "sorted_path": "green_treefrog\\frog_27513827.jpg"
+  },
+  "frog_2761188.jpg": {
+    "common_name": "Taurus Frog",
+    "scientific_name": "Rana macrocnemis",
+    "folder": "taurus_frog",
+    "confidence": "high",
+    "score": 54.875,
+    "original_file": "frog_2761188.jpg",
+    "sorted_path": "taurus_frog\\frog_2761188.jpg"
+  },
+  "frog_2761189.jpg": {
+    "common_name": "Western Bright-eyed Frog",
+    "scientific_name": "Boophis doulioti",
+    "folder": "western_bright_eyed_frog",
+    "confidence": "high",
+    "score": 9.963,
+    "original_file": "frog_2761189.jpg",
+    "sorted_path": "western_bright_eyed_frog\\frog_2761189.jpg"
+  },
+  "frog_27647914.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 96.012,
+    "original_file": "frog_27647914.jpg",
+    "sorted_path": "american_bullfrog\\frog_27647914.jpg"
+  },
+  "frog_27691639.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 56.868,
+    "original_file": "frog_27691639.jpg",
+    "sorted_path": "iberian_green_frog\\frog_27691639.jpg"
+  },
+  "frog_27768764.jpg": {
+    "common_name": "Mexican Treefrog",
+    "scientific_name": "Smilisca baudinii",
+    "folder": "mexican_treefrog",
+    "confidence": "high",
+    "score": 41.48,
+    "original_file": "frog_27768764.jpg",
+    "sorted_path": "mexican_treefrog\\frog_27768764.jpg"
+  },
+  "frog_27814209.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 34.491,
+    "original_file": "frog_27814209.jpg",
+    "sorted_path": "european_toad\\frog_27814209.jpg"
+  },
+  "frog_27853910.jpg": {
+    "common_name": "Guadeloupean anole",
+    "scientific_name": "Anolis marmoratus",
+    "folder": "guadeloupean_anole",
+    "confidence": "high",
+    "score": 13.122,
+    "original_file": "frog_27853910.jpg",
+    "sorted_path": "guadeloupean_anole\\frog_27853910.jpg"
+  },
+  "frog_27865374.jpg": {
+    "common_name": "Green Treefrog",
+    "scientific_name": "Dryophytes cinereus",
+    "folder": "green_treefrog",
+    "confidence": "high",
+    "score": 92.726,
+    "original_file": "frog_27865374.jpg",
+    "sorted_path": "green_treefrog\\frog_27865374.jpg"
+  },
+  "frog_27920597.jpg": {
+    "common_name": "Common Reed Frog",
+    "scientific_name": "Hyperolius viridiflavus",
+    "folder": "common_reed_frog",
+    "confidence": "high",
+    "score": 7.382,
+    "original_file": "frog_27920597.jpg",
+    "sorted_path": "common_reed_frog\\frog_27920597.jpg"
+  },
+  "frog_27920598.jpg": {
+    "common_name": "Ghats Tree Frogs",
+    "scientific_name": "Ghatixalus",
+    "folder": "ghats_tree_frogs",
+    "confidence": "high",
+    "score": 10.107,
+    "original_file": "frog_27920598.jpg",
+    "sorted_path": "ghats_tree_frogs\\frog_27920598.jpg"
+  },
+  "frog_27950151.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 54.146,
+    "original_file": "frog_27950151.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_27950151.jpg"
+  },
+  "frog_28052117.jpg": {
+    "common_name": "Human",
+    "scientific_name": "Homo sapiens",
+    "folder": "human",
+    "confidence": "high",
+    "score": 5.205,
+    "original_file": "frog_28052117.jpg",
+    "sorted_path": "human\\frog_28052117.jpg"
+  },
+  "frog_28074794.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 43.983,
+    "original_file": "frog_28074794.jpg",
+    "sorted_path": "pool_frog\\frog_28074794.jpg"
+  },
+  "frog_28074795.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 80.206,
+    "original_file": "frog_28074795.jpg",
+    "sorted_path": "pool_frog\\frog_28074795.jpg"
+  },
+  "frog_28075239.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 58.332,
+    "original_file": "frog_28075239.jpg",
+    "sorted_path": "pool_frog\\frog_28075239.jpg"
+  },
+  "frog_28144601.jpg": {
+    "common_name": "Pacific chorus frog",
+    "scientific_name": "Pseudacris regilla",
+    "folder": "pacific_chorus_frog",
+    "confidence": "high",
+    "score": 75.696,
+    "original_file": "frog_28144601.jpg",
+    "sorted_path": "pacific_chorus_frog\\frog_28144601.jpg"
+  },
+  "frog_2815727.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 69.074,
+    "original_file": "frog_2815727.jpg",
+    "sorted_path": "european_common_frog\\frog_2815727.jpg"
+  },
+  "frog_28198517.jpg": {
+    "common_name": "Chinese Softshell Turtle",
+    "scientific_name": "Pelodiscus sinensis",
+    "folder": "chinese_softshell_turtle",
+    "confidence": "high",
+    "score": 2.014,
+    "original_file": "frog_28198517.jpg",
+    "sorted_path": "chinese_softshell_turtle\\frog_28198517.jpg"
+  },
+  "frog_28298161.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 49.729,
+    "original_file": "frog_28298161.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_28298161.jpg"
+  },
+  "frog_28320465.jpg": {
+    "common_name": "Striped Robber Frog",
+    "scientific_name": "Pristimantis unistrigatus",
+    "folder": "striped_robber_frog",
+    "confidence": "high",
+    "score": 3.925,
+    "original_file": "frog_28320465.jpg",
+    "sorted_path": "striped_robber_frog\\frog_28320465.jpg"
+  },
+  "frog_28654598.jpg": {
+    "common_name": "Taylor's Leaf Frog",
+    "scientific_name": "Agalychnis taylori",
+    "folder": "taylors_leaf_frog",
+    "confidence": "high",
+    "score": 32.182,
+    "original_file": "frog_28654598.jpg",
+    "sorted_path": "taylors_leaf_frog\\frog_28654598.jpg"
+  },
+  "frog_2879701.jpg": {
+    "common_name": "East Asian Bullfrog",
+    "scientific_name": "Hoplobatrachus chinensis",
+    "folder": "east_asian_bullfrog",
+    "confidence": "high",
+    "score": 68.052,
+    "original_file": "frog_2879701.jpg",
+    "sorted_path": "east_asian_bullfrog\\frog_2879701.jpg"
+  },
+  "frog_28888698.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 46.079,
+    "original_file": "frog_28888698.jpg",
+    "sorted_path": "sahara_frog\\frog_28888698.jpg"
+  },
+  "frog_28905024.jpg": {
+    "common_name": "temple juniper",
+    "scientific_name": "Juniperus rigida",
+    "folder": "temple_juniper",
+    "confidence": "high",
+    "score": 4.389,
+    "original_file": "frog_28905024.jpg",
+    "sorted_path": "temple_juniper\\frog_28905024.jpg"
+  },
+  "frog_28915867.jpg": {
+    "common_name": "Bird-voiced Treefrog",
+    "scientific_name": "Dryophytes avivoca",
+    "folder": "bird_voiced_treefrog",
+    "confidence": "high",
+    "score": 46.693,
+    "original_file": "frog_28915867.jpg",
+    "sorted_path": "bird_voiced_treefrog\\frog_28915867.jpg"
+  },
+  "frog_28915882.jpg": {
+    "common_name": "Gray Tree Frog",
+    "scientific_name": "Dryophytes versicolor",
+    "folder": "gray_tree_frog",
+    "confidence": "high",
+    "score": 45.952,
+    "original_file": "frog_28915882.jpg",
+    "sorted_path": "gray_tree_frog\\frog_28915882.jpg"
+  },
+  "frog_28917176.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 20.642,
+    "original_file": "frog_28917176.jpg",
+    "sorted_path": "american_toad\\frog_28917176.jpg"
+  },
+  "frog_29091941.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 15.845,
+    "original_file": "frog_29091941.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_29091941.jpg"
+  },
+  "frog_29268253.jpg": {
+    "common_name": "Squirrel Tree Frog",
+    "scientific_name": "Dryophytes squirellus",
+    "folder": "squirrel_tree_frog",
+    "confidence": "high",
+    "score": 48.247,
+    "original_file": "frog_29268253.jpg",
+    "sorted_path": "squirrel_tree_frog\\frog_29268253.jpg"
+  },
+  "frog_29444320.jpg": {
+    "common_name": "Common skittering frog",
+    "scientific_name": "Euphlyctis cyanophlyctis",
+    "folder": "common_skittering_frog",
+    "confidence": "high",
+    "score": 99.389,
+    "original_file": "frog_29444320.jpg",
+    "sorted_path": "common_skittering_frog\\frog_29444320.jpg"
+  },
+  "frog_29444321.jpg": {
+    "common_name": "Common skittering frog",
+    "scientific_name": "Euphlyctis cyanophlyctis",
+    "folder": "common_skittering_frog",
+    "confidence": "high",
+    "score": 89.917,
+    "original_file": "frog_29444321.jpg",
+    "sorted_path": "common_skittering_frog\\frog_29444321.jpg"
+  },
+  "frog_29455187.jpg": {
+    "common_name": "Green-eyed Tree Frog",
+    "scientific_name": "Spicicalyx serrata",
+    "folder": "green_eyed_tree_frog",
+    "confidence": "high",
+    "score": 7.958,
+    "original_file": "frog_29455187.jpg",
+    "sorted_path": "green_eyed_tree_frog\\frog_29455187.jpg"
+  },
+  "frog_29506275.jpg": {
+    "common_name": "Barred Monkey Frog",
+    "scientific_name": "Callimedusa tomopterna",
+    "folder": "barred_monkey_frog",
+    "confidence": "high",
+    "score": 93.017,
+    "original_file": "frog_29506275.jpg",
+    "sorted_path": "barred_monkey_frog\\frog_29506275.jpg"
+  },
+  "frog_29506276.jpg": {
+    "common_name": "Tarsier Leaf Frog",
+    "scientific_name": "Phyllomedusa tarsius",
+    "folder": "tarsier_leaf_frog",
+    "confidence": "high",
+    "score": 82.857,
+    "original_file": "frog_29506276.jpg",
+    "sorted_path": "tarsier_leaf_frog\\frog_29506276.jpg"
+  },
+  "frog_29506277.jpg": {
+    "common_name": "Tarsier Leaf Frog",
+    "scientific_name": "Phyllomedusa tarsius",
+    "folder": "tarsier_leaf_frog",
+    "confidence": "high",
+    "score": 73.841,
+    "original_file": "frog_29506277.jpg",
+    "sorted_path": "tarsier_leaf_frog\\frog_29506277.jpg"
+  },
+  "frog_29506298.jpg": {
+    "common_name": "Guinle Tree Frog",
+    "scientific_name": "Aplastodiscus leucopygius",
+    "folder": "guinle_tree_frog",
+    "confidence": "high",
+    "score": 47.099,
+    "original_file": "frog_29506298.jpg",
+    "sorted_path": "guinle_tree_frog\\frog_29506298.jpg"
+  },
+  "frog_29506300.jpg": {
+    "common_name": "Atlantic Forest Tree Frog",
+    "scientific_name": "Bokermannohyla hylax",
+    "folder": "atlantic_forest_tree_frog",
+    "confidence": "high",
+    "score": 70.9,
+    "original_file": "frog_29506300.jpg",
+    "sorted_path": "atlantic_forest_tree_frog\\frog_29506300.jpg"
+  },
+  "frog_29506302.jpg": {
+    "common_name": "Elegant Forest Tree Frog",
+    "scientific_name": "Dendropsophus elegans",
+    "folder": "elegant_forest_tree_frog",
+    "confidence": "high",
+    "score": 82.348,
+    "original_file": "frog_29506302.jpg",
+    "sorted_path": "elegant_forest_tree_frog\\frog_29506302.jpg"
+  },
+  "frog_29518235.jpg": {
+    "common_name": "Mink Frog",
+    "scientific_name": "Lithobates septentrionalis",
+    "folder": "mink_frog",
+    "confidence": "high",
+    "score": 34.012,
+    "original_file": "frog_29518235.jpg",
+    "sorted_path": "mink_frog\\frog_29518235.jpg"
+  },
+  "frog_29937010.jpg": {
+    "common_name": "Pacific chorus frog",
+    "scientific_name": "Pseudacris regilla",
+    "folder": "pacific_chorus_frog",
+    "confidence": "high",
+    "score": 60.86,
+    "original_file": "frog_29937010.jpg",
+    "sorted_path": "pacific_chorus_frog\\frog_29937010.jpg"
+  },
+  "frog_29993582.jpg": {
+    "common_name": "Green Tree Frog",
+    "scientific_name": "Pelodryas caerulea",
+    "folder": "green_tree_frog",
+    "confidence": "high",
+    "score": 20.054,
+    "original_file": "frog_29993582.jpg",
+    "sorted_path": "green_tree_frog\\frog_29993582.jpg"
+  },
+  "frog_30047859.jpg": {
+    "common_name": "Rosenberg's Gladiator Frog",
+    "scientific_name": "Boana rosenbergi",
+    "folder": "rosenbergs_gladiator_frog",
+    "confidence": "high",
+    "score": 49.483,
+    "original_file": "frog_30047859.jpg",
+    "sorted_path": "rosenbergs_gladiator_frog\\frog_30047859.jpg"
+  },
+  "frog_30047860.jpg": {
+    "common_name": "Chirique-Flusse Tree Frog",
+    "scientific_name": "Boana pugnax",
+    "folder": "chirique_flusse_tree_frog",
+    "confidence": "high",
+    "score": 37.564,
+    "original_file": "frog_30047860.jpg",
+    "sorted_path": "chirique_flusse_tree_frog\\frog_30047860.jpg"
+  },
+  "frog_30094991.jpg": {
+    "common_name": "Greek frog",
+    "scientific_name": "Rana graeca",
+    "folder": "greek_frog",
+    "confidence": "high",
+    "score": 15.594,
+    "original_file": "frog_30094991.jpg",
+    "sorted_path": "greek_frog\\frog_30094991.jpg"
+  },
+  "frog_3010851.jpg": {
+    "common_name": "Poynton's River Frog",
+    "scientific_name": "Amietia poyntoni",
+    "folder": "poyntons_river_frog",
+    "confidence": "high",
+    "score": 37.833,
+    "original_file": "frog_3010851.jpg",
+    "sorted_path": "poyntons_river_frog\\frog_3010851.jpg"
+  },
+  "frog_3013387.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 41.173,
+    "original_file": "frog_3013387.jpg",
+    "sorted_path": "american_toad\\frog_3013387.jpg"
+  },
+  "frog_30195687.jpg": {
+    "common_name": "White Stork",
+    "scientific_name": "Ciconia ciconia",
+    "folder": "white_stork",
+    "confidence": "high",
+    "score": 26.33,
+    "original_file": "frog_30195687.jpg",
+    "sorted_path": "white_stork\\frog_30195687.jpg"
+  },
+  "frog_30195688.jpg": {
+    "common_name": "Blue Duck",
+    "scientific_name": "Hymenolaimus malacorhynchos",
+    "folder": "blue_duck",
+    "confidence": "high",
+    "score": 4.615,
+    "original_file": "frog_30195688.jpg",
+    "sorted_path": "blue_duck\\frog_30195688.jpg"
+  },
+  "frog_30443956.jpg": {
+    "common_name": "Cercospora hydrangeae",
+    "scientific_name": "Cercospora hydrangeae",
+    "folder": "cercospora_hydrangeae",
+    "confidence": "high",
+    "score": 0.837,
+    "original_file": "frog_30443956.jpg",
+    "sorted_path": "cercospora_hydrangeae\\frog_30443956.jpg"
+  },
+  "frog_30480524.jpg": {
+    "common_name": "Taiwan Japalure",
+    "scientific_name": "Diploderma swinhonis",
+    "folder": "taiwan_japalure",
+    "confidence": "high",
+    "score": 89.668,
+    "original_file": "frog_30480524.jpg",
+    "sorted_path": "taiwan_japalure\\frog_30480524.jpg"
+  },
+  "frog_30602537.jpg": {
+    "common_name": "Ornate Burrowing Frog",
+    "scientific_name": "Platyplectrum ornatum",
+    "folder": "ornate_burrowing_frog",
+    "confidence": "high",
+    "score": 10.438,
+    "original_file": "frog_30602537.jpg",
+    "sorted_path": "ornate_burrowing_frog\\frog_30602537.jpg"
+  },
+  "frog_30770772.jpg": {
+    "common_name": "Asian Elephant",
+    "scientific_name": "Elephas maximus",
+    "folder": "asian_elephant",
+    "confidence": "high",
+    "score": 15.625,
+    "original_file": "frog_30770772.jpg",
+    "sorted_path": "asian_elephant\\frog_30770772.jpg"
+  },
+  "frog_30823856.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 15.607,
+    "original_file": "frog_30823856.jpg",
+    "sorted_path": "iberian_green_frog\\frog_30823856.jpg"
+  },
+  "frog_30835514.jpg": {
+    "common_name": "Green Basilisk",
+    "scientific_name": "Basiliscus plumifrons",
+    "folder": "green_basilisk",
+    "confidence": "high",
+    "score": 23.795,
+    "original_file": "frog_30835514.jpg",
+    "sorted_path": "green_basilisk\\frog_30835514.jpg"
+  },
+  "frog_30835525.jpg": {
+    "common_name": "Green Basilisk",
+    "scientific_name": "Basiliscus plumifrons",
+    "folder": "green_basilisk",
+    "confidence": "high",
+    "score": 63.976,
+    "original_file": "frog_30835525.jpg",
+    "sorted_path": "green_basilisk\\frog_30835525.jpg"
+  },
+  "frog_30835526.jpg": {
+    "common_name": "Madagascar Giant Day Gecko",
+    "scientific_name": "Phelsuma grandis",
+    "folder": "madagascar_giant_day_gecko",
+    "confidence": "high",
+    "score": 94.704,
+    "original_file": "frog_30835526.jpg",
+    "sorted_path": "madagascar_giant_day_gecko\\frog_30835526.jpg"
+  },
+  "frog_30835538.jpg": {
+    "common_name": "Espeletia hartwegiana",
+    "scientific_name": "Espeletia hartwegiana",
+    "folder": "espeletia_hartwegiana",
+    "confidence": "high",
+    "score": 11.7,
+    "original_file": "frog_30835538.jpg",
+    "sorted_path": "espeletia_hartwegiana\\frog_30835538.jpg"
+  },
+  "frog_30835568.jpg": {
+    "common_name": "African Dream Herb",
+    "scientific_name": "Entada rheedei",
+    "folder": "african_dream_herb",
+    "confidence": "high",
+    "score": 20.694,
+    "original_file": "frog_30835568.jpg",
+    "sorted_path": "african_dream_herb\\frog_30835568.jpg"
+  },
+  "frog_30835578.jpg": {
+    "common_name": "Asian Elephant",
+    "scientific_name": "Elephas maximus",
+    "folder": "asian_elephant",
+    "confidence": "high",
+    "score": 16.741,
+    "original_file": "frog_30835578.jpg",
+    "sorted_path": "asian_elephant\\frog_30835578.jpg"
+  },
+  "frog_3098660.jpg": {
+    "common_name": "Taurus Frog",
+    "scientific_name": "Rana macrocnemis",
+    "folder": "taurus_frog",
+    "confidence": "high",
+    "score": 7.738,
+    "original_file": "frog_3098660.jpg",
+    "sorted_path": "taurus_frog\\frog_3098660.jpg"
+  },
+  "frog_3098662.jpg": {
+    "common_name": "Japanese Brown Frog",
+    "scientific_name": "Rana japonica",
+    "folder": "japanese_brown_frog",
+    "confidence": "high",
+    "score": 6.432,
+    "original_file": "frog_3098662.jpg",
+    "sorted_path": "japanese_brown_frog\\frog_3098662.jpg"
+  },
+  "frog_31031548.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 46.76,
+    "original_file": "frog_31031548.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_31031548.jpg"
+  },
+  "frog_31036266.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 26.827,
+    "original_file": "frog_31036266.jpg",
+    "sorted_path": "marsh_frog\\frog_31036266.jpg"
+  },
+  "frog_31036270.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 49.928,
+    "original_file": "frog_31036270.jpg",
+    "sorted_path": "sahara_frog\\frog_31036270.jpg"
+  },
+  "frog_31036271.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 97.961,
+    "original_file": "frog_31036271.jpg",
+    "sorted_path": "marsh_frog\\frog_31036271.jpg"
+  },
+  "frog_31097615.jpg": {
+    "common_name": "Agile Frog",
+    "scientific_name": "Rana dalmatina",
+    "folder": "agile_frog",
+    "confidence": "high",
+    "score": 82.178,
+    "original_file": "frog_31097615.jpg",
+    "sorted_path": "agile_frog\\frog_31097615.jpg"
+  },
+  "frog_31300173.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 5.298,
+    "original_file": "frog_31300173.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_31300173.jpg"
+  },
+  "frog_31316798.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 46.172,
+    "original_file": "frog_31316798.jpg",
+    "sorted_path": "marsh_frog\\frog_31316798.jpg"
+  },
+  "frog_31529633.jpg": {
+    "common_name": "Indian Five-fingered Frog",
+    "scientific_name": "Phrynoderma hexadactylum",
+    "folder": "indian_five_fingered_frog",
+    "confidence": "high",
+    "score": 22.405,
+    "original_file": "frog_31529633.jpg",
+    "sorted_path": "indian_five_fingered_frog\\frog_31529633.jpg"
+  },
+  "frog_31534446.jpg": {
+    "common_name": "Green Treefrog",
+    "scientific_name": "Dryophytes cinereus",
+    "folder": "green_treefrog",
+    "confidence": "high",
+    "score": 46.814,
+    "original_file": "frog_31534446.jpg",
+    "sorted_path": "green_treefrog\\frog_31534446.jpg"
+  },
+  "frog_31544321.jpg": {
+    "common_name": "Clusia multiflora",
+    "scientific_name": "Clusia multiflora",
+    "folder": "clusia_multiflora",
+    "confidence": "high",
+    "score": 10.777,
+    "original_file": "frog_31544321.jpg",
+    "sorted_path": "clusia_multiflora\\frog_31544321.jpg"
+  },
+  "frog_31633358.jpg": {
+    "common_name": "Columbia Spotted Frog",
+    "scientific_name": "Rana luteiventris",
+    "folder": "columbia_spotted_frog",
+    "confidence": "high",
+    "score": 26.275,
+    "original_file": "frog_31633358.jpg",
+    "sorted_path": "columbia_spotted_frog\\frog_31633358.jpg"
+  },
+  "frog_31747387.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 77.689,
+    "original_file": "frog_31747387.jpg",
+    "sorted_path": "edible_frog\\frog_31747387.jpg"
+  },
+  "frog_31784443.jpg": {
+    "common_name": "Green Tree Frog",
+    "scientific_name": "Pelodryas caerulea",
+    "folder": "green_tree_frog",
+    "confidence": "high",
+    "score": 4.093,
+    "original_file": "frog_31784443.jpg",
+    "sorted_path": "green_tree_frog\\frog_31784443.jpg"
+  },
+  "frog_3180747.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 98.403,
+    "original_file": "frog_3180747.jpg",
+    "sorted_path": "masked_tree_frog\\frog_3180747.jpg"
+  },
+  "frog_3180755.jpg": {
+    "common_name": "Strawberry Poison Dart Frog",
+    "scientific_name": "Oophaga pumilio",
+    "folder": "strawberry_poison_dart_frog",
+    "confidence": "high",
+    "score": 65.413,
+    "original_file": "frog_3180755.jpg",
+    "sorted_path": "strawberry_poison_dart_frog\\frog_3180755.jpg"
+  },
+  "frog_31810490.jpg": {
+    "common_name": "Mountain Tree Frog",
+    "scientific_name": "Dryophytes eximius",
+    "folder": "mountain_tree_frog",
+    "confidence": "high",
+    "score": 83.842,
+    "original_file": "frog_31810490.jpg",
+    "sorted_path": "mountain_tree_frog\\frog_31810490.jpg"
+  },
+  "frog_31826519.jpg": {
+    "common_name": "Eastern-Japanese Common Toad",
+    "scientific_name": "Bufo formosus",
+    "folder": "eastern_japanese_common_toad",
+    "confidence": "high",
+    "score": 56.14,
+    "original_file": "frog_31826519.jpg",
+    "sorted_path": "eastern_japanese_common_toad\\frog_31826519.jpg"
+  },
+  "frog_31826521.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 49.94,
+    "original_file": "frog_31826521.jpg",
+    "sorted_path": "american_toad\\frog_31826521.jpg"
+  },
+  "frog_31826531.jpg": {
+    "common_name": "Dry Forest Toad",
+    "scientific_name": "Incilius coccifer",
+    "folder": "dry_forest_toad",
+    "confidence": "high",
+    "score": 55.371,
+    "original_file": "frog_31826531.jpg",
+    "sorted_path": "dry_forest_toad\\frog_31826531.jpg"
+  },
+  "frog_31826532.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 26.885,
+    "original_file": "frog_31826532.jpg",
+    "sorted_path": "american_toad\\frog_31826532.jpg"
+  },
+  "frog_31826533.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 56.565,
+    "original_file": "frog_31826533.jpg",
+    "sorted_path": "american_toad\\frog_31826533.jpg"
+  },
+  "frog_31826536.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 66.56,
+    "original_file": "frog_31826536.jpg",
+    "sorted_path": "american_toad\\frog_31826536.jpg"
+  },
+  "frog_31903558.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 26.077,
+    "original_file": "frog_31903558.jpg",
+    "sorted_path": "sahara_frog\\frog_31903558.jpg"
+  },
+  "frog_32013199.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 12.54,
+    "original_file": "frog_32013199.jpg",
+    "sorted_path": "european_common_frog\\frog_32013199.jpg"
+  },
+  "frog_32114515.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 96.522,
+    "original_file": "frog_32114515.jpg",
+    "sorted_path": "marsh_frog\\frog_32114515.jpg"
+  },
+  "frog_32114522.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 50.208,
+    "original_file": "frog_32114522.jpg",
+    "sorted_path": "marsh_frog\\frog_32114522.jpg"
+  },
+  "frog_32289251.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 18.894,
+    "original_file": "frog_32289251.jpg",
+    "sorted_path": "marsh_frog\\frog_32289251.jpg"
+  },
+  "frog_32319066.jpg": {
+    "common_name": "Kuhl's Anglehead Lizard",
+    "scientific_name": "Gonocephalus kuhlii",
+    "folder": "kuhls_anglehead_lizard",
+    "confidence": "high",
+    "score": 1.894,
+    "original_file": "frog_32319066.jpg",
+    "sorted_path": "kuhls_anglehead_lizard\\frog_32319066.jpg"
+  },
+  "frog_32319179.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 64.992,
+    "original_file": "frog_32319179.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_32319179.jpg"
+  },
+  "frog_32528967.jpg": {
+    "common_name": "Taiwan Whipping Frog",
+    "scientific_name": "Polypedates braueri",
+    "folder": "taiwan_whipping_frog",
+    "confidence": "high",
+    "score": 38.894,
+    "original_file": "frog_32528967.jpg",
+    "sorted_path": "taiwan_whipping_frog\\frog_32528967.jpg"
+  },
+  "frog_32528968.jpg": {
+    "common_name": "Blacksmith Tree Frog",
+    "scientific_name": "Boana faber",
+    "folder": "blacksmith_tree_frog",
+    "confidence": "high",
+    "score": 11.033,
+    "original_file": "frog_32528968.jpg",
+    "sorted_path": "blacksmith_tree_frog\\frog_32528968.jpg"
+  },
+  "frog_32528969.jpg": {
+    "common_name": "Blacksmith Tree Frog",
+    "scientific_name": "Boana faber",
+    "folder": "blacksmith_tree_frog",
+    "confidence": "high",
+    "score": 10.244,
+    "original_file": "frog_32528969.jpg",
+    "sorted_path": "blacksmith_tree_frog\\frog_32528969.jpg"
+  },
+  "frog_32528970.jpg": {
+    "common_name": "Grey Foam-nest Tree Frog",
+    "scientific_name": "Chiromantis xerampelina",
+    "folder": "grey_foam_nest_tree_frog",
+    "confidence": "high",
+    "score": 13.541,
+    "original_file": "frog_32528970.jpg",
+    "sorted_path": "grey_foam_nest_tree_frog\\frog_32528970.jpg"
+  },
+  "frog_32528971.jpg": {
+    "common_name": "Grey Foam-nest Tree Frog",
+    "scientific_name": "Chiromantis xerampelina",
+    "folder": "grey_foam_nest_tree_frog",
+    "confidence": "high",
+    "score": 13.038,
+    "original_file": "frog_32528971.jpg",
+    "sorted_path": "grey_foam_nest_tree_frog\\frog_32528971.jpg"
+  },
+  "frog_32528988.jpg": {
+    "common_name": "Spot-legged Tree Frog",
+    "scientific_name": "Polypedates megacephalus",
+    "folder": "spot_legged_tree_frog",
+    "confidence": "high",
+    "score": 34.469,
+    "original_file": "frog_32528988.jpg",
+    "sorted_path": "spot_legged_tree_frog\\frog_32528988.jpg"
+  },
+  "frog_32528990.jpg": {
+    "common_name": "Taiwan Whipping Frog",
+    "scientific_name": "Polypedates braueri",
+    "folder": "taiwan_whipping_frog",
+    "confidence": "high",
+    "score": 48.046,
+    "original_file": "frog_32528990.jpg",
+    "sorted_path": "taiwan_whipping_frog\\frog_32528990.jpg"
+  },
+  "frog_32543206.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 33.163,
+    "original_file": "frog_32543206.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_32543206.jpg"
+  },
+  "frog_32550140.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 42.12,
+    "original_file": "frog_32550140.jpg",
+    "sorted_path": "european_common_frog\\frog_32550140.jpg"
+  },
+  "frog_3258237.jpg": {
+    "common_name": "Lemon-yellow Tree Frog",
+    "scientific_name": "Hyla savignyi",
+    "folder": "lemon_yellow_tree_frog",
+    "confidence": "high",
+    "score": 61.68,
+    "original_file": "frog_3258237.jpg",
+    "sorted_path": "lemon_yellow_tree_frog\\frog_3258237.jpg"
+  },
+  "frog_32614998.jpg": {
+    "common_name": "Eastern Golden Frog",
+    "scientific_name": "Pelophylax plancyi",
+    "folder": "eastern_golden_frog",
+    "confidence": "high",
+    "score": 20.742,
+    "original_file": "frog_32614998.jpg",
+    "sorted_path": "eastern_golden_frog\\frog_32614998.jpg"
+  },
+  "frog_32615009.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 13.459,
+    "original_file": "frog_32615009.jpg",
+    "sorted_path": "sahara_frog\\frog_32615009.jpg"
+  },
+  "frog_32615010.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 33.404,
+    "original_file": "frog_32615010.jpg",
+    "sorted_path": "sahara_frog\\frog_32615010.jpg"
+  },
+  "frog_32615017.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 31.291,
+    "original_file": "frog_32615017.jpg",
+    "sorted_path": "marsh_frog\\frog_32615017.jpg"
+  },
+  "frog_32615018.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 31.982,
+    "original_file": "frog_32615018.jpg",
+    "sorted_path": "marsh_frog\\frog_32615018.jpg"
+  },
+  "frog_32669411.jpg": {
+    "common_name": "Unknown Frog",
+    "scientific_name": "Unknown",
+    "folder": "unknown",
+    "confidence": "low",
+    "score": 0.0,
+    "original_file": "frog_32669411.jpg",
+    "sorted_path": "unknown\\frog_32669411.jpg"
+  },
+  "frog_32669420.jpg": {
+    "common_name": "Human",
+    "scientific_name": "Homo sapiens",
+    "folder": "human",
+    "confidence": "high",
+    "score": 65.351,
+    "original_file": "frog_32669420.jpg",
+    "sorted_path": "human\\frog_32669420.jpg"
+  },
+  "frog_32669424.jpg": {
+    "common_name": "Mountain Tree Frog",
+    "scientific_name": "Dryophytes eximius",
+    "folder": "mountain_tree_frog",
+    "confidence": "high",
+    "score": 38.713,
+    "original_file": "frog_32669424.jpg",
+    "sorted_path": "mountain_tree_frog\\frog_32669424.jpg"
+  },
+  "frog_32669428.jpg": {
+    "common_name": "Laura's Caesar",
+    "scientific_name": "Amanita laurae",
+    "folder": "lauras_caesar",
+    "confidence": "high",
+    "score": 3.216,
+    "original_file": "frog_32669428.jpg",
+    "sorted_path": "lauras_caesar\\frog_32669428.jpg"
+  },
+  "frog_32669434.jpg": {
+    "common_name": "Ridged Tree Frog",
+    "scientific_name": "Dryophytes plicatus",
+    "folder": "ridged_tree_frog",
+    "confidence": "high",
+    "score": 51.645,
+    "original_file": "frog_32669434.jpg",
+    "sorted_path": "ridged_tree_frog\\frog_32669434.jpg"
+  },
+  "frog_32669435.jpg": {
+    "common_name": "Mountain Tree Frog",
+    "scientific_name": "Dryophytes eximius",
+    "folder": "mountain_tree_frog",
+    "confidence": "high",
+    "score": 54.43,
+    "original_file": "frog_32669435.jpg",
+    "sorted_path": "mountain_tree_frog\\frog_32669435.jpg"
+  },
+  "frog_32669439.jpg": {
+    "common_name": "Solitary Amanita",
+    "scientific_name": "Amanita echinocephala",
+    "folder": "solitary_amanita",
+    "confidence": "high",
+    "score": 1.536,
+    "original_file": "frog_32669439.jpg",
+    "sorted_path": "solitary_amanita\\frog_32669439.jpg"
+  },
+  "frog_32697676.jpg": {
+    "common_name": "Ornate Forest toad",
+    "scientific_name": "Rhinella ornata",
+    "folder": "ornate_forest_toad",
+    "confidence": "high",
+    "score": 17.955,
+    "original_file": "frog_32697676.jpg",
+    "sorted_path": "ornate_forest_toad\\frog_32697676.jpg"
+  },
+  "frog_32942537.jpg": {
+    "common_name": "Rufous-eyed brook frog",
+    "scientific_name": "Duellmanohyla rufioculis",
+    "folder": "rufous_eyed_brook_frog",
+    "confidence": "high",
+    "score": 52.646,
+    "original_file": "frog_32942537.jpg",
+    "sorted_path": "rufous_eyed_brook_frog\\frog_32942537.jpg"
+  },
+  "frog_33020871.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 4.987,
+    "original_file": "frog_33020871.jpg",
+    "sorted_path": "sahara_frog\\frog_33020871.jpg"
+  },
+  "frog_33042875.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 31.695,
+    "original_file": "frog_33042875.jpg",
+    "sorted_path": "marsh_frog\\frog_33042875.jpg"
+  },
+  "frog_3311097.jpg": {
+    "common_name": "Vietnamese Mossy Frog",
+    "scientific_name": "Theloderma corticale",
+    "folder": "vietnamese_mossy_frog",
+    "confidence": "high",
+    "score": 13.077,
+    "original_file": "frog_3311097.jpg",
+    "sorted_path": "vietnamese_mossy_frog\\frog_3311097.jpg"
+  },
+  "frog_33289932.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 21.401,
+    "original_file": "frog_33289932.jpg",
+    "sorted_path": "edible_frog\\frog_33289932.jpg"
+  },
+  "frog_33292867.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 83.331,
+    "original_file": "frog_33292867.jpg",
+    "sorted_path": "green_frog\\frog_33292867.jpg"
+  },
+  "frog_33311080.jpg": {
+    "common_name": "Guinle Tree Frog",
+    "scientific_name": "Aplastodiscus leucopygius",
+    "folder": "guinle_tree_frog",
+    "confidence": "high",
+    "score": 77.341,
+    "original_file": "frog_33311080.jpg",
+    "sorted_path": "guinle_tree_frog\\frog_33311080.jpg"
+  },
+  "frog_33348226.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 28.849,
+    "original_file": "frog_33348226.jpg",
+    "sorted_path": "sahara_frog\\frog_33348226.jpg"
+  },
+  "frog_33442876.jpg": {
+    "common_name": "Golden Poison Dart Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "folder": "golden_poison_dart_frog",
+    "confidence": "high",
+    "score": 83.943,
+    "original_file": "frog_33442876.jpg",
+    "sorted_path": "golden_poison_dart_frog\\frog_33442876.jpg"
+  },
+  "frog_33458199.jpg": {
+    "common_name": "Green Treefrog",
+    "scientific_name": "Dryophytes cinereus",
+    "folder": "green_treefrog",
+    "confidence": "high",
+    "score": 86.517,
+    "original_file": "frog_33458199.jpg",
+    "sorted_path": "green_treefrog\\frog_33458199.jpg"
+  },
+  "frog_33483027.jpg": {
+    "common_name": "Gloeotrichia",
+    "scientific_name": "Gloeotrichia",
+    "folder": "gloeotrichia",
+    "confidence": "high",
+    "score": 11.703,
+    "original_file": "frog_33483027.jpg",
+    "sorted_path": "gloeotrichia\\frog_33483027.jpg"
+  },
+  "frog_33516515.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 53.567,
+    "original_file": "frog_33516515.jpg",
+    "sorted_path": "european_toad\\frog_33516515.jpg"
+  },
+  "frog_33655933.jpg": {
+    "common_name": "Blue-sided Tree Frog",
+    "scientific_name": "Agalychnis annae",
+    "folder": "blue_sided_tree_frog",
+    "confidence": "high",
+    "score": 62.025,
+    "original_file": "frog_33655933.jpg",
+    "sorted_path": "blue_sided_tree_frog\\frog_33655933.jpg"
+  },
+  "frog_33670377.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 53.535,
+    "original_file": "frog_33670377.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_33670377.jpg"
+  },
+  "frog_33765191.jpg": {
+    "common_name": "Indus Valley Toad",
+    "scientific_name": "Firouzophrynus stomaticus",
+    "folder": "indus_valley_toad",
+    "confidence": "high",
+    "score": 64.067,
+    "original_file": "frog_33765191.jpg",
+    "sorted_path": "indus_valley_toad\\frog_33765191.jpg"
+  },
+  "frog_33765194.jpg": {
+    "common_name": "Indus Valley Toad",
+    "scientific_name": "Firouzophrynus stomaticus",
+    "folder": "indus_valley_toad",
+    "confidence": "high",
+    "score": 69.062,
+    "original_file": "frog_33765194.jpg",
+    "sorted_path": "indus_valley_toad\\frog_33765194.jpg"
+  },
+  "frog_33801339.jpg": {
+    "common_name": "Chinese Flying Frog",
+    "scientific_name": "Zhangixalus dennysi",
+    "folder": "chinese_flying_frog",
+    "confidence": "high",
+    "score": 26.719,
+    "original_file": "frog_33801339.jpg",
+    "sorted_path": "chinese_flying_frog\\frog_33801339.jpg"
+  },
+  "frog_33804691.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 36.243,
+    "original_file": "frog_33804691.jpg",
+    "sorted_path": "sahara_frog\\frog_33804691.jpg"
+  },
+  "frog_33837592.jpg": {
+    "common_name": "Taiwan Common Toad",
+    "scientific_name": "Bufo bankorensis",
+    "folder": "taiwan_common_toad",
+    "confidence": "high",
+    "score": 54.423,
+    "original_file": "frog_33837592.jpg",
+    "sorted_path": "taiwan_common_toad\\frog_33837592.jpg"
+  },
+  "frog_33847057.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 99.176,
+    "original_file": "frog_33847057.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_33847057.jpg"
+  },
+  "frog_33852150.jpg": {
+    "common_name": "Moor Frog",
+    "scientific_name": "Rana arvalis",
+    "folder": "moor_frog",
+    "confidence": "high",
+    "score": 52.218,
+    "original_file": "frog_33852150.jpg",
+    "sorted_path": "moor_frog\\frog_33852150.jpg"
+  },
+  "frog_33881493.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 23.899,
+    "original_file": "frog_33881493.jpg",
+    "sorted_path": "sahara_frog\\frog_33881493.jpg"
+  },
+  "frog_33881494.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 32.583,
+    "original_file": "frog_33881494.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_33881494.jpg"
+  },
+  "frog_33885856.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 97.685,
+    "original_file": "frog_33885856.jpg",
+    "sorted_path": "american_bullfrog\\frog_33885856.jpg"
+  },
+  "frog_33892086.jpg": {
+    "common_name": "Indus Valley Bullfrog",
+    "scientific_name": "Hoplobatrachus tigerinus",
+    "folder": "indus_valley_bullfrog",
+    "confidence": "high",
+    "score": 32.221,
+    "original_file": "frog_33892086.jpg",
+    "sorted_path": "indus_valley_bullfrog\\frog_33892086.jpg"
+  },
+  "frog_33892088.jpg": {
+    "common_name": "Indus Valley Bullfrog",
+    "scientific_name": "Hoplobatrachus tigerinus",
+    "folder": "indus_valley_bullfrog",
+    "confidence": "high",
+    "score": 18.064,
+    "original_file": "frog_33892088.jpg",
+    "sorted_path": "indus_valley_bullfrog\\frog_33892088.jpg"
+  },
+  "frog_33896273.jpg": {
+    "common_name": "Pig Frog",
+    "scientific_name": "Lithobates grylio",
+    "folder": "pig_frog",
+    "confidence": "high",
+    "score": 7.886,
+    "original_file": "frog_33896273.jpg",
+    "sorted_path": "pig_frog\\frog_33896273.jpg"
+  },
+  "frog_33949537.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 47.942,
+    "original_file": "frog_33949537.jpg",
+    "sorted_path": "pool_frog\\frog_33949537.jpg"
+  },
+  "frog_33976328.jpg": {
+    "common_name": "Yellow Waterlily",
+    "scientific_name": "Nymphaea mexicana",
+    "folder": "yellow_waterlily",
+    "confidence": "high",
+    "score": 53.76,
+    "original_file": "frog_33976328.jpg",
+    "sorted_path": "yellow_waterlily\\frog_33976328.jpg"
+  },
+  "frog_33976329.jpg": {
+    "common_name": "Yellow Waterlily",
+    "scientific_name": "Nymphaea mexicana",
+    "folder": "yellow_waterlily",
+    "confidence": "high",
+    "score": 71.349,
+    "original_file": "frog_33976329.jpg",
+    "sorted_path": "yellow_waterlily\\frog_33976329.jpg"
+  },
+  "frog_33976332.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 47.098,
+    "original_file": "frog_33976332.jpg",
+    "sorted_path": "sahara_frog\\frog_33976332.jpg"
+  },
+  "frog_33976333.jpg": {
+    "common_name": "Oriental spruce",
+    "scientific_name": "Picea orientalis",
+    "folder": "oriental_spruce",
+    "confidence": "high",
+    "score": 14.972,
+    "original_file": "frog_33976333.jpg",
+    "sorted_path": "oriental_spruce\\frog_33976333.jpg"
+  },
+  "frog_33976335.jpg": {
+    "common_name": "European White Waterlily",
+    "scientific_name": "Nymphaea alba",
+    "folder": "european_white_waterlily",
+    "confidence": "high",
+    "score": 50.032,
+    "original_file": "frog_33976335.jpg",
+    "sorted_path": "european_white_waterlily\\frog_33976335.jpg"
+  },
+  "frog_33976336.jpg": {
+    "common_name": "Mountain Bluebird",
+    "scientific_name": "Sialia currucoides",
+    "folder": "mountain_bluebird",
+    "confidence": "high",
+    "score": 1.705,
+    "original_file": "frog_33976336.jpg",
+    "sorted_path": "mountain_bluebird\\frog_33976336.jpg"
+  },
+  "frog_33976626.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Chlorohyla chloris",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 24.274,
+    "original_file": "frog_33976626.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_33976626.jpg"
+  },
+  "frog_33978694.jpg": {
+    "common_name": "Ascarididae",
+    "scientific_name": "Ascarididae",
+    "folder": "ascarididae",
+    "confidence": "high",
+    "score": 7.678,
+    "original_file": "frog_33978694.jpg",
+    "sorted_path": "ascarididae\\frog_33978694.jpg"
+  },
+  "frog_33986948.jpg": {
+    "common_name": "Natal Puddle Frog",
+    "scientific_name": "Phrynobatrachus natalensis",
+    "folder": "natal_puddle_frog",
+    "confidence": "high",
+    "score": 22.486,
+    "original_file": "frog_33986948.jpg",
+    "sorted_path": "natal_puddle_frog\\frog_33986948.jpg"
+  },
+  "frog_33987323.jpg": {
+    "common_name": "Splendid Tree Frog",
+    "scientific_name": "Pelodryas splendida",
+    "folder": "splendid_tree_frog",
+    "confidence": "high",
+    "score": 18.087,
+    "original_file": "frog_33987323.jpg",
+    "sorted_path": "splendid_tree_frog\\frog_33987323.jpg"
+  },
+  "frog_33992002.jpg": {
+    "common_name": "Moor Frog",
+    "scientific_name": "Rana arvalis",
+    "folder": "moor_frog",
+    "confidence": "high",
+    "score": 14.849,
+    "original_file": "frog_33992002.jpg",
+    "sorted_path": "moor_frog\\frog_33992002.jpg"
+  },
+  "frog_33993076.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 76.825,
+    "original_file": "frog_33993076.jpg",
+    "sorted_path": "european_common_frog\\frog_33993076.jpg"
+  },
+  "frog_33998124.jpg": {
+    "common_name": "California Red-legged Frog",
+    "scientific_name": "Rana draytonii",
+    "folder": "california_red_legged_frog",
+    "confidence": "high",
+    "score": 34.161,
+    "original_file": "frog_33998124.jpg",
+    "sorted_path": "california_red_legged_frog\\frog_33998124.jpg"
+  },
+  "frog_34012610.jpg": {
+    "common_name": "Pig Frog",
+    "scientific_name": "Lithobates grylio",
+    "folder": "pig_frog",
+    "confidence": "high",
+    "score": 5.816,
+    "original_file": "frog_34012610.jpg",
+    "sorted_path": "pig_frog\\frog_34012610.jpg"
+  },
+  "frog_34023332.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 96.603,
+    "original_file": "frog_34023332.jpg",
+    "sorted_path": "american_bullfrog\\frog_34023332.jpg"
+  },
+  "frog_34037951.jpg": {
+    "common_name": "Green Tree Frog",
+    "scientific_name": "Pelodryas caerulea",
+    "folder": "green_tree_frog",
+    "confidence": "high",
+    "score": 86.005,
+    "original_file": "frog_34037951.jpg",
+    "sorted_path": "green_tree_frog\\frog_34037951.jpg"
+  },
+  "frog_34044696.jpg": {
+    "common_name": "Waxy Monkey Treefrog",
+    "scientific_name": "Phyllomedusa bicolor",
+    "folder": "waxy_monkey_treefrog",
+    "confidence": "high",
+    "score": 4.193,
+    "original_file": "frog_34044696.jpg",
+    "sorted_path": "waxy_monkey_treefrog\\frog_34044696.jpg"
+  },
+  "frog_34056271.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 95.451,
+    "original_file": "frog_34056271.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_34056271.jpg"
+  },
+  "frog_34056347.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 90.365,
+    "original_file": "frog_34056347.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_34056347.jpg"
+  },
+  "frog_34073514.jpg": {
+    "common_name": "Gliding Leaf Frog",
+    "scientific_name": "Agalychnis spurrelli",
+    "folder": "gliding_leaf_frog",
+    "confidence": "high",
+    "score": 6.406,
+    "original_file": "frog_34073514.jpg",
+    "sorted_path": "gliding_leaf_frog\\frog_34073514.jpg"
+  },
+  "frog_34079374.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 39.425,
+    "original_file": "frog_34079374.jpg",
+    "sorted_path": "iberian_green_frog\\frog_34079374.jpg"
+  },
+  "frog_34220469.jpg": {
+    "common_name": "Montevideo Tree Frog",
+    "scientific_name": "Boana pulchella",
+    "folder": "montevideo_tree_frog",
+    "confidence": "high",
+    "score": 23.669,
+    "original_file": "frog_34220469.jpg",
+    "sorted_path": "montevideo_tree_frog\\frog_34220469.jpg"
+  },
+  "frog_34235321.jpg": {
+    "common_name": "Lowland Leopard Frog",
+    "scientific_name": "Lithobates yavapaiensis",
+    "folder": "lowland_leopard_frog",
+    "confidence": "high",
+    "score": 16.142,
+    "original_file": "frog_34235321.jpg",
+    "sorted_path": "lowland_leopard_frog\\frog_34235321.jpg"
+  },
+  "frog_34257110.jpg": {
+    "common_name": "Iberian Spadefoot",
+    "scientific_name": "Pelobates cultripes",
+    "folder": "iberian_spadefoot",
+    "confidence": "high",
+    "score": 96.784,
+    "original_file": "frog_34257110.jpg",
+    "sorted_path": "iberian_spadefoot\\frog_34257110.jpg"
+  },
+  "frog_34257112.jpg": {
+    "common_name": "Iberian Spadefoot",
+    "scientific_name": "Pelobates cultripes",
+    "folder": "iberian_spadefoot",
+    "confidence": "high",
+    "score": 95.46,
+    "original_file": "frog_34257112.jpg",
+    "sorted_path": "iberian_spadefoot\\frog_34257112.jpg"
+  },
+  "frog_34257113.jpg": {
+    "common_name": "Iberian Spadefoot",
+    "scientific_name": "Pelobates cultripes",
+    "folder": "iberian_spadefoot",
+    "confidence": "high",
+    "score": 98.214,
+    "original_file": "frog_34257113.jpg",
+    "sorted_path": "iberian_spadefoot\\frog_34257113.jpg"
+  },
+  "frog_34271505.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 99.738,
+    "original_file": "frog_34271505.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_34271505.jpg"
+  },
+  "frog_34285315.jpg": {
+    "common_name": "Norhayati's Flying Frog",
+    "scientific_name": "Rhacophorus norhayatiae",
+    "folder": "norhayatis_flying_frog",
+    "confidence": "high",
+    "score": 15.174,
+    "original_file": "frog_34285315.jpg",
+    "sorted_path": "norhayatis_flying_frog\\frog_34285315.jpg"
+  },
+  "frog_34315867.jpg": {
+    "common_name": "Agile Frog",
+    "scientific_name": "Rana dalmatina",
+    "folder": "agile_frog",
+    "confidence": "high",
+    "score": 57.316,
+    "original_file": "frog_34315867.jpg",
+    "sorted_path": "agile_frog\\frog_34315867.jpg"
+  },
+  "frog_34325969.jpg": {
+    "common_name": "Moor Frog",
+    "scientific_name": "Rana arvalis",
+    "folder": "moor_frog",
+    "confidence": "high",
+    "score": 75.587,
+    "original_file": "frog_34325969.jpg",
+    "sorted_path": "moor_frog\\frog_34325969.jpg"
+  },
+  "frog_34353779.jpg": {
+    "common_name": "Chunam Tree Frog",
+    "scientific_name": "Polypedates maculatus",
+    "folder": "chunam_tree_frog",
+    "confidence": "high",
+    "score": 87.777,
+    "original_file": "frog_34353779.jpg",
+    "sorted_path": "chunam_tree_frog\\frog_34353779.jpg"
+  },
+  "frog_34365709.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 80.386,
+    "original_file": "frog_34365709.jpg",
+    "sorted_path": "marsh_frog\\frog_34365709.jpg"
+  },
+  "frog_34367572.jpg": {
+    "common_name": "Human",
+    "scientific_name": "Homo sapiens",
+    "folder": "human",
+    "confidence": "high",
+    "score": 6.357,
+    "original_file": "frog_34367572.jpg",
+    "sorted_path": "human\\frog_34367572.jpg"
+  },
+  "frog_34419603.jpg": {
+    "common_name": "Pig Frog",
+    "scientific_name": "Lithobates grylio",
+    "folder": "pig_frog",
+    "confidence": "high",
+    "score": 22.129,
+    "original_file": "frog_34419603.jpg",
+    "sorted_path": "pig_frog\\frog_34419603.jpg"
+  },
+  "frog_34436456.jpg": {
+    "common_name": "Sahara Frog",
+    "scientific_name": "Pelophylax saharicus",
+    "folder": "sahara_frog",
+    "confidence": "high",
+    "score": 78.883,
+    "original_file": "frog_34436456.jpg",
+    "sorted_path": "sahara_frog\\frog_34436456.jpg"
+  },
+  "frog_34465811.jpg": {
+    "common_name": "Agile Frog",
+    "scientific_name": "Rana dalmatina",
+    "folder": "agile_frog",
+    "confidence": "high",
+    "score": 21.932,
+    "original_file": "frog_34465811.jpg",
+    "sorted_path": "agile_frog\\frog_34465811.jpg"
+  },
+  "frog_34511924.jpg": {
+    "common_name": "Taurus Frog",
+    "scientific_name": "Rana macrocnemis",
+    "folder": "taurus_frog",
+    "confidence": "high",
+    "score": 40.298,
+    "original_file": "frog_34511924.jpg",
+    "sorted_path": "taurus_frog\\frog_34511924.jpg"
+  },
+  "frog_34526935.jpg": {
+    "common_name": "Jezo spruce",
+    "scientific_name": "Picea jezoensis",
+    "folder": "jezo_spruce",
+    "confidence": "high",
+    "score": 10.675,
+    "original_file": "frog_34526935.jpg",
+    "sorted_path": "jezo_spruce\\frog_34526935.jpg"
+  },
+  "frog_34540195.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 35.931,
+    "original_file": "frog_34540195.jpg",
+    "sorted_path": "marsh_frog\\frog_34540195.jpg"
+  },
+  "frog_34540205.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 47.53,
+    "original_file": "frog_34540205.jpg",
+    "sorted_path": "marsh_frog\\frog_34540205.jpg"
+  },
+  "frog_3455317.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 88.919,
+    "original_file": "frog_3455317.jpg",
+    "sorted_path": "european_toad\\frog_3455317.jpg"
+  },
+  "frog_34555698.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 7.23,
+    "original_file": "frog_34555698.jpg",
+    "sorted_path": "marsh_frog\\frog_34555698.jpg"
+  },
+  "frog_34580580.jpg": {
+    "common_name": "Northern Leopard Frog",
+    "scientific_name": "Lithobates pipiens",
+    "folder": "northern_leopard_frog",
+    "confidence": "high",
+    "score": 71.011,
+    "original_file": "frog_34580580.jpg",
+    "sorted_path": "northern_leopard_frog\\frog_34580580.jpg"
+  },
+  "frog_3458154.jpg": {
+    "common_name": "European Tree Frog",
+    "scientific_name": "Hyla arborea",
+    "folder": "european_tree_frog",
+    "confidence": "high",
+    "score": 57.238,
+    "original_file": "frog_3458154.jpg",
+    "sorted_path": "european_tree_frog\\frog_3458154.jpg"
+  },
+  "frog_34598571.jpg": {
+    "common_name": "Taipei Green Tree Frog",
+    "scientific_name": "Zhangixalus taipeianus",
+    "folder": "taipei_green_tree_frog",
+    "confidence": "high",
+    "score": 10.675,
+    "original_file": "frog_34598571.jpg",
+    "sorted_path": "taipei_green_tree_frog\\frog_34598571.jpg"
+  },
+  "frog_34605422.jpg": {
+    "common_name": "Japanese Tree Frog",
+    "scientific_name": "Dryophytes japonicus",
+    "folder": "japanese_tree_frog",
+    "confidence": "high",
+    "score": 35.294,
+    "original_file": "frog_34605422.jpg",
+    "sorted_path": "japanese_tree_frog\\frog_34605422.jpg"
+  },
+  "frog_34605478.jpg": {
+    "common_name": "Eastern Tree Frog",
+    "scientific_name": "Hyla orientalis",
+    "folder": "eastern_tree_frog",
+    "confidence": "high",
+    "score": 64.877,
+    "original_file": "frog_34605478.jpg",
+    "sorted_path": "eastern_tree_frog\\frog_34605478.jpg"
+  },
+  "frog_34638493.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 87.889,
+    "original_file": "frog_34638493.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_34638493.jpg"
+  },
+  "frog_34638866.jpg": {
+    "common_name": "Northern Glassfrog",
+    "scientific_name": "Hyalinobatrachium viridissimum",
+    "folder": "northern_glassfrog",
+    "confidence": "high",
+    "score": 11.455,
+    "original_file": "frog_34638866.jpg",
+    "sorted_path": "northern_glassfrog\\frog_34638866.jpg"
+  },
+  "frog_34677124.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 78.499,
+    "original_file": "frog_34677124.jpg",
+    "sorted_path": "american_bullfrog\\frog_34677124.jpg"
+  },
+  "frog_34690980.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 36.436,
+    "original_file": "frog_34690980.jpg",
+    "sorted_path": "pool_frog\\frog_34690980.jpg"
+  },
+  "frog_34720122.jpg": {
+    "common_name": "Western Tree Frog",
+    "scientific_name": "Polypedates occidentalis",
+    "folder": "western_tree_frog",
+    "confidence": "high",
+    "score": 16.43,
+    "original_file": "frog_34720122.jpg",
+    "sorted_path": "western_tree_frog\\frog_34720122.jpg"
+  },
+  "frog_34766419.jpg": {
+    "common_name": "Mink Frog",
+    "scientific_name": "Lithobates septentrionalis",
+    "folder": "mink_frog",
+    "confidence": "high",
+    "score": 27.398,
+    "original_file": "frog_34766419.jpg",
+    "sorted_path": "mink_frog\\frog_34766419.jpg"
+  },
+  "frog_34766420.jpg": {
+    "common_name": "Green Paddy Frog",
+    "scientific_name": "Hylarana erythraea",
+    "folder": "green_paddy_frog",
+    "confidence": "high",
+    "score": 14.797,
+    "original_file": "frog_34766420.jpg",
+    "sorted_path": "green_paddy_frog\\frog_34766420.jpg"
+  },
+  "frog_34769349.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 94.949,
+    "original_file": "frog_34769349.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_34769349.jpg"
+  },
+  "frog_34833402.jpg": {
+    "common_name": "Northern Red-legged Frog",
+    "scientific_name": "Rana aurora",
+    "folder": "northern_red_legged_frog",
+    "confidence": "high",
+    "score": 16.33,
+    "original_file": "frog_34833402.jpg",
+    "sorted_path": "northern_red_legged_frog\\frog_34833402.jpg"
+  },
+  "frog_34833403.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 19.694,
+    "original_file": "frog_34833403.jpg",
+    "sorted_path": "iberian_green_frog\\frog_34833403.jpg"
+  },
+  "frog_34833522.jpg": {
+    "common_name": "Cururu Toad",
+    "scientific_name": "Rhinella diptycha",
+    "folder": "cururu_toad",
+    "confidence": "high",
+    "score": 77.449,
+    "original_file": "frog_34833522.jpg",
+    "sorted_path": "cururu_toad\\frog_34833522.jpg"
+  },
+  "frog_34937990.jpg": {
+    "common_name": "Foothill Yellow-legged Frog",
+    "scientific_name": "Rana boylii",
+    "folder": "foothill_yellow_legged_frog",
+    "confidence": "high",
+    "score": 32.492,
+    "original_file": "frog_34937990.jpg",
+    "sorted_path": "foothill_yellow_legged_frog\\frog_34937990.jpg"
+  },
+  "frog_34983524.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 93.1,
+    "original_file": "frog_34983524.jpg",
+    "sorted_path": "european_common_frog\\frog_34983524.jpg"
+  },
+  "frog_34983525.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 81.149,
+    "original_file": "frog_34983525.jpg",
+    "sorted_path": "european_common_frog\\frog_34983525.jpg"
+  },
+  "frog_34991847.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 68.232,
+    "original_file": "frog_34991847.jpg",
+    "sorted_path": "european_common_frog\\frog_34991847.jpg"
+  },
+  "frog_35029951.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 41.197,
+    "original_file": "frog_35029951.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_35029951.jpg"
+  },
+  "frog_35029954.jpg": {
+    "common_name": "Masked Tree Frog",
+    "scientific_name": "Smilisca phaeota",
+    "folder": "masked_tree_frog",
+    "confidence": "high",
+    "score": 93.836,
+    "original_file": "frog_35029954.jpg",
+    "sorted_path": "masked_tree_frog\\frog_35029954.jpg"
+  },
+  "frog_35037043.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 46.456,
+    "original_file": "frog_35037043.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_35037043.jpg"
+  },
+  "frog_35037045.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 37.822,
+    "original_file": "frog_35037045.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_35037045.jpg"
+  },
+  "frog_35037767.jpg": {
+    "common_name": "Golden Poison Dart Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "folder": "golden_poison_dart_frog",
+    "confidence": "high",
+    "score": 30.981,
+    "original_file": "frog_35037767.jpg",
+    "sorted_path": "golden_poison_dart_frog\\frog_35037767.jpg"
+  },
+  "frog_35084774.jpg": {
+    "common_name": "Argentine Toad",
+    "scientific_name": "Rhinella arenarum",
+    "folder": "argentine_toad",
+    "confidence": "high",
+    "score": 76.494,
+    "original_file": "frog_35084774.jpg",
+    "sorted_path": "argentine_toad\\frog_35084774.jpg"
+  },
+  "frog_35098884.jpg": {
+    "common_name": "Peralta Frog",
+    "scientific_name": "Lithobates taylori",
+    "folder": "peralta_frog",
+    "confidence": "high",
+    "score": 62.221,
+    "original_file": "frog_35098884.jpg",
+    "sorted_path": "peralta_frog\\frog_35098884.jpg"
+  },
+  "frog_35100930.jpg": {
+    "common_name": "Vaillant's Frog",
+    "scientific_name": "Lithobates vaillanti",
+    "folder": "vaillants_frog",
+    "confidence": "high",
+    "score": 29.686,
+    "original_file": "frog_35100930.jpg",
+    "sorted_path": "vaillants_frog\\frog_35100930.jpg"
+  },
+  "frog_35115974.jpg": {
+    "common_name": "Semi-lined Tree Frog",
+    "scientific_name": "Boana semilineata",
+    "folder": "semi_lined_tree_frog",
+    "confidence": "high",
+    "score": 93.829,
+    "original_file": "frog_35115974.jpg",
+    "sorted_path": "semi_lined_tree_frog\\frog_35115974.jpg"
+  },
+  "frog_35115975.jpg": {
+    "common_name": "Southern Walking Leaf Frog",
+    "scientific_name": "Phyllomedusa iheringii",
+    "folder": "southern_walking_leaf_frog",
+    "confidence": "high",
+    "score": 53.053,
+    "original_file": "frog_35115975.jpg",
+    "sorted_path": "southern_walking_leaf_frog\\frog_35115975.jpg"
+  },
+  "frog_35115976.jpg": {
+    "common_name": "Hidden Walking Leaf Frog",
+    "scientific_name": "Phyllomedusa tetraploidea",
+    "folder": "hidden_walking_leaf_frog",
+    "confidence": "high",
+    "score": 52.531,
+    "original_file": "frog_35115976.jpg",
+    "sorted_path": "hidden_walking_leaf_frog\\frog_35115976.jpg"
+  },
+  "frog_35117530.jpg": {
+    "common_name": "Pacific chorus frog",
+    "scientific_name": "Pseudacris regilla",
+    "folder": "pacific_chorus_frog",
+    "confidence": "high",
+    "score": 34.397,
+    "original_file": "frog_35117530.jpg",
+    "sorted_path": "pacific_chorus_frog\\frog_35117530.jpg"
+  },
+  "frog_35171637.jpg": {
+    "common_name": "Spot-legged Tree Frog",
+    "scientific_name": "Polypedates megacephalus",
+    "folder": "spot_legged_tree_frog",
+    "confidence": "high",
+    "score": 56.92,
+    "original_file": "frog_35171637.jpg",
+    "sorted_path": "spot_legged_tree_frog\\frog_35171637.jpg"
+  },
+  "frog_35270221.jpg": {
+    "common_name": "Popillia biguttata",
+    "scientific_name": "Popillia biguttata",
+    "folder": "popillia_biguttata",
+    "confidence": "high",
+    "score": 32.974,
+    "original_file": "frog_35270221.jpg",
+    "sorted_path": "popillia_biguttata\\frog_35270221.jpg"
+  },
+  "frog_35270222.jpg": {
+    "common_name": "Squirrel Tree Frog",
+    "scientific_name": "Dryophytes squirellus",
+    "folder": "squirrel_tree_frog",
+    "confidence": "high",
+    "score": 19.705,
+    "original_file": "frog_35270222.jpg",
+    "sorted_path": "squirrel_tree_frog\\frog_35270222.jpg"
+  },
+  "frog_35270224.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 35.455,
+    "original_file": "frog_35270224.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_35270224.jpg"
+  },
+  "frog_35270225.jpg": {
+    "common_name": "rounded earthstar",
+    "scientific_name": "Geastrum saccatum",
+    "folder": "rounded_earthstar",
+    "confidence": "high",
+    "score": 35.172,
+    "original_file": "frog_35270225.jpg",
+    "sorted_path": "rounded_earthstar\\frog_35270225.jpg"
+  },
+  "frog_35669.jpg": {
+    "common_name": "Eastern Tree Frog",
+    "scientific_name": "Hyla orientalis",
+    "folder": "eastern_tree_frog",
+    "confidence": "high",
+    "score": 43.293,
+    "original_file": "frog_35669.jpg",
+    "sorted_path": "eastern_tree_frog\\frog_35669.jpg"
+  },
+  "frog_36020.jpg": {
+    "common_name": "White-lipped Tree Frog",
+    "scientific_name": "Sandyrana infrafrenata",
+    "folder": "white_lipped_tree_frog",
+    "confidence": "high",
+    "score": 24.103,
+    "original_file": "frog_36020.jpg",
+    "sorted_path": "white_lipped_tree_frog\\frog_36020.jpg"
+  },
+  "frog_3656636.jpg": {
+    "common_name": "Brazilian Common Walking Leaf Frog",
+    "scientific_name": "Phyllomedusa burmeisteri",
+    "folder": "brazilian_common_walking_leaf_frog",
+    "confidence": "high",
+    "score": 90.42,
+    "original_file": "frog_3656636.jpg",
+    "sorted_path": "brazilian_common_walking_leaf_frog\\frog_3656636.jpg"
+  },
+  "frog_3688199.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 64.819,
+    "original_file": "frog_3688199.jpg",
+    "sorted_path": "american_bullfrog\\frog_3688199.jpg"
+  },
+  "frog_3726788.jpg": {
+    "common_name": "Human",
+    "scientific_name": "Homo sapiens",
+    "folder": "human",
+    "confidence": "high",
+    "score": 6.14,
+    "original_file": "frog_3726788.jpg",
+    "sorted_path": "human\\frog_3726788.jpg"
+  },
+  "frog_3743862.jpg": {
+    "common_name": "Spot-legged Tree Frog",
+    "scientific_name": "Polypedates megacephalus",
+    "folder": "spot_legged_tree_frog",
+    "confidence": "high",
+    "score": 29.685,
+    "original_file": "frog_3743862.jpg",
+    "sorted_path": "spot_legged_tree_frog\\frog_3743862.jpg"
+  },
+  "frog_3743863.jpg": {
+    "common_name": "Common Southeast Asian Tree Frog",
+    "scientific_name": "Polypedates leucomystax",
+    "folder": "common_southeast_asian_tree_frog",
+    "confidence": "high",
+    "score": 16.747,
+    "original_file": "frog_3743863.jpg",
+    "sorted_path": "common_southeast_asian_tree_frog\\frog_3743863.jpg"
+  },
+  "frog_3756585.jpg": {
+    "common_name": "Western Tree Frog",
+    "scientific_name": "Polypedates occidentalis",
+    "folder": "western_tree_frog",
+    "confidence": "high",
+    "score": 29.9,
+    "original_file": "frog_3756585.jpg",
+    "sorted_path": "western_tree_frog\\frog_3756585.jpg"
+  },
+  "frog_3880166.jpg": {
+    "common_name": "Spinomantis",
+    "scientific_name": "Spinomantis",
+    "folder": "spinomantis",
+    "confidence": "high",
+    "score": 87.869,
+    "original_file": "frog_3880166.jpg",
+    "sorted_path": "spinomantis\\frog_3880166.jpg"
+  },
+  "frog_4027942.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 65.557,
+    "original_file": "frog_4027942.jpg",
+    "sorted_path": "european_common_frog\\frog_4027942.jpg"
+  },
+  "frog_4052679.jpg": {
+    "common_name": "Golden Poison Dart Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "folder": "golden_poison_dart_frog",
+    "confidence": "high",
+    "score": 90.359,
+    "original_file": "frog_4052679.jpg",
+    "sorted_path": "golden_poison_dart_frog\\frog_4052679.jpg"
+  },
+  "frog_4117242.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 54.524,
+    "original_file": "frog_4117242.jpg",
+    "sorted_path": "european_toad\\frog_4117242.jpg"
+  },
+  "frog_4190864.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 18.47,
+    "original_file": "frog_4190864.jpg",
+    "sorted_path": "european_toad\\frog_4190864.jpg"
+  },
+  "frog_4246400.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 79.42,
+    "original_file": "frog_4246400.jpg",
+    "sorted_path": "american_toad\\frog_4246400.jpg"
+  },
+  "frog_4257024.jpg": {
+    "common_name": "Cururu Toad",
+    "scientific_name": "Rhinella diptycha",
+    "folder": "cururu_toad",
+    "confidence": "high",
+    "score": 39.013,
+    "original_file": "frog_4257024.jpg",
+    "sorted_path": "cururu_toad\\frog_4257024.jpg"
+  },
+  "frog_4484276.jpg": {
+    "common_name": "Common Midwife Toad",
+    "scientific_name": "Alytes obstetricans",
+    "folder": "common_midwife_toad",
+    "confidence": "high",
+    "score": 94.78,
+    "original_file": "frog_4484276.jpg",
+    "sorted_path": "common_midwife_toad\\frog_4484276.jpg"
+  },
+  "frog_4538751.jpg": {
+    "common_name": "Beautiful Cane Toad",
+    "scientific_name": "Rhinella bella",
+    "folder": "beautiful_cane_toad",
+    "confidence": "high",
+    "score": 20.472,
+    "original_file": "frog_4538751.jpg",
+    "sorted_path": "beautiful_cane_toad\\frog_4538751.jpg"
+  },
+  "frog_45863.jpg": {
+    "common_name": "Indian Five-fingered Frog",
+    "scientific_name": "Phrynoderma hexadactylum",
+    "folder": "indian_five_fingered_frog",
+    "confidence": "high",
+    "score": 1.303,
+    "original_file": "frog_45863.jpg",
+    "sorted_path": "indian_five_fingered_frog\\frog_45863.jpg"
+  },
+  "frog_4599974.jpg": {
+    "common_name": "Antillean Coqui",
+    "scientific_name": "Eleutherodactylus antillensis",
+    "folder": "antillean_coqui",
+    "confidence": "high",
+    "score": 94.88,
+    "original_file": "frog_4599974.jpg",
+    "sorted_path": "antillean_coqui\\frog_4599974.jpg"
+  },
+  "frog_4614479.jpg": {
+    "common_name": "Cuban Tree Frog",
+    "scientific_name": "Osteopilus septentrionalis",
+    "folder": "cuban_tree_frog",
+    "confidence": "high",
+    "score": 16.084,
+    "original_file": "frog_4614479.jpg",
+    "sorted_path": "cuban_tree_frog\\frog_4614479.jpg"
+  },
+  "frog_4737895.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 68.081,
+    "original_file": "frog_4737895.jpg",
+    "sorted_path": "european_common_frog\\frog_4737895.jpg"
+  },
+  "frog_4816673.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 24.957,
+    "original_file": "frog_4816673.jpg",
+    "sorted_path": "iberian_green_frog\\frog_4816673.jpg"
+  },
+  "frog_4853509.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 35.346,
+    "original_file": "frog_4853509.jpg",
+    "sorted_path": "iberian_green_frog\\frog_4853509.jpg"
+  },
+  "frog_4947103.jpg": {
+    "common_name": "Chunam Tree Frog",
+    "scientific_name": "Polypedates maculatus",
+    "folder": "chunam_tree_frog",
+    "confidence": "high",
+    "score": 46.0,
+    "original_file": "frog_4947103.jpg",
+    "sorted_path": "chunam_tree_frog\\frog_4947103.jpg"
+  },
+  "frog_4953211.jpg": {
+    "common_name": "Cuban Tree Frog",
+    "scientific_name": "Osteopilus septentrionalis",
+    "folder": "cuban_tree_frog",
+    "confidence": "high",
+    "score": 65.202,
+    "original_file": "frog_4953211.jpg",
+    "sorted_path": "cuban_tree_frog\\frog_4953211.jpg"
+  },
+  "frog_4953213.jpg": {
+    "common_name": "Western Laughing Tree Frog",
+    "scientific_name": "Pengilleyia ridibunda",
+    "folder": "western_laughing_tree_frog",
+    "confidence": "high",
+    "score": 26.409,
+    "original_file": "frog_4953213.jpg",
+    "sorted_path": "western_laughing_tree_frog\\frog_4953213.jpg"
+  },
+  "frog_4966531.jpg": {
+    "common_name": "Mexican Treefrog",
+    "scientific_name": "Smilisca baudinii",
+    "folder": "mexican_treefrog",
+    "confidence": "high",
+    "score": 25.267,
+    "original_file": "frog_4966531.jpg",
+    "sorted_path": "mexican_treefrog\\frog_4966531.jpg"
+  },
+  "frog_5002900.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 44.867,
+    "original_file": "frog_5002900.jpg",
+    "sorted_path": "edible_frog\\frog_5002900.jpg"
+  },
+  "frog_5030265.jpg": {
+    "common_name": "Edible Frog",
+    "scientific_name": "Pelophylax esculentus",
+    "folder": "edible_frog",
+    "confidence": "high",
+    "score": 43.067,
+    "original_file": "frog_5030265.jpg",
+    "sorted_path": "edible_frog\\frog_5030265.jpg"
+  },
+  "frog_5055361.jpg": {
+    "common_name": "Black-spotted Frog",
+    "scientific_name": "Pelophylax nigromaculatus",
+    "folder": "black_spotted_frog",
+    "confidence": "high",
+    "score": 12.283,
+    "original_file": "frog_5055361.jpg",
+    "sorted_path": "black_spotted_frog\\frog_5055361.jpg"
+  },
+  "frog_50626.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 39.398,
+    "original_file": "frog_50626.jpg",
+    "sorted_path": "marsh_frog\\frog_50626.jpg"
+  },
+  "frog_52532.jpg": {
+    "common_name": "Dainty Tree Frog",
+    "scientific_name": "Chlorohyla gracilenta",
+    "folder": "dainty_tree_frog",
+    "confidence": "high",
+    "score": 65.167,
+    "original_file": "frog_52532.jpg",
+    "sorted_path": "dainty_tree_frog\\frog_52532.jpg"
+  },
+  "frog_5305909.jpg": {
+    "common_name": "Grey Foam-nest Tree Frog",
+    "scientific_name": "Chiromantis xerampelina",
+    "folder": "grey_foam_nest_tree_frog",
+    "confidence": "high",
+    "score": 34.044,
+    "original_file": "frog_5305909.jpg",
+    "sorted_path": "grey_foam_nest_tree_frog\\frog_5305909.jpg"
+  },
+  "frog_5337622.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 31.337,
+    "original_file": "frog_5337622.jpg",
+    "sorted_path": "european_common_frog\\frog_5337622.jpg"
+  },
+  "frog_5345279.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 29.965,
+    "original_file": "frog_5345279.jpg",
+    "sorted_path": "american_toad\\frog_5345279.jpg"
+  },
+  "frog_5362051.jpg": {
+    "common_name": "Warty Tree Toad",
+    "scientific_name": "Hylodes asper",
+    "folder": "warty_tree_toad",
+    "confidence": "high",
+    "score": 8.428,
+    "original_file": "frog_5362051.jpg",
+    "sorted_path": "warty_tree_toad\\frog_5362051.jpg"
+  },
+  "frog_5377430.jpg": {
+    "common_name": "European White Waterlily",
+    "scientific_name": "Nymphaea alba",
+    "folder": "european_white_waterlily",
+    "confidence": "high",
+    "score": 63.372,
+    "original_file": "frog_5377430.jpg",
+    "sorted_path": "european_white_waterlily\\frog_5377430.jpg"
+  },
+  "frog_5434981.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 52.718,
+    "original_file": "frog_5434981.jpg",
+    "sorted_path": "iberian_green_frog\\frog_5434981.jpg"
+  },
+  "frog_5520.jpg": {
+    "common_name": "Eastern Tree Frog",
+    "scientific_name": "Hyla orientalis",
+    "folder": "eastern_tree_frog",
+    "confidence": "high",
+    "score": 45.807,
+    "original_file": "frog_5520.jpg",
+    "sorted_path": "eastern_tree_frog\\frog_5520.jpg"
+  },
+  "frog_5521.jpg": {
+    "common_name": "Iberian Tree Frog",
+    "scientific_name": "Hyla molleri",
+    "folder": "iberian_tree_frog",
+    "confidence": "high",
+    "score": 31.975,
+    "original_file": "frog_5521.jpg",
+    "sorted_path": "iberian_tree_frog\\frog_5521.jpg"
+  },
+  "frog_555811.jpg": {
+    "common_name": "Yellow-spotted Tree Frog",
+    "scientific_name": "Boana albopunctata",
+    "folder": "yellow_spotted_tree_frog",
+    "confidence": "high",
+    "score": 16.865,
+    "original_file": "frog_555811.jpg",
+    "sorted_path": "yellow_spotted_tree_frog\\frog_555811.jpg"
+  },
+  "frog_5565783.jpg": {
+    "common_name": "Yellow Toad",
+    "scientific_name": "Incilius luetkenii",
+    "folder": "yellow_toad",
+    "confidence": "high",
+    "score": 15.909,
+    "original_file": "frog_5565783.jpg",
+    "sorted_path": "yellow_toad\\frog_5565783.jpg"
+  },
+  "frog_5609431.jpg": {
+    "common_name": "Himalayan Toad",
+    "scientific_name": "Duttaphrynus himalayanus",
+    "folder": "himalayan_toad",
+    "confidence": "high",
+    "score": 19.19,
+    "original_file": "frog_5609431.jpg",
+    "sorted_path": "himalayan_toad\\frog_5609431.jpg"
+  },
+  "frog_5665695.jpg": {
+    "common_name": "Spiny Toad",
+    "scientific_name": "Bufo spinosus",
+    "folder": "spiny_toad",
+    "confidence": "high",
+    "score": 68.946,
+    "original_file": "frog_5665695.jpg",
+    "sorted_path": "spiny_toad\\frog_5665695.jpg"
+  },
+  "frog_57400.jpg": {
+    "common_name": "Common Southeast Asian Tree Frog",
+    "scientific_name": "Polypedates leucomystax",
+    "folder": "common_southeast_asian_tree_frog",
+    "confidence": "high",
+    "score": 38.405,
+    "original_file": "frog_57400.jpg",
+    "sorted_path": "common_southeast_asian_tree_frog\\frog_57400.jpg"
+  },
+  "frog_57727.jpg": {
+    "common_name": "Spot-legged Tree Frog",
+    "scientific_name": "Polypedates megacephalus",
+    "folder": "spot_legged_tree_frog",
+    "confidence": "high",
+    "score": 28.429,
+    "original_file": "frog_57727.jpg",
+    "sorted_path": "spot_legged_tree_frog\\frog_57727.jpg"
+  },
+  "frog_586812.jpg": {
+    "common_name": "One-banded Lacuna",
+    "scientific_name": "Lacuna unifasciata",
+    "folder": "one_banded_lacuna",
+    "confidence": "high",
+    "score": 1.432,
+    "original_file": "frog_586812.jpg",
+    "sorted_path": "one_banded_lacuna\\frog_586812.jpg"
+  },
+  "frog_59828.jpg": {
+    "common_name": "Australian Lace-Lid Frog",
+    "scientific_name": "Eremnoculus dayi",
+    "folder": "australian_lace_lid_frog",
+    "confidence": "high",
+    "score": 17.141,
+    "original_file": "frog_59828.jpg",
+    "sorted_path": "australian_lace_lid_frog\\frog_59828.jpg"
+  },
+  "frog_5986392.jpg": {
+    "common_name": "Indus Valley Bullfrog",
+    "scientific_name": "Hoplobatrachus tigerinus",
+    "folder": "indus_valley_bullfrog",
+    "confidence": "high",
+    "score": 97.756,
+    "original_file": "frog_5986392.jpg",
+    "sorted_path": "indus_valley_bullfrog\\frog_5986392.jpg"
+  },
+  "frog_62671.jpg": {
+    "common_name": "Dybowski's Frog",
+    "scientific_name": "Rana dybowskii",
+    "folder": "dybowskis_frog",
+    "confidence": "high",
+    "score": 58.403,
+    "original_file": "frog_62671.jpg",
+    "sorted_path": "dybowskis_frog\\frog_62671.jpg"
+  },
+  "frog_63650.jpg": {
+    "common_name": "Tomato Frog",
+    "scientific_name": "Dyscophus antongilii",
+    "folder": "tomato_frog",
+    "confidence": "high",
+    "score": 89.002,
+    "original_file": "frog_63650.jpg",
+    "sorted_path": "tomato_frog\\frog_63650.jpg"
+  },
+  "frog_638689.jpg": {
+    "common_name": "Strawberry Poison Dart Frog",
+    "scientific_name": "Oophaga pumilio",
+    "folder": "strawberry_poison_dart_frog",
+    "confidence": "high",
+    "score": 96.494,
+    "original_file": "frog_638689.jpg",
+    "sorted_path": "strawberry_poison_dart_frog\\frog_638689.jpg"
+  },
+  "frog_64222.jpg": {
+    "common_name": "Spot-legged Tree Frog",
+    "scientific_name": "Polypedates megacephalus",
+    "folder": "spot_legged_tree_frog",
+    "confidence": "high",
+    "score": 38.273,
+    "original_file": "frog_64222.jpg",
+    "sorted_path": "spot_legged_tree_frog\\frog_64222.jpg"
+  },
+  "frog_6478117.jpg": {
+    "common_name": "Black-skinned Parrot Snake",
+    "scientific_name": "Leptophis nigromarginatus",
+    "folder": "black_skinned_parrot_snake",
+    "confidence": "high",
+    "score": 2.836,
+    "original_file": "frog_6478117.jpg",
+    "sorted_path": "black_skinned_parrot_snake\\frog_6478117.jpg"
+  },
+  "frog_6586877.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 19.695,
+    "original_file": "frog_6586877.jpg",
+    "sorted_path": "marsh_frog\\frog_6586877.jpg"
+  },
+  "frog_6613510.jpg": {
+    "common_name": "European Toad",
+    "scientific_name": "Bufo bufo",
+    "folder": "european_toad",
+    "confidence": "high",
+    "score": 80.162,
+    "original_file": "frog_6613510.jpg",
+    "sorted_path": "european_toad\\frog_6613510.jpg"
+  },
+  "frog_66802.jpg": {
+    "common_name": "Amazon Milk Frog",
+    "scientific_name": "Trachycephalus resinifictrix",
+    "folder": "amazon_milk_frog",
+    "confidence": "high",
+    "score": 99.721,
+    "original_file": "frog_66802.jpg",
+    "sorted_path": "amazon_milk_frog\\frog_66802.jpg"
+  },
+  "frog_67290.jpg": {
+    "common_name": "Chunam Tree Frog",
+    "scientific_name": "Polypedates maculatus",
+    "folder": "chunam_tree_frog",
+    "confidence": "high",
+    "score": 24.713,
+    "original_file": "frog_67290.jpg",
+    "sorted_path": "chunam_tree_frog\\frog_67290.jpg"
+  },
+  "frog_674318.jpg": {
+    "common_name": "Strawberry Poison Dart Frog",
+    "scientific_name": "Oophaga pumilio",
+    "folder": "strawberry_poison_dart_frog",
+    "confidence": "high",
+    "score": 70.6,
+    "original_file": "frog_674318.jpg",
+    "sorted_path": "strawberry_poison_dart_frog\\frog_674318.jpg"
+  },
+  "frog_67661.jpg": {
+    "common_name": "Green Treefrog",
+    "scientific_name": "Dryophytes cinereus",
+    "folder": "green_treefrog",
+    "confidence": "high",
+    "score": 24.602,
+    "original_file": "frog_67661.jpg",
+    "sorted_path": "green_treefrog\\frog_67661.jpg"
+  },
+  "frog_70083.jpg": {
+    "common_name": "European Tree Frog",
+    "scientific_name": "Hyla arborea",
+    "folder": "european_tree_frog",
+    "confidence": "high",
+    "score": 61.337,
+    "original_file": "frog_70083.jpg",
+    "sorted_path": "european_tree_frog\\frog_70083.jpg"
+  },
+  "frog_7058941.jpg": {
+    "common_name": "Pig Frog",
+    "scientific_name": "Lithobates grylio",
+    "folder": "pig_frog",
+    "confidence": "high",
+    "score": 26.412,
+    "original_file": "frog_7058941.jpg",
+    "sorted_path": "pig_frog\\frog_7058941.jpg"
+  },
+  "frog_7125457.jpg": {
+    "common_name": "Reinwardt's Flying Frog",
+    "scientific_name": "Rhacophorus reinwardtii",
+    "folder": "reinwardts_flying_frog",
+    "confidence": "high",
+    "score": 66.236,
+    "original_file": "frog_7125457.jpg",
+    "sorted_path": "reinwardts_flying_frog\\frog_7125457.jpg"
+  },
+  "frog_7177222.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 73.349,
+    "original_file": "frog_7177222.jpg",
+    "sorted_path": "american_bullfrog\\frog_7177222.jpg"
+  },
+  "frog_7200224.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 16.911,
+    "original_file": "frog_7200224.jpg",
+    "sorted_path": "marsh_frog\\frog_7200224.jpg"
+  },
+  "frog_73798.jpg": {
+    "common_name": "Yellow-spotted Tree Frog",
+    "scientific_name": "Leptopelis flavomaculatus",
+    "folder": "yellow_spotted_tree_frog",
+    "confidence": "high",
+    "score": 38.163,
+    "original_file": "frog_73798.jpg",
+    "sorted_path": "yellow_spotted_tree_frog\\frog_73798.jpg"
+  },
+  "frog_7512299.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 31.779,
+    "original_file": "frog_7512299.jpg",
+    "sorted_path": "european_common_frog\\frog_7512299.jpg"
+  },
+  "frog_753249.jpg": {
+    "common_name": "Amazon Milk Frog",
+    "scientific_name": "Trachycephalus resinifictrix",
+    "folder": "amazon_milk_frog",
+    "confidence": "high",
+    "score": 85.697,
+    "original_file": "frog_753249.jpg",
+    "sorted_path": "amazon_milk_frog\\frog_753249.jpg"
+  },
+  "frog_753250.jpg": {
+    "common_name": "Amazon Milk Frog",
+    "scientific_name": "Trachycephalus resinifictrix",
+    "folder": "amazon_milk_frog",
+    "confidence": "high",
+    "score": 96.455,
+    "original_file": "frog_753250.jpg",
+    "sorted_path": "amazon_milk_frog\\frog_753250.jpg"
+  },
+  "frog_753256.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 41.065,
+    "original_file": "frog_753256.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_753256.jpg"
+  },
+  "frog_7573655.jpg": {
+    "common_name": "Black-spotted Frog",
+    "scientific_name": "Pelophylax nigromaculatus",
+    "folder": "black_spotted_frog",
+    "confidence": "high",
+    "score": 44.846,
+    "original_file": "frog_7573655.jpg",
+    "sorted_path": "black_spotted_frog\\frog_7573655.jpg"
+  },
+  "frog_7573671.jpg": {
+    "common_name": "Black-spotted Frog",
+    "scientific_name": "Pelophylax nigromaculatus",
+    "folder": "black_spotted_frog",
+    "confidence": "high",
+    "score": 67.239,
+    "original_file": "frog_7573671.jpg",
+    "sorted_path": "black_spotted_frog\\frog_7573671.jpg"
+  },
+  "frog_76957.jpg": {
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "folder": "red_eyed_tree_frog",
+    "confidence": "high",
+    "score": 70.29,
+    "original_file": "frog_76957.jpg",
+    "sorted_path": "red_eyed_tree_frog\\frog_76957.jpg"
+  },
+  "frog_8187997.jpg": {
+    "common_name": "Southern Bell Frog",
+    "scientific_name": "Ranoidea raniformis",
+    "folder": "southern_bell_frog",
+    "confidence": "high",
+    "score": 35.618,
+    "original_file": "frog_8187997.jpg",
+    "sorted_path": "southern_bell_frog\\frog_8187997.jpg"
+  },
+  "frog_8271656.jpg": {
+    "common_name": "Guenther's Frog",
+    "scientific_name": "Sylvirana guentheri",
+    "folder": "guenthers_frog",
+    "confidence": "high",
+    "score": 93.579,
+    "original_file": "frog_8271656.jpg",
+    "sorted_path": "guenthers_frog\\frog_8271656.jpg"
+  },
+  "frog_8271663.jpg": {
+    "common_name": "Olive Frog",
+    "scientific_name": "Nidirana adenopleura",
+    "folder": "olive_frog",
+    "confidence": "high",
+    "score": 44.487,
+    "original_file": "frog_8271663.jpg",
+    "sorted_path": "olive_frog\\frog_8271663.jpg"
+  },
+  "frog_8275180.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 22.638,
+    "original_file": "frog_8275180.jpg",
+    "sorted_path": "marsh_frog\\frog_8275180.jpg"
+  },
+  "frog_8275236.jpg": {
+    "common_name": "Chiricahua Leopard Frog",
+    "scientific_name": "Lithobates chiricahuensis",
+    "folder": "chiricahua_leopard_frog",
+    "confidence": "high",
+    "score": 38.942,
+    "original_file": "frog_8275236.jpg",
+    "sorted_path": "chiricahua_leopard_frog\\frog_8275236.jpg"
+  },
+  "frog_8309343.jpg": {
+    "common_name": "Malabar Gliding Frog",
+    "scientific_name": "Rhacophorus malabaricus",
+    "folder": "malabar_gliding_frog",
+    "confidence": "high",
+    "score": 89.333,
+    "original_file": "frog_8309343.jpg",
+    "sorted_path": "malabar_gliding_frog\\frog_8309343.jpg"
+  },
+  "frog_8402927.jpg": {
+    "common_name": "Green Frog",
+    "scientific_name": "Lithobates clamitans",
+    "folder": "green_frog",
+    "confidence": "high",
+    "score": 93.447,
+    "original_file": "frog_8402927.jpg",
+    "sorted_path": "green_frog\\frog_8402927.jpg"
+  },
+  "frog_8426782.jpg": {
+    "common_name": "Green Paddy Frog",
+    "scientific_name": "Hylarana erythraea",
+    "folder": "green_paddy_frog",
+    "confidence": "high",
+    "score": 15.761,
+    "original_file": "frog_8426782.jpg",
+    "sorted_path": "green_paddy_frog\\frog_8426782.jpg"
+  },
+  "frog_843146.jpg": {
+    "common_name": "Argentine Toad",
+    "scientific_name": "Rhinella arenarum",
+    "folder": "argentine_toad",
+    "confidence": "high",
+    "score": 7.495,
+    "original_file": "frog_843146.jpg",
+    "sorted_path": "argentine_toad\\frog_843146.jpg"
+  },
+  "frog_8458228.jpg": {
+    "common_name": "American Bullfrog",
+    "scientific_name": "Lithobates catesbeianus",
+    "folder": "american_bullfrog",
+    "confidence": "high",
+    "score": 34.577,
+    "original_file": "frog_8458228.jpg",
+    "sorted_path": "american_bullfrog\\frog_8458228.jpg"
+  },
+  "frog_8504628.jpg": {
+    "common_name": "Guenther's Frog",
+    "scientific_name": "Sylvirana guentheri",
+    "folder": "guenthers_frog",
+    "confidence": "high",
+    "score": 87.793,
+    "original_file": "frog_8504628.jpg",
+    "sorted_path": "guenthers_frog\\frog_8504628.jpg"
+  },
+  "frog_8640604.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 51.83,
+    "original_file": "frog_8640604.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_8640604.jpg"
+  },
+  "frog_8802592.jpg": {
+    "common_name": "Natal Forest Tree Frog",
+    "scientific_name": "Leptopelis natalensis",
+    "folder": "natal_forest_tree_frog",
+    "confidence": "high",
+    "score": 24.085,
+    "original_file": "frog_8802592.jpg",
+    "sorted_path": "natal_forest_tree_frog\\frog_8802592.jpg"
+  },
+  "frog_8802596.jpg": {
+    "common_name": "Taipei Green Tree Frog",
+    "scientific_name": "Zhangixalus taipeianus",
+    "folder": "taipei_green_tree_frog",
+    "confidence": "high",
+    "score": 74.283,
+    "original_file": "frog_8802596.jpg",
+    "sorted_path": "taipei_green_tree_frog\\frog_8802596.jpg"
+  },
+  "frog_8816105.jpg": {
+    "common_name": "Liriomyza schmidti",
+    "scientific_name": "Liriomyza schmidti",
+    "folder": "liriomyza_schmidti",
+    "confidence": "high",
+    "score": 2.188,
+    "original_file": "frog_8816105.jpg",
+    "sorted_path": "liriomyza_schmidti\\frog_8816105.jpg"
+  },
+  "frog_8816110.jpg": {
+    "common_name": "Green Tree Frog",
+    "scientific_name": "Pelodryas caerulea",
+    "folder": "green_tree_frog",
+    "confidence": "high",
+    "score": 79.732,
+    "original_file": "frog_8816110.jpg",
+    "sorted_path": "green_tree_frog\\frog_8816110.jpg"
+  },
+  "frog_8824684.jpg": {
+    "common_name": "Marsh Frog",
+    "scientific_name": "Pelophylax ridibundus",
+    "folder": "marsh_frog",
+    "confidence": "high",
+    "score": 30.21,
+    "original_file": "frog_8824684.jpg",
+    "sorted_path": "marsh_frog\\frog_8824684.jpg"
+  },
+  "frog_8852952.jpg": {
+    "common_name": "Yellow-spotted Tree Frog",
+    "scientific_name": "Boana albopunctata",
+    "folder": "yellow_spotted_tree_frog",
+    "confidence": "high",
+    "score": 22.558,
+    "original_file": "frog_8852952.jpg",
+    "sorted_path": "yellow_spotted_tree_frog\\frog_8852952.jpg"
+  },
+  "frog_8852967.jpg": {
+    "common_name": "Painted Tree Frog",
+    "scientific_name": "Tlalocohyla picta",
+    "folder": "painted_tree_frog",
+    "confidence": "high",
+    "score": 12.08,
+    "original_file": "frog_8852967.jpg",
+    "sorted_path": "painted_tree_frog\\frog_8852967.jpg"
+  },
+  "frog_8853007.jpg": {
+    "common_name": "Spot-legged Tree Frog",
+    "scientific_name": "Polypedates megacephalus",
+    "folder": "spot_legged_tree_frog",
+    "confidence": "high",
+    "score": 28.656,
+    "original_file": "frog_8853007.jpg",
+    "sorted_path": "spot_legged_tree_frog\\frog_8853007.jpg"
+  },
+  "frog_8891973.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 61.875,
+    "original_file": "frog_8891973.jpg",
+    "sorted_path": "european_common_frog\\frog_8891973.jpg"
+  },
+  "frog_8919559.jpg": {
+    "common_name": "Rio Grande Leopard Frog",
+    "scientific_name": "Lithobates berlandieri",
+    "folder": "rio_grande_leopard_frog",
+    "confidence": "high",
+    "score": 25.38,
+    "original_file": "frog_8919559.jpg",
+    "sorted_path": "rio_grande_leopard_frog\\frog_8919559.jpg"
+  },
+  "frog_8919560.jpg": {
+    "common_name": "Transverse Volcanic Leopard Frog",
+    "scientific_name": "Lithobates neovolcanicus",
+    "folder": "transverse_volcanic_leopard_frog",
+    "confidence": "high",
+    "score": 24.854,
+    "original_file": "frog_8919560.jpg",
+    "sorted_path": "transverse_volcanic_leopard_frog\\frog_8919560.jpg"
+  },
+  "frog_8921246.jpg": {
+    "common_name": "Pool Frog",
+    "scientific_name": "Pelophylax lessonae",
+    "folder": "pool_frog",
+    "confidence": "high",
+    "score": 37.722,
+    "original_file": "frog_8921246.jpg",
+    "sorted_path": "pool_frog\\frog_8921246.jpg"
+  },
+  "frog_9019355.jpg": {
+    "common_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "folder": "dyeing_poison_dart_frog",
+    "confidence": "high",
+    "score": 78.809,
+    "original_file": "frog_9019355.jpg",
+    "sorted_path": "dyeing_poison_dart_frog\\frog_9019355.jpg"
+  },
+  "frog_9105295.jpg": {
+    "common_name": "Green Tree Frog",
+    "scientific_name": "Pelodryas caerulea",
+    "folder": "green_tree_frog",
+    "confidence": "high",
+    "score": 23.219,
+    "original_file": "frog_9105295.jpg",
+    "sorted_path": "green_tree_frog\\frog_9105295.jpg"
+  },
+  "frog_9108695.jpg": {
+    "common_name": "Western Tree Frog",
+    "scientific_name": "Polypedates occidentalis",
+    "folder": "western_tree_frog",
+    "confidence": "high",
+    "score": 26.371,
+    "original_file": "frog_9108695.jpg",
+    "sorted_path": "western_tree_frog\\frog_9108695.jpg"
+  },
+  "frog_9112557.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 64.509,
+    "original_file": "frog_9112557.jpg",
+    "sorted_path": "american_toad\\frog_9112557.jpg"
+  },
+  "frog_9408389.jpg": {
+    "common_name": "Darwin's Frog",
+    "scientific_name": "Rhinoderma darwinii",
+    "folder": "darwins_frog",
+    "confidence": "high",
+    "score": 11.917,
+    "original_file": "frog_9408389.jpg",
+    "sorted_path": "darwins_frog\\frog_9408389.jpg"
+  },
+  "frog_9539356.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 72.384,
+    "original_file": "frog_9539356.jpg",
+    "sorted_path": "iberian_green_frog\\frog_9539356.jpg"
+  },
+  "frog_9542444.jpg": {
+    "common_name": "Montezuma Leopard Frog",
+    "scientific_name": "Lithobates montezumae",
+    "folder": "montezuma_leopard_frog",
+    "confidence": "high",
+    "score": 26.952,
+    "original_file": "frog_9542444.jpg",
+    "sorted_path": "montezuma_leopard_frog\\frog_9542444.jpg"
+  },
+  "frog_955798.jpg": {
+    "common_name": "Human",
+    "scientific_name": "Homo sapiens",
+    "folder": "human",
+    "confidence": "high",
+    "score": 4.822,
+    "original_file": "frog_955798.jpg",
+    "sorted_path": "human\\frog_955798.jpg"
+  },
+  "frog_96131.jpg": {
+    "common_name": "Iberian Green Frog",
+    "scientific_name": "Pelophylax perezi",
+    "folder": "iberian_green_frog",
+    "confidence": "high",
+    "score": 7.17,
+    "original_file": "frog_96131.jpg",
+    "sorted_path": "iberian_green_frog\\frog_96131.jpg"
+  },
+  "frog_9713972.jpg": {
+    "common_name": "American Toad",
+    "scientific_name": "Anaxyrus americanus",
+    "folder": "american_toad",
+    "confidence": "high",
+    "score": 2.573,
+    "original_file": "frog_9713972.jpg",
+    "sorted_path": "american_toad\\frog_9713972.jpg"
+  },
+  "frog_9887828.jpg": {
+    "common_name": "European Common Frog",
+    "scientific_name": "Rana temporaria",
+    "folder": "european_common_frog",
+    "confidence": "high",
+    "score": 71.693,
+    "original_file": "frog_9887828.jpg",
+    "sorted_path": "european_common_frog\\frog_9887828.jpg"
+  },
+  "frog_9890923.jpg": {
+    "common_name": "Margined Reed Frog",
+    "scientific_name": "Hyperolius marginatus",
+    "folder": "margined_reed_frog",
+    "confidence": "high",
+    "score": 71.123,
+    "original_file": "frog_9890923.jpg",
+    "sorted_path": "margined_reed_frog\\frog_9890923.jpg"
+  }
+}
