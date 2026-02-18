@@ -16,7 +16,6 @@ dotenv.config();
 // ----------------------------
 // CONFIG
 // ----------------------------
-const PHROG_FOLDER = "./phrogs";
 const PHROG_INAT_FOLDER = "./phrogs_inat";
 const PHROG_REPORT_LIMIT = 3;
 const PHROG_COOLDOWN_MS = 10 * 60 * 1000; // 10 minutes
@@ -81,51 +80,29 @@ client.on("messageCreate", async (message) => {
   /* ---------- !phrog ---------- */
   if (msg === "!phrog") {
     try {
-      // Choose between Pexels folder and iNaturalist folder
-      const useInat = Math.random() > 0.5 && fs.existsSync(PHROG_INAT_FOLDER);
-      let randomFile, filePath, meta;
+      // Pick random species folder
+      const speciesFolders = fs.readdirSync(PHROG_INAT_FOLDER, { withFileTypes: true })
+        .filter(dirent => dirent.isDirectory())
+        .map(dirent => dirent.name);
 
-      if (useInat) {
-        // Pick random species folder
-        const speciesFolders = fs.readdirSync(PHROG_INAT_FOLDER, { withFileTypes: true })
-          .filter(dirent => dirent.isDirectory())
-          .map(dirent => dirent.name);
-
-        if (speciesFolders.length === 0) {
-          throw new Error("No species folders found in phrogs_inat");
-        }
-
-        const randomSpecies = speciesFolders[Math.floor(Math.random() * speciesFolders.length)];
-        const speciesPath = path.join(PHROG_INAT_FOLDER, randomSpecies);
-
-        const files = fs.readdirSync(speciesPath).filter(file =>
-          /\.(png|jpe?g|gif|webp)$/i.test(file)
-        );
-
-        if (files.length === 0) {
-          throw new Error(`No images found in ${randomSpecies}`);
-        }
-
-        randomFile = files[Math.floor(Math.random() * files.length)];
-        filePath = path.join(speciesPath, randomFile);
-        meta = inatManifest[randomFile] || {};
-      } else {
-        const files = fs.readdirSync(PHROG_FOLDER).filter(file =>
-          /\.(png|jpe?g|gif|webp)$/i.test(file)
-        );
-
-        if (files.length === 0) {
-          await message.reply("No phrogs found 😭");
-          return;
-        }
-
-        randomFile = files[Math.floor(Math.random() * files.length)];
-        filePath = path.join(PHROG_FOLDER, randomFile);
-
-        const idMatch = randomFile.match(/frog_(\d+)\./);
-        const id = idMatch ? idMatch[1] : null;
-        meta = phrogMetadata[id] || {};
+      if (speciesFolders.length === 0) {
+        throw new Error("No species folders found in phrogs_inat");
       }
+
+      const randomSpecies = speciesFolders[Math.floor(Math.random() * speciesFolders.length)];
+      const speciesPath = path.join(PHROG_INAT_FOLDER, randomSpecies);
+
+      const files = fs.readdirSync(speciesPath).filter(file =>
+        /\.(png|jpe?g|gif|webp)$/i.test(file)
+      );
+
+      if (files.length === 0) {
+        throw new Error(`No images found in ${randomSpecies}`);
+      }
+
+      const randomFile = files[Math.floor(Math.random() * files.length)];
+      const filePath = path.join(speciesPath, randomFile);
+      const meta = inatManifest[randomFile] || {};
 
       const embed = new EmbedBuilder()
         .setTitle("🐸 Random Phrog")
@@ -152,8 +129,6 @@ client.on("messageCreate", async (message) => {
       if (sciName) {
         embed.addFields({ name: "Scientific Name", value: `*${sciName}*`, inline: true });
       }
-
-      // Facts removed as per user request (they don't have to have a fact show up)
 
       const row = new ActionRowBuilder().addComponents(
         new ButtonBuilder()
